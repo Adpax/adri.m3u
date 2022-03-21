@@ -1,11 +1,10 @@
 # adri.m3u
-acestream://85269254e0e68696e0cfa52052d82c7d76302d26
-acestream://17f465de0059be5b0d7f92f982414862df62fa46
-acestream://6a8f049a502fd77deae06cc91305062555af76e3
 #Liga Tv Bar 1080
 acestream://268361065992567230d35c0d62f02ffdebe8be2d
 # La Liga 1080 MultiAudio
 acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1
+#peli
+acestream://6a8f049a502fd77deae06cc91305062555af76e3
 #.La Liga 720 
 acestream://0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d
 #M. La Liga 1 1080
