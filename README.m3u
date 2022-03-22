@@ -19,7 +19,11 @@ acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
 acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
 #SPORTV 1 update 
 acestream://304f4331286501c5a373a71391b8225900ff7849
-#EXTINF:-1
+#EXTINF:-1,|SP| TVE La1
+http://red.ipfox.org:8080/1234/12345678/2507
+#EXTINF:-1,|SP| 
+http://red.ipfox.org:8080/1234/12345678/2507
+#EXTINF:-1,TVE La1
 http://red.ipfox.org:8080/1234/12345678/2507
 #EXTINF:-1,|SP| TVE La2
 http://red.ipfox.org:8080/1234/12345678/2506
