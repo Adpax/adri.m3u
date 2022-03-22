@@ -1,4 +1,12 @@
 # adri.m3
+#canal 0 1080
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#M. golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#Vamos 1080
+acestream://2dbea1288c3bad4a8faab395249fb5e5edfde4b6
+#Vamos sd
+acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
 #uDAZN 1 1080  update
 acestream://4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0
 acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
@@ -11,8 +19,7 @@ acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
 acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
 #SPORTV 1 update 
 acestream://304f4331286501c5a373a71391b8225900ff7849
-#EXTM3U
-#EXTINF:-1,|SP| TVE La1
+#SPORTV
 http://red.ipfox.org:8080/1234/12345678/2507
 #EXTINF:-1,|SP| TVE La2
 http://red.ipfox.org:8080/1234/12345678/2506
