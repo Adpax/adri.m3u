@@ -1,4 +1,44 @@
 # adri.m3
+#SPORTV 2
+acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+#SPORTV 3
+acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
+#DAZN1 
+acestream://e378fc79083c3a72b5b0ca59d7770d921e168888
+#M. Deportes 1 1080
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+acestream://85bd65161dfd8c4033194da3c978c0450c9111db
+acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae                                                                                                                                                                
+#M.LaLiga  
+acestream://a4f4ad23856aef23c98ca68b7de0a2bb0864236a
+acestream://59c95c0f30d265c541d9ef163f652b9542bc0b4b
+#.LaLiga_1 
+acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
+acestream://8bc3ca34cd9c538e4047e0fe3001fe53b2ac2073
+#.Liga Campeones 
+acestream://4390a127822f6122f0a471d86e9c11185989feb0
+#M.Liga Campeones_1 
+acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
+# Deportes 
+acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
+#Vamos 
+acestream://39592ff924c626fb4a6e80fb67eb24a551afd47a
+#DAZN_
+acestream://c00688c87b642ec0c50067221685b1966705106a
+acestream://509de9b6932fd970c09a1d7dce9ef077984eb9d6
+DAZN_1 
+acestream://c51a1fe43842de6cb5e12f543c05f15a9a642663
+DAZN_2 
+acestream://5d5ec96d976d6532d30edde5cd6d04e9f5916182
+SportTv_1 
+acestream://e8f5f847f3a3380c37c6a1dbfa87619d4e944ed8
+SportTv_2  
+acestream://60c39884f16c7b7b676618a4b100124547b3d320
+#SportTv_3 
+acestream://10b55222246760a06dd1d4f9ce3a9d86b1c97ab6 
+#TUDN  
+acestream://c32adec51b796a58fc484f99456b035cde188c2a
+acestream://597c07bd56b65779a55b08878b236d8deab6297b
 #canal 0 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #M. golf 1080
@@ -19,169 +59,6 @@ acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
 acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
 #SPORTV 1 update 
 acestream://304f4331286501c5a373a71391b8225900ff7849
-#EXTINF:-1,|SP| TVE La1
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/2507.m3u8
-#EXTINF:-1,TVE La1
-http://red.ipfox.org:8080/1234/12345678/2507
-#EXTINF:-1,|SP| TVE La2
-http://red.ipfox.org:8080/1234/12345678/2506
-#EXTINF:-1,|SP| AXN HD
-http://red.ipfox.org:8080/1234/12345678/2577
-#EXTINF:-1,|SP| AXN White
-http://red.ipfox.org:8080/1234/12345678/2576
-#EXTINF:-1,|SP| AMC HD
-http://red.ipfox.org:8080/1234/12345678/2580
-#EXTINF:-1,|SP| Movistar Series
-http://red.ipfox.org:8080/1234/12345678/2529
-#EXTINF:-1,|SP| Movistar Series Xtra
-http://red.ipfox.org:8080/1234/12345678/2528
-#EXTINF:-1,|SP| Movistar Comedia
-http://red.ipfox.org:8080/1234/12345678/2534
-#EXTINF:-1,|SP| Movistar Estrenos
-http://red.ipfox.org:8080/1234/12345678/2531
-#EXTINF:-1,|SP| Movistar Deportes 1
-http://red.ipfox.org:8080/1234/12345678/2533
-#EXTINF:-1,|SP| Movistar Deportes 2
-http://red.ipfox.org:8080/1234/12345678/2532
-#EXTINF:-1,|SP| ACCION HD
-http://red.ipfox.org:8080/1234/12345678/2582
-#EXTINF:-1,|SP| TELE Cinco
-http://red.ipfox.org:8080/1234/12345678/2512
-#EXTINF:-1,|SP| Fox HD
-http://red.ipfox.org:8080/1234/12345678/2549
-#EXTINF:-1,|SP| Fox Life
-http://red.ipfox.org:8080/1234/12345678/2548
-#EXTINF:-1,|SP| SYFY HD
-http://red.ipfox.org:8080/1234/12345678/2515
-#EXTINF:-1,|SP| Sundance TV
-http://red.ipfox.org:8080/1234/12345678/2516
-#EXTINF:-1,|SP| Comedy Central
-http://red.ipfox.org:8080/1234/12345678/2563
-#EXTINF:-1,|SP| Paramount HD
-http://red.ipfox.org:8080/1234/12345678/2518
-#EXTINF:-1,|SP| Barca TV
-http://red.ipfox.org:8080/1234/12345678/2574
-#EXTINF:-1,|SP| Real Madrid TV
-http://red.ipfox.org:8080/1234/12345678/2517
-#EXTINF:-1,|SP| Gol TV
-http://red.ipfox.org:8080/1234/12345678/2545
-#EXTINF:-1,|SP| Moviestar La Liga 1
-http://red.ipfox.org:8080/1234/12345678/2546
-#EXTINF:-1,|SP| Formula 1 HD
-http://red.ipfox.org:8080/1234/12345678/2550
-#EXTINF:-1,|SP| Disney XD
-http://red.ipfox.org:8080/1234/12345678/2554
-#EXTINF:-1,|SP| Disney Junior
-http://red.ipfox.org:8080/1234/12345678/2555
-#EXTINF:-1,|SP| Disney Channel
-http://red.ipfox.org:8080/1234/12345678/2556
-#EXTINF:-1,|SP| Boing HD
-http://red.ipfox.org:8080/1234/12345678/2572
-#EXTINF:-1,|SP| Baby TV
-http://red.ipfox.org:8080/1234/12345678/2575
-#EXTINF:-1,|SP| Nick Jr
-http://red.ipfox.org:8080/1234/12345678/2521
-#EXTINF:-1,|SP| Clan TVE
-http://red.ipfox.org:8080/1234/12345678/2565
-#EXTINF:-1,|SP| Caza y Pesca
-http://red.ipfox.org:8080/1234/12345678/2566
-#EXTINF:-1,|SP| Canal sur A
-http://red.ipfox.org:8080/1234/12345678/2567
-#EXTINF:-1,|SP| Canal Panda
-http://red.ipfox.org:8080/1234/12345678/2568
-#EXTINF:-1,|SP| Canal Cocina
-http://red.ipfox.org:8080/1234/12345678/2569
-#EXTINF:-1,|SP| Canal 24 Horas
-http://red.ipfox.org:8080/1234/12345678/2570
-#EXTINF:-1,|SP| Calle 13
-http://red.ipfox.org:8080/1234/12345678/2571
-#EXTINF:-1,|SP| Toros TV
-http://red.ipfox.org:8080/1234/12345678/2508
-#EXTINF:-1,|SP| TNT HD
-http://red.ipfox.org:8080/1234/12345678/2509
-#EXTINF:-1,|SP| Tele Sur
-http://red.ipfox.org:8080/1234/12345678/2510
-#EXTINF:-1,|SP| TELE Deporte
-http://red.ipfox.org:8080/1234/12345678/2511
-#EXTINF:-1,|SP| TCM HD
-http://red.ipfox.org:8080/1234/12345678/2513
-#EXTINF:-1,|SP| Odisea HD
-http://red.ipfox.org:8080/1234/12345678/2519
-#EXTINF:-1,|SP| Neox HD
-http://red.ipfox.org:8080/1234/12345678/2523
-#EXTINF:-1,|SP| Nova Spain
-http://red.ipfox.org:8080/1234/12345678/2520
-#EXTINF:-1,|SP| Discovery Channel
-http://red.ipfox.org:8080/1234/12345678/2557
-#EXTINF:-1,|SP| Nat Geo Wild
-http://red.ipfox.org:8080/1234/12345678/2524
-#EXTINF:-1,|SP| Nat Geo HD
-http://red.ipfox.org:8080/1234/12345678/2525
-#EXTINF:-1,|SP| MTV HD
-http://red.ipfox.org:8080/1234/12345678/2527
-#EXTINF:-1,|SP| Aragon TV
-http://red.ipfox.org:8080/1234/12345678/2578
-#EXTINF:-1,|SP| Antena 3 HD
-http://red.ipfox.org:8080/1234/12345678/2579
-#EXTINF:-1,|SP| Mezzo Live HD
-http://red.ipfox.org:8080/1234/12345678/2537
-#EXTINF:-1,|SP| La Sexta HD
-http://red.ipfox.org:8080/1234/12345678/2538
-#EXTINF:-1,|SP| Iberalia TV
-http://red.ipfox.org:8080/1234/12345678/2540
-#EXTINF:-1,|SP| Hollywood HD
-http://red.ipfox.org:8080/1234/12345678/2542
-#EXTINF:-1,|SP| Historia HD
-http://red.ipfox.org:8080/1234/12345678/2543
-#EXTINF:-1,|SP| Hash 0 HD
-http://red.ipfox.org:8080/1234/12345678/2544
-#EXTINF:-1,|SP| Energy HD
-http://red.ipfox.org:8080/1234/12345678/2552
-#EXTINF:-1,|SP| Divinity HD
-http://red.ipfox.org:8080/1234/12345678/2553
-#EXTINF:-1,|SP| Decasa HD
-http://red.ipfox.org:8080/1234/12345678/2558
-#EXTINF:-1,|SP| Cuatro HD
-http://red.ipfox.org:8080/1234/12345678/2560
-#EXTINF:-1,|SP| Crimen Investigacion
-http://red.ipfox.org:8080/1234/12345678/2561
-#EXTINF:-1,|SP| Cosmo  TV
-http://red.ipfox.org:8080/1234/12345678/2562
-#EXTINF:-1,|SP| Classica Europe
-http://red.ipfox.org:8080/1234/12345678/2564
-#EXTINF:-1,|SP| Dazn 4 HD
-http://red.ipfox.org:8080/1234/12345678/36210
-#EXTINF:-1,|SP| Dazn 3 HD
-http://red.ipfox.org:8080/1234/12345678/36209
-#EXTINF:-1,|SP| Dazn 2 HD
-http://red.ipfox.org:8080/1234/12345678/36208
-#EXTINF:-1,|SP| Dazn 1 HD
-http://red.ipfox.org:8080/1234/12345678/36207
-#EXTINF:-1,|SP| Eurosport 2
-http://red.ipfox.org:8080/1234/12345678/36206
-#EXTINF:-1,|SP| Eurosport 1
-http://red.ipfox.org:8080/1234/12345678/36205
-#EXTINF:-1,|SP| TVE Internacional
-http://red.ipfox.org:8080/1234/12345678/36202
-#EXTINF:-1,|SP| Galicia TV
-http://red.ipfox.org:8080/1234/12345678/36200
-#EXTINF:-1,|SP| Vamos HD
-http://red.ipfox.org:8080/1234/12345678/36199
-#EXTINF:-1,|SP| Blaze
-http://red.ipfox.org:8080/1234/12345678/36198
-#EXTINF:-1,|SP| FDF HD
-http://red.ipfox.org:8080/1234/12345678/36197
-#EXTINF:-1,|SP| Moviestar Doc&roll
-http://red.ipfox.org:8080/1234/12345678/36196
-#EXTINF:-1,|SP| Moviestar Series Mania
-http://red.ipfox.org:8080/1234/12345678/36195
-#EXTINF:-1,|SP| Moviestar Drama
-http://red.ipfox.org:8080/1234/12345678/36194
-#EXTINF:-1,|SP| Moviestar Campeon 2
-http://red.ipfox.org:8080/1234/12345678/36192
-#EXTINF:-1,|SP| Moviestar Campeon 1
-http://red.ipfox.org:8080/1234/12345678/36191
-#DAZN 1 1080  update
 #Liga Tv Bar 
 acestream://268361065992567230d35c0d62f02ffdebe8be2d
 # La Liga 1080 MultiAudio
