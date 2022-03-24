@@ -1,136 +1,131 @@
-# adri.m3
+#EXTM3U
+#EXTINF:-1,|SP| Lista Adri wellcome pulsa siguiente para pasar de canal
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#SPORTV 2
-acestream://75bb9c74eecbd508a30b3f308f62938180062c6d
-#SPORTV 3
+#EXTINF:-1,|SP|  DAZN1 
 acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
-#DAZN1 
-acestream://e378fc79083c3a72b5b0ca59d7770d921e168888
-#M. Deportes 1 1080
-acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
-acestream://85bd65161dfd8c4033194da3c978c0450c9111db
-acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae                                                                                                                                                                
-#M.LaLiga  
-acestream://a4f4ad23856aef23c98ca68b7de0a2bb0864236a
-acestream://59c95c0f30d265c541d9ef163f652b9542bc0b4b
-#.LaLiga_1 
-acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
-acestream://8bc3ca34cd9c538e4047e0fe3001fe53b2ac2073
-#.Liga Campeones 
-acestream://4390a127822f6122f0a471d86e9c11185989feb0
-#M.Liga Campeones_1 
-acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
-# Deportes 
-acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
-#Vamos 
-acestream://39592ff924c626fb4a6e80fb67eb24a551afd47a
-#DAZN_
-acestream://c00688c87b642ec0c50067221685b1966705106a
-acestream://509de9b6932fd970c09a1d7dce9ef077984eb9d6
-DAZN_1 
-acestream://c51a1fe43842de6cb5e12f543c05f15a9a642663
-DAZN_2 
-acestream://5d5ec96d976d6532d30edde5cd6d04e9f5916182
-SportTv_1 
-acestream://e8f5f847f3a3380c37c6a1dbfa87619d4e944ed8
-SportTv_2  
-acestream://60c39884f16c7b7b676618a4b100124547b3d320
-#SportTv_3 
-acestream://10b55222246760a06dd1d4f9ce3a9d86b1c97ab6 
-#TUDN  
-acestream://c32adec51b796a58fc484f99456b035cde188c2a
-acestream://597c07bd56b65779a55b08878b236d8deab6297b
-#canal 0 1080
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#M. golf 1080
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#Vamos 1080
-acestream://2dbea1288c3bad4a8faab395249fb5e5edfde4b6
-#Vamos sd
-acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
-#uDAZN 1 1080  update
-acestream://4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0
-acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
+#EXTINF:-1,|SP|  DAZN1 
 acestream://abfad7e2865448702e4abd46bbcae01c04daab5f
-#DAZN 2 1080 update
+#EXTINF:-1,|SP|  M. Deportes 1 1080
+acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6                                                                                                                                                              
+#EXTINF:-1,|SP|  M.LaLiga  
+acestream://a4f4ad23856aef23c98ca68b7de0a2bb0864236a
+#EXTINF:-1,|SP|  .LaLiga_1 
+acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
+#EXTINF:-1,|SP|  .LaLiga_6
+acestream://8bc3ca34cd9c538e4047e0fe3001fe53b2ac2073
+#EXTINF:-1,|SP|  .Liga Campeones 
+acestream://4390a127822f6122f0a471d86e9c11185989feb0
+#EXTINF:-1,|SP|  M.Liga Campeones_1 
+acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
+#EXTINF:-1,|SP|  M.Liga Campeones_3
+acestream://cb88f1f9d2fb881f2569eeff16d052bebc1eec40
+#EXTINF:-1,|SP|  M.Liga Campeones_4
+acestream://00e59d3b53a7e6d4ab636c04aed9803f391da03f
+#EXTINF:-1,|SP|   Deportes 
+acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
+#EXTINF:-1,|SP|  Vamos 
+acestream://ffc077d6cc2acd501c539b51b9c4fbc106b369c3
+#EXTINF:-1,|SP|  DAZN_
+acestream://c00688c87b642ec0c50067221685b1966705106a
+#EXTINF:-1,|SP|  DAZN_2
 acestream://b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
-#DAZN 3  1080 update
-acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
-#DAZN 4 1080 update
-acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
-#SPORTV 1 update 
-acestream://304f4331286501c5a373a71391b8225900ff7849
-#Liga Tv Bar 
-acestream://268361065992567230d35c0d62f02ffdebe8be2d
-# La Liga 1080 MultiAudio
-acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1
-#.La Liga 720 
-acestream://0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d
-#M. La Liga 1 1080
-acestream://4477859c90e843d5557297d8e27b64783baeaa29
-#.La Liga 2 1080
-acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
-#.La Liga 3 1080
-acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440
-# Vamos 1080
-acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
-#VAMOS 720
-acestream://540566088cacb110e5321b3bf8b239680fac01c8
-#. Deportes 1080
+#EXTINF:-1,|SP| DAZN_1 
+acestream://c51a1fe43842de6cb5e12f543c05f15a9a642663
+#EXTINF:-1,|SP| DAZN_2 
+acestream://5d5ec96d976d6532d30edde5cd6d04e9f5916182
+#EXTINF:-1,|SP| SportTv_1 
+acestream://e8f5f847f3a3380c37c6a1dbfa87619d4e944ed8
+#EXTINF:-1,|SP| SportTv_2  
+acestream://60c39884f16c7b7b676618a4b100124547b3d320
+#EXTINF:-1,|SP|  SportTv_3 
+acestream://10b55222246760a06dd1d4f9ce3a9d86b1c97ab6 
+#EXTINF:-1,|SP|  TUDN  
+acestream://c32adec51b796a58fc484f99456b035cde188c2a
+#EXTINF:-1,|SP|  TUDN  3
+acestream://597c07bd56b65779a55b08878b236d8deab6297b
+#EXTINF:-1,|SP|  canal 0 1080
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1,|SP|  M. golf 1080
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1,|SP|  Vamos 1080
+acestream://2dbea1288c3bad4a8faab395249fb5e5edfde4b6
+#EXTINF:-1,|SP|  Vamos sd
+acestream://0fdcd632dc776bc44ab2f474a6d079820d80132f
+#EXTINF:-1,|SP|  uDAZN 1 1080  update
+acestream://4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0
+#EXTINF:-1,|SP|  uDAZN 2 1080  update
 acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
-#M. Deportes 1 1080
-acestream://b2c349035181772990ef2acba88a582833667f88
-#M. Deportes 2 1080
-acestream://ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6
-#M. Deportes 3 SD
-acestream://d357998908bf0986f5ae2714e0ef471d2e74ceca
-#M. Deportes 4 SD
-acestream://a88195215f9b6e38bf6363d28bfe84000a12d46a
-#M. Liga de Campeones 1080
-acestream://3484a8b98af044d885fdc5f77e6e46a1506cbcf6
-#M. Liga de Campeones 720
-acestream://d7af0bb93ed089d3b1cd733feb7372305126aabc
-#M. Liga de Campeones 1 1080
-acestream://836b3aa3e4dfef6b02479a9df15b464cbbef9d26
-#M. Liga de Campeones 1  720
-acestream://b9cc8b9cc719992677637b1b7e9dbf871a638181  
-#M. Liga de Campeones 2 1080
-acestream://3e35e555174b8bbfa642cf88c5a9ab4ee401f350
-#M. Liga de Campeones 3 1080
-acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
-#DAZN 1 1080
-acestream://3fa73a810166f4ad4c5017351e723a5c6cf910c2
-#DAZN 2 1080
-acestream://872d02418a60d3fd48b2c0da19b57b7c00550e15
-#DAZN 3 1080
+#EXTINF:-1,|SP|  uDAZN 3 1080  update
+acestream://abfad7e2865448702e4abd46bbcae01c04daab5f
+#EXTINF:-1,|SP|  DAZN 2 1080 update
+acestream://b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
+#EXTINF:-1,|SP|  DAZN 3  1080 update
 acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
-#DAZN 4 1080
-acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
-#DAZN F1 1080 (Fórmula 1)
-acestream://1859c0cd3acc2cd17971be7a6425edf9b98ffdf6
-#DAZN F1 720 (Fórmula 1)
-acestream://da465079d5b418a3cac268314dd0b39cb28c88e7
-#GOL TV 1080
-acestream://6a8f049a502fd77deae06cc91305062555af76e3
-acestream://5d330dc46d4e24a8db88ab9945c0595883bd280e
-acestream://4a7fe5b8b49cfd6a2e4f66713bc6a8c506c2159b
-acestream://15894eb997a5a8fcbff7aeba0484208c043f9bef
-acestream://b6035d6c3e25776479b5000ece8a080dd8b4c679
-acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
-acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e
-acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
-acestream://6f292be252c8a3288de090a1243a8ab03f1e5288
-#M.La Liga 2 1080
-acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
-# Vamos 1080
-acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
-# VAMOS 720
-acestream://540566088cacb110e5321b3bf8b239680fac01c8
-#LIGA 1080
-acestream://e378fc79083c3a72b5b0ca59d7770d921e168888
-#LIGA 1080e
+#EXTINF:-1,|SP|  DAZN 4 1080 update
+acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
+#EXTINF:-1,|SP|  SPORTV 1 update 
+acestream://304f4331286501c5a373a71391b8225900ff7849
+#EXTINF:-1,|SP|  Liga Tv Bar 
+acestream://268361065992567230d35c0d62f02ffdebe8be2d
+#EXTINF:-1,|SP|   La Liga 1080 MultiAudio
+acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1
+#EXTINF:-1,|SP|  .La Liga 720 
+acestream://0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d
+#EXTINF:-1,|SP|  M. La Liga 1 1080
 acestream://4477859c90e843d5557297d8e27b64783baeaa29
-#LIGA 1080h
+#EXTINF:-1,|SP|  .La Liga 2 1080
 acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
-#LIGA 1080
+#EXTINF:-1,|SP|  .La Liga 3 1080
+acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440
+#EXTINF:-1,|SP|   Vamos 1080
+acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
+#EXTINF:-1,|SP|  VAMOS 720
+acestream://540566088cacb110e5321b3bf8b239680fac01c8
+#EXTINF:-1,|SP|  . Deportes 1080
+acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
+#EXTINF:-1,|SP|  M. Deportes 1 1080
+acestream://b2c349035181772990ef2acba88a582833667f88
+#EXTINF:-1,|SP|  M. Deportes 2 1080
+acestream://ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6
+#EXTINF:-1,|SP|  M. Deportes 3 SD
+acestream://d357998908bf0986f5ae2714e0ef471d2e74ceca
+#EXTINF:-1,|SP|  M. Deportes 4 SD
+acestream://a88195215f9b6e38bf6363d28bfe84000a12d46a
+#EXTINF:-1,|SP|  M. Liga de Campeones 1080
+acestream://3484a8b98af044d885fdc5f77e6e46a1506cbcf6
+#EXTINF:-1,|SP|  M. Liga de Campeones 720
+acestream://d7af0bb93ed089d3b1cd733feb7372305126aabc
+#EXTINF:-1,|SP|  M. Liga de Campeones 1 1080
+acestream://836b3aa3e4dfef6b02479a9df15b464cbbef9d26
+#EXTINF:-1,|SP|  M. Liga de Campeones 1  720
+acestream://b9cc8b9cc719992677637b1b7e9dbf871a638181  
+#EXTINF:-1,|SP|  M. Liga de Campeones 2 1080
+acestream://3e35e555174b8bbfa642cf88c5a9ab4ee401f350
+#EXTINF:-1,|SP|  M. Liga de Campeones 3 1080
+acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
+#EXTINF:-1,|SP|  DAZN 1 1080
+acestream://3fa73a810166f4ad4c5017351e723a5c6cf910c2
+#EXTINF:-1,|SP|  DAZN 2 1080
+acestream://872d02418a60d3fd48b2c0da19b57b7c00550e15
+#EXTINF:-1,|SP|  DAZN 3 1080
+acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
+#EXTINF:-1,|SP|  DAZN 4 1080
+acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
+#EXTINF:-1,|SP|  DAZN F1 1080 (Fórmula 1)
+acestream://1859c0cd3acc2cd17971be7a6425edf9b98ffdf6
+#EXTINF:-1,|SP|  DAZN F1 720 (Fórmula 1)
+acestream://da465079d5b418a3cac268314dd0b39cb28c88e7
+#EXTINF:-1,|SP|  M.La Liga 2 1080
+acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
+#EXTINF:-1,|SP|   Vamos 1080
+acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
+#EXTINF:-1,|SP|   VAMOS 720
+acestream://540566088cacb110e5321b3bf8b239680fac01c8
+#EXTINF:-1,|SP|  LIGA 1080
+acestream://e378fc79083c3a72b5b0ca59d7770d921e168888
+#EXTINF:-1,|SP|  LIGA 1080e
+acestream://4477859c90e843d5557297d8e27b64783baeaa29
+#EXTINF:-1,|SP|  LIGA 1080h
+acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
+#EXTINF:-1,|SP|  LIGA 1080
 acestream://100461294df29635ad81a5c8890f7a3dbdb875d4
