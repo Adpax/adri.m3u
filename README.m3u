@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, F1 1080 , F1 1080 
+acestream://9ddf64cab26efc80aef43eaf15caa01943bd534a
+#EXTINF:-1, F1 1080 , F1 1080 
+acestream://0eb963333f8561e07fc2bd099deacccbdf317b8d
+#EXTINF:-1, F1 dazn F1 SD  , F1 dazn F1 SD 
+acestream://4a03e14ec4e40afce24781e7c54ba9e3575dfe0a
+#EXTINF:-1,externo2, externo2
+acestream://60c39884f16c7b7b676618a4b100124547b3d320
+#EXTINF:-1,externo1, externo1
+acestream://f80249a2127534a95639ad5a23033ee831b31954
 #EXTINF:-1,|SP| Lista Adri wellcome pulsa siguiente para pasar de canal
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome pulsa siguiente para pasar de canal
