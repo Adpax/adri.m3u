@@ -1,4 +1,232 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="ESPAÑA",AXN HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73005
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="ESPAÑA",ANTENA 3 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73039
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://134.255.234.197/logos/cuatrohd.png" group-title="ESPAÑA",CUATRO HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73038
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://134.255.234.197/logos/telecincohd.png" group-title="ESPAÑA",TELECINCO HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73037
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="ESPAÑA",LA SEXTA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73036
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="ESPAÑA",TV GALICIA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73023
+#EXTINF:-1 tvg-id="canalsureales" tvg-name="CANAL SUR A." tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="ESPAÑA",CANAL SUR
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73035
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ARAGON TV INT" tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="ESPAÑA",ARAGON TV INT
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73027
+#EXTINF:-1 tvg-id="fdf.es" tvg-name="FDF" tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="ESPAÑA",FDF
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73034
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="http://134.255.234.197/logos/energy.png" group-title="ESPAÑA",ENERGY
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73033
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="ESPAÑA",DIVINITY
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73032
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://134.255.234.197/logos/neox.png" group-title="ESPAÑA",NEOX
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73019
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="http://134.255.234.197/logos/nova.png" group-title="ESPAÑA",NOVA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73026
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://134.255.234.197/logos/mega.png" group-title="ESPAÑA",MEGA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73031
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="ESPAÑA",BE MAD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73030
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRE SERIES" tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="ESPAÑA",ATRE SERIES HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73020
+#EXTINF:-1 tvg-id="xtrmovistares" tvg-name="XTRM" tvg-logo="http://134.255.234.197/logos/xtrm.png" group-title="ESPAÑA",XTRM HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73021
+#EXTINF:-1 tvg-id="hashtag0.es" tvg-name="0" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="ESPAÑA",0 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73028
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="CANAL ORBE21" tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="ESPAÑA",CANAL ORBE21
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73025
+#EXTINF:-1 tvg-id="#vamos.es" tvg-name="#VAMOS" tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="ESPAÑA",#VAMOS HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73022
+#EXTINF:-1 tvg-id="canal24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="ESPAÑA",CANAL 24 HORAS
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73029
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",24 HORAS
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73024
+#EXTINF:-1 tvg-id="tveinternacional.es" tvg-name="TVE INTERNACIONAL" tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="ESPAÑA",TVE INTERNACIONAL HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73042
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://134.255.234.197/logos/amc.png" group-title="ESPAÑA",AMC HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73007
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://134.255.234.197/logos/axn.png" group-title="ESPAÑA",AXN
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73006
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="http://134.255.234.197/logos/axnwhitehd.png" group-title="ESPAÑA",AXN WHITE HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73004
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://134.255.234.197/logos/calle13hd.png" group-title="ESPAÑA",CALLE 13 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73003
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="http://134.255.234.197/logos/comedycentralhd.png" group-title="ESPAÑA",COMEDY CENTRAL HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73002
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://134.255.234.197/logos/cosmo.png" group-title="ESPAÑA",COSMO HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73001
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="http://134.255.234.197/logos/fox.png" group-title="ESPAÑA",FOX HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73000
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="FOX LIFE" tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="ESPAÑA",FOX LIFE
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72999
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="ESPAÑA",HOLLYWOOD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72998
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="ESPAÑA",PARAMOUNT CHANNEL
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72997
+#EXTINF:-1 tvg-id="sundancetv.es" tvg-name="SUNDANCE TV" tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="ESPAÑA",SUNDANCE TV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72996
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="ESPAÑA",SYFY HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72995
+#EXTINF:-1 tvg-id="tcmovistares" tvg-name="TCM" tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="ESPAÑA",TCM HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72994
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="ESPAÑA",TNT HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
+#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="ESPAÑA",CLASSICA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72992
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ALQUILER 1" tvg-logo="" group-title="ESPAÑA",ALQUILER 1
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97158
+#EXTINF:-1 tvg-id="alquiler2.es" tvg-name="ALQUILER 2" tvg-logo="" group-title="ESPAÑA",ALQUILER 2 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97157
+#EXTINF:-1 tvg-id="alquiler3.es" tvg-name="ALQUILER 3" tvg-logo="" group-title="ESPAÑA",ALQUILER 3 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97156
+#EXTINF:-1 tvg-id="alquiler4.es" tvg-name="ALQUILER 4" tvg-logo="" group-title="ESPAÑA",ALQUILER 4 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97155
+#EXTINF:-1 tvg-id="alquiler5.es" tvg-name="ALQUILER 5" tvg-logo="" group-title="ESPAÑA",ALQUILER 5 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97154
+#EXTINF:-1 tvg-id="alquiler6.es" tvg-name="ALQUILER 6" tvg-logo="" group-title="ESPAÑA",ALQUILER 6 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97153
+#EXTINF:-1 tvg-id="alquiler7.es" tvg-name="ALQUILER 7" tvg-logo="" group-title="ESPAÑA",ALQUILER 7 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97152
+#EXTINF:-1 tvg-id="alquiler8.es" tvg-name="ALQUILER 8" tvg-logo="" group-title="ESPAÑA",ALQUILER 8 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97151
+#EXTINF:-1 tvg-id="alquiler9.es" tvg-name="ALQUILER 9" tvg-logo="" group-title="ESPAÑA",ALQUILER 9 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97150
+#EXTINF:-1 tvg-id="alquiler10.es" tvg-name="ALQUILER 10" tvg-logo="" group-title="ESPAÑA",ALQUILER 10 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97149
+#EXTINF:-1 tvg-id="alquiler11.es" tvg-name="ALQUILER 11" tvg-logo="" group-title="ESPAÑA",ALQUILER 11 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97148
+#EXTINF:-1 tvg-id="alquiler12.es" tvg-name="ALQUILER 12" tvg-logo="" group-title="ESPAÑA",ALQUILER 12 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97147
+#EXTINF:-1 tvg-id="christmas+movies.es" tvg-name="CHRISTMAS+ MOVIES" tvg-logo="" group-title="ESPAÑA",CHRISTMAS+ MOVIES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97146
+#EXTINF:-1 tvg-id="netflix+movies.es" tvg-name="NETFLIX+ MOVIES" tvg-logo="" group-title="ESPAÑA",NETFLIX+ MOVIES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97145
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M.ACCION" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="ESPAÑA",M.ACCION HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73057
+#EXTINF:-1 tvg-id="movistarcineespanol.es" tvg-name="M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="ESPAÑA",M. CINE ESPANOL
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73056
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="ESPAÑA",M. COMEDIA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73055
+#EXTINF:-1 tvg-id="movistardrama.es" tvg-name="M.DRAMA" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="ESPAÑA",M.DRAMA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73054
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M.ESTRENOS" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="ESPAÑA",M.ESTRENOS HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73053
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M.SERIES" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="ESPAÑA",M.SERIES HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73052
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="M.SERIESMANIA" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="ESPAÑA",M.SERIESMANIA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73051
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="ESPAÑA",BLAZE
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72991
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="ESPAÑA",CANAL COCINA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72990
+#EXTINF:-1 tvg-id="canalcasa.es" tvg-name="CANAL DECASA" tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="ESPAÑA",CANAL DECASA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72989
+#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZAYPESCA" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="ESPAÑA",CAZAYPESCA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72988
+#EXTINF:-1 tvg-id="crimen+inves.es" tvg-name="CRIMEN+INVES" tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="ESPAÑA",CRIMEN+INVES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72987
+#EXTINF:-1 tvg-id="discovery.es" tvg-name="DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="ESPAÑA",DISCOVERY
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72986
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="ESPAÑA",HISTORIA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72985
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="ESPAÑA",IBERALIA TV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72984
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="ESPAÑA",NAT GEO HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72983
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPAÑA",NAT GEO WILD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72982
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPAÑA",NAT GEO WILD HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72981
+#EXTINF:-1 tvg-id="canalodisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="ESPAÑA",CANAL ODISEA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72980
+#EXTINF:-1 tvg-id="viajareales" tvg-name="VIAJAR" tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="ESPAÑA",VIAJAR HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72979
+#EXTINF:-1 tvg-id="vh1.es" tvg-name="VH1" tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="ESPAÑA",VH1
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72978
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV" tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="ESPAÑA",MTV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72977
+#EXTINF:-1 tvg-id="mtvdance.es" tvg-name="MTV DANCE" tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="ESPAÑA",MTV DANCE
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72976
+#EXTINF:-1 tvg-id="mezzolive.es" tvg-name="MEZZO LIVE" tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="ESPAÑA",MEZZO LIVE HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72975
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="ESPAÑA",MEZZO
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72974
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="ESPAÑA",BABY TV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73018
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="http://134.255.234.197/logos/boing.png" group-title="ESPAÑA",BOING
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73017
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="ESPAÑA",CLAN TVE
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73016
+#EXTINF:-1 tvg-id="disneych.es" tvg-name="DISNEY CH" tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="ESPAÑA",DISNEY CH HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73015
+#EXTINF:-1 tvg-id="disneyjreales" tvg-name="DISNEY JR" tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="ESPAÑA",DISNEY JR
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73014
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="ESPAÑA",DREAMWORKS
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73013
+#EXTINF:-1 tvg-id="nickjreales" tvg-name="NICK JR" tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="ESPAÑA",NICK JR
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73012
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON " tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="ESPAÑA",NICKELODEON  HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73011
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="ESPAÑA",CANAL PANDA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73010
+#EXTINF:-1 tvg-id="nick/mtv.es" tvg-name="NICK/MTV" tvg-logo="" group-title="ESPAÑA",NICK/MTV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73009
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="" group-title="ESPAÑA",DAZN 1
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97211
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="" group-title="ESPAÑA",DAZN 1 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96399
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="" group-title="ESPAÑA",DAZN 2
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97210
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="" group-title="ESPAÑA",DAZN 2 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96398
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="" group-title="ESPAÑA",DAZN 3
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97209
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="" group-title="ESPAÑA",DAZN 3 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96397
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4" tvg-logo="" group-title="ESPAÑA",DAZN 4
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97208
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN F1" tvg-logo="" group-title="ESPAÑA",DAZN F1
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97207
+#EXTINF:-1 tvg-id="movistarlaliga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="ESPAÑA",M.LALIGA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96415
+#EXTINF:-1 tvg-id="movistarlaliga1.es" tvg-name="M. LALIGA 1 (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="ESPAÑA",M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73081
+#EXTINF:-1 tvg-id="movistarlaliga1.es" tvg-name="M. LALIGA 1 (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ESPAÑA",M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96395
+#EXTINF:-1 tvg-id="movistarlaliga2.es" tvg-name="M. LALIGA 2 (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="ESPAÑA",M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73080
+#EXTINF:-1 tvg-id="movistarlaliga2.es" tvg-name="M. LALIGA 2 (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ESPAÑA",M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96394
+#EXTINF:-1 tvg-id="movistarlaliga3.es" tvg-name="M. LALIGA 3 (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga3.png" group-title="ESPAÑA",M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73079
+#EXTINF:-1 tvg-id="movistarlaliga3.es" tvg-name="M. LALIGA 3 (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ESPAÑA",M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96393
+#EXTINF:-1 tvg-id="movistarlcampeones.es" tvg-name="M.LCAMPEONES" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="ESPAÑA",M. LCAMPEONES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73102
+#EXTINF:-1 tvg-id="movistarlcampeones.es" tvg-name="M. LCAMPEONES" tvg-logo="" group-title="ESPAÑA",M. LCAMPEONES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97196
+#EXTINF:-1 tvg-id="movistarlcampeones.es" tvg-name="M.LCAMPEONES" tvg-logo="" group-title="ESPAÑA",M.LCAMPEONES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96416
+#EXTINF:-1 tvg-id="movistarlcampeon2.es" tvg-name="M. LCAMPEON 2" tvg-logo="" group-title="ESPAÑA",M. LCAMPEON 2
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97195
+#EXTINF:-1 tvg-id="movistarportes.es" tvg-name="M. DEPORTES" tvg-logo="" group-title="ESPAÑA",M. DEPORTES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97194
+#EXTINF:-1 tvg-id="movistarportes.es" tvg-name="M. DEPORTES" tvg-logo="" group-title="ESPAÑA",M. DEPORTES HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96410
+#EXTINF:-1 tvg-id="movistardeportes1.es" tvg-name="M.DEPORTES1" tvg-logo="" group-title="ESPAÑA",M.DEPORTES1 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96409
+#EXTINF:-1 tvg-id="movistarpartidazo.es" tvg-name="M.PARTIDAZO (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarpartidazo.png" group-title="ESPAÑA",M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73075
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="BEIN LALIGA" tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="ESPAÑA",BEIN LALIGA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73101
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="" group-title="ESPAÑA",EUROSPORT 1
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97190
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="ESPAÑA",EUROSPORT 1
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73099
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT1" tvg-logo="http://134.255.234.197/logos/eurosport1hd.png" group-title="ESPAÑA",EUROSPORT1 HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73100
 #EXTINF:-1 tvg-ID="3-67" tvg-name="XTRM ESPAÑA HD" tvg-logo="http://ww.telegran.net/data/movie-new/XTRM%20ESPAN%CC%83A%20HD.jpeg" group-title="Cine y Series",XTRM ESPAÑA HD
 http://23.237.78.11:7283/prdp06bdq6aazlbicuzq9gryih7j2mdpio33e28onhma6m4caolte456162ka5s9i/index.m3u8?un=jeanvinueza&tm=1648392741&sn=GgTomZNLEUbIF6VOcs15olr5OXS
 #EXTINF:-1 tvg-ID="3-68" tvg-name="EPIX 1 ESTE HD" tvg-logo="http://ww.telegran.net/data/movie-new/EPIX%201%20HD.jpg" group-title="Cine y Series",EPIX 1 ESTE HD
