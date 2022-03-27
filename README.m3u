@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="ESPAÑA",SYFY HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72995
-#EXTINF:-1 tvg-id="tcmovistares" tvg-name="TCM" tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="ESPAÑA",TCM HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72994
 #EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="ESPAÑA",TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="ESPAÑA",CLASSICA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72992
 #EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ALQUILER 1" tvg-logo="" group-title="ESPAÑA",ALQUILER 1
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97158
 #EXTINF:-1 tvg-id="alquiler2.es" tvg-name="ALQUILER 2" tvg-logo="" group-title="ESPAÑA",ALQUILER 2 HD
@@ -81,28 +77,8 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/72978
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72977
 #EXTINF:-1 tvg-id="mtvdance.es" tvg-name="MTV DANCE" tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="ESPAÑA",MTV DANCE
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72976
-#EXTINF:-1 tvg-id="mezzolive.es" tvg-name="MEZZO LIVE" tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="ESPAÑA",MEZZO LIVE HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72975
-#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="ESPAÑA",MEZZO
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72974
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="ESPAÑA",BABY TV
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73018
-#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="http://134.255.234.197/logos/boing.png" group-title="ESPAÑA",BOING
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73017
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="ESPAÑA",CLAN TVE
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73016
-#EXTINF:-1 tvg-id="disneych.es" tvg-name="DISNEY CH" tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="ESPAÑA",DISNEY CH HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73015
-#EXTINF:-1 tvg-id="disneyjreales" tvg-name="DISNEY JR" tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="ESPAÑA",DISNEY JR
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73014
 #EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="ESPAÑA",DREAMWORKS
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73013
-#EXTINF:-1 tvg-id="nickjreales" tvg-name="NICK JR" tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="ESPAÑA",NICK JR
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73012
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON " tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="ESPAÑA",NICKELODEON  HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73011
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="ESPAÑA",CANAL PANDA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73010
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="ESPAÑA",AXN HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73005
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="ESPAÑA",ANTENA 3 HD
@@ -113,24 +89,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/73038
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73037
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="ESPAÑA",LA SEXTA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73036
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="ESPAÑA",TV GALICIA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73023
-#EXTINF:-1 tvg-id="canalsureales" tvg-name="CANAL SUR A." tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="ESPAÑA",CANAL SUR
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73035
-#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ARAGON TV INT" tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="ESPAÑA",ARAGON TV INT
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73027
-#EXTINF:-1 tvg-id="fdf.es" tvg-name="FDF" tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="ESPAÑA",FDF
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73034
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="http://134.255.234.197/logos/energy.png" group-title="ESPAÑA",ENERGY
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73033
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="ESPAÑA",DIVINITY
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73032
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://134.255.234.197/logos/neox.png" group-title="ESPAÑA",NEOX
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73019
-#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="http://134.255.234.197/logos/nova.png" group-title="ESPAÑA",NOVA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73026
-#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://134.255.234.197/logos/mega.png" group-title="ESPAÑA",MEGA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73031
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="ESPAÑA",BE MAD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73030
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRE SERIES" tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="ESPAÑA",ATRE SERIES HD
@@ -139,16 +97,10 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/73020
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73021
 #EXTINF:-1 tvg-id="hashtag0.es" tvg-name="0" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="ESPAÑA",0 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73028
-#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="CANAL ORBE21" tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="ESPAÑA",CANAL ORBE21
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73025
 #EXTINF:-1 tvg-id="#vamos.es" tvg-name="#VAMOS" tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="ESPAÑA",#VAMOS HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73022
 #EXTINF:-1 tvg-id="canal24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="ESPAÑA",CANAL 24 HORAS
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73029
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",24 HORAS
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73024
-#EXTINF:-1 tvg-id="tveinternacional.es" tvg-name="TVE INTERNACIONAL" tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="ESPAÑA",TVE INTERNACIONAL HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73042
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://134.255.234.197/logos/amc.png" group-title="ESPAÑA",AMC HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73007
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://134.255.234.197/logos/axn.png" group-title="ESPAÑA",AXN
