@@ -1,75 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="ESPAÑA",SYFY HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72995
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="ESPAÑA",TNT HD
+#EXTINF:-1,group-title="ESPAÑA",TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ALQUILER 1" tvg-logo="" group-title="ESPAÑA",ALQUILER 1
+#EXTINF:-1, group-title="ESPAÑA",ALQUILER 1
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97158
-#EXTINF:-1 tvg-id="alquiler2.es" tvg-name="ALQUILER 2" tvg-logo="" group-title="ESPAÑA",ALQUILER 2 HD
+#EXTINF:-1 ,group-title="ESPAÑA",ALQUILER 2 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97157
-#EXTINF:-1 tvg-id="alquiler3.es" tvg-name="ALQUILER 3" tvg-logo="" group-title="ESPAÑA",ALQUILER 3 HD
+#EXTINF:-1, group-title="ESPAÑA",ALQUILER 3 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97156
-#EXTINF:-1 tvg-id="alquiler4.es" tvg-name="ALQUILER 4" tvg-logo="" group-title="ESPAÑA",ALQUILER 4 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 4 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97155
-#EXTINF:-1 tvg-id="alquiler5.es" tvg-name="ALQUILER 5" tvg-logo="" group-title="ESPAÑA",ALQUILER 5 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 5 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97154
-#EXTINF:-1 tvg-id="alquiler6.es" tvg-name="ALQUILER 6" tvg-logo="" group-title="ESPAÑA",ALQUILER 6 HD
+#EXTINF:-1 ,  group-title="ESPAÑA",ALQUILER 6 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97153
-#EXTINF:-1 tvg-id="alquiler7.es" tvg-name="ALQUILER 7" tvg-logo="" group-title="ESPAÑA",ALQUILER 7 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 7 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97152
-#EXTINF:-1 tvg-id="alquiler8.es" tvg-name="ALQUILER 8" tvg-logo="" group-title="ESPAÑA",ALQUILER 8 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 8 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97151
-#EXTINF:-1 tvg-id="alquiler9.es" tvg-name="ALQUILER 9" tvg-logo="" group-title="ESPAÑA",ALQUILER 9 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 9 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97150
-#EXTINF:-1 tvg-id="alquiler10.es" tvg-name="ALQUILER 10" tvg-logo="" group-title="ESPAÑA",ALQUILER 10 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 10 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97149
-#EXTINF:-1 tvg-id="alquiler11.es" tvg-name="ALQUILER 11" tvg-logo="" group-title="ESPAÑA",ALQUILER 11 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 11 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97148
-#EXTINF:-1 tvg-id="alquiler12.es" tvg-name="ALQUILER 12" tvg-logo="" group-title="ESPAÑA",ALQUILER 12 HD
+#EXTINF:-1 , group-title="ESPAÑA",ALQUILER 12 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97147
-#EXTINF:-1 tvg-id="christmas+movies.es" tvg-name="CHRISTMAS+ MOVIES" tvg-logo="" group-title="ESPAÑA",CHRISTMAS+ MOVIES
+#EXTINF:-1 , group-title="ESPAÑA",CHRISTMAS+ MOVIES
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97146
-#EXTINF:-1 tvg-id="netflix+movies.es" tvg-name="NETFLIX+ MOVIES" tvg-logo="" group-title="ESPAÑA",NETFLIX+ MOVIES
+#EXTINF:-1 , group-title="ESPAÑA",NETFLIX+ MOVIES
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97145
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M.ACCION" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="ESPAÑA",M.ACCION HD
+#EXTINF:-1 , group-title="ESPAÑA",M.ACCION HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73057
-#EXTINF:-1 tvg-id="movistarcineespanol.es" tvg-name="M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="ESPAÑA",M. CINE ESPANOL
+#EXTINF:-1 , group-title="ESPAÑA",M. CINE ESPANOL
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73056
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="ESPAÑA",M. COMEDIA HD
+#EXTINF:-1 , group-title="ESPAÑA",M. COMEDIA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73055
-#EXTINF:-1 tvg-id="movistardrama.es" tvg-name="M.DRAMA" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="ESPAÑA",M.DRAMA HD
+#EXTINF:-1 , group-title="ESPAÑA",M.DRAMA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73054
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M.ESTRENOS" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="ESPAÑA",M.ESTRENOS HD
+#EXTINF:-1 , group-title="ESPAÑA",M.ESTRENOS HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73053
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M.SERIES" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="ESPAÑA",M.SERIES HD
+#EXTINF:-1 , group-title="ESPAÑA",M.SERIES HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73052
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="M.SERIESMANIA" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="ESPAÑA",M.SERIESMANIA HD
+#EXTINF:-1 , group-title="ESPAÑA",M.SERIESMANIA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73051
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="ESPAÑA",BLAZE
+#EXTINF:-1, group-title="ESPAÑA",BLAZE
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72991
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="ESPAÑA",CANAL COCINA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72990
-#EXTINF:-1 tvg-id="canalcasa.es" tvg-name="CANAL DECASA" tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="ESPAÑA",CANAL DECASA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72989
-#EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="CAZAYPESCA" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="ESPAÑA",CAZAYPESCA HD
+#EXTINF:-1 ,group-title="ESPAÑA",CAZAYPESCA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72988
-#EXTINF:-1 tvg-id="crimen+inves.es" tvg-name="CRIMEN+INVES" tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="ESPAÑA",CRIMEN+INVES
+#EXTINF:-1 , group-title="ESPAÑA",CRIMEN+INVES
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72987
-#EXTINF:-1 tvg-id="discovery.es" tvg-name="DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="ESPAÑA",DISCOVERY
+#EXTINF:-1 , group-title="ESPAÑA",DISCOVERY
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72986
-#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="ESPAÑA",HISTORIA
+#EXTINF:-1 , group-title="ESPAÑA",HISTORIA
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72985
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="ESPAÑA",IBERALIA TV
+#EXTINF:-1 , group-title="ESPAÑA",IBERALIA TV
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72984
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="ESPAÑA",NAT GEO HD
+#EXTINF:-1 , group-title="ESPAÑA",NAT GEO HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72983
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPAÑA",NAT GEO WILD
+#EXTINF:-1 , group-title="ESPAÑA",NAT GEO WILD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72982
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="ESPAÑA",NAT GEO WILD HD
+#EXTINF:-1 , group-title="ESPAÑA",NAT GEO WILD HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72981
-#EXTINF:-1 tvg-id="canalodisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="ESPAÑA",CANAL ODISEA
+#EXTINF:-1 , group-title="ESPAÑA",CANAL ODISEA
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72980
-#EXTINF:-1 tvg-id="viajareales" tvg-name="VIAJAR" tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="ESPAÑA",VIAJAR HD
+#EXTINF:-1 , group-title="ESPAÑA",VIAJAR HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72979
 #EXTINF:-1 tvg-id="vh1.es" tvg-name="VH1" tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="ESPAÑA",VH1
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72978
