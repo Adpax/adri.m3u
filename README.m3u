@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 , |SP| MOVISTAR ESTRENOS HD
+http://xwpzszwjisxarbkgvrtqpu.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=364&t=live&f=ts
+#EXTINF:-1 , |SP| MOVISTAR ESTRENOS 2
+http://6tygoejeb1zgdaxs2pkw7q.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26663&t=live&f=ts
+#EXTINF:-1 ,MOVISTAR ACCION HD
+http://dsurci2tn4avpcmfedjvpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=358&t=live&f=ts
+#EXTINF:-1 ,MOVISTAR COMEDIA HD
+http://4sn1kcyqk97yghmb3l6rtr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=363&t=live&f=ts
+#EXTINF:-1 ,MOVISTAR DRAMA HD
+http://ttmgm3ip8x60jyu1jarnce.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=360&t=live&f=ts
+#EXTINF:-1 ,M. CINE ESPAÑOL FULL HD
+http://t4usm1dos8ieqrf9ewzapr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3847&t=live&f=ts
+#EXTINF:-1 ,M.FEST
+http://tqiudypcfmkgdlehbau45x.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26664&t=live&f=ts
+#EXTINF:-1 ,HOLLYWOOD 
+http://mekpiwpw31j2vgduraju9f.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3796&t=live&f=ts
+#EXTINF:-1 ,PARAMOUNT
+http://p7igblwdwooykxak0ajidt.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3855&t=live&f=ts
+#EXTINF:-1 ,M.CLASICOS
+http://yo2xcsubgmejngs48klozz.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26665&t=live&f=ts
 #EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome 
 acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:-1,TNT HD
