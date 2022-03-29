@@ -355,25 +355,39 @@ acestream://4477859c90e843d5557297d8e27b64783baeaa29
 acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
 #EXTINF:-1,|SP|  LIGA 1080
 acestream://100461294df29635ad81a5c8890f7a3dbdb875d4
-#EXTINF:-1 , MOVISTAR ACCION HD
-http://23.237.78.11:7283/1dn4b1a3lv4biec91ty6uy2mkg6pd8g19svr9o0cd9d7vaxwy7xq5d6aq2ul2bmrag93l56u/index.m3u8?un=jeanvinueza&tm=1648392741&sn=4kkxf7UtoAA9DCLsqzORO5UK3Gs
-#EXTINF:-1 , HOLLYWOOD HD
-http://23.237.78.11:7283/4vo2xslbr50a1c3fg8iw86e34wmqpky1xz6hwzofmhp3wr8b4b1i2fkrhgnxxm/index.m3u8?un=jeanvinueza&tm=1648392741&sn=YeHx5yUOy8LDZWP73QvD6dYGsgp
-#EXTINF:-1 , CALLE 13 HD
-http://23.237.78.11:7283/53f31nv69gj6nfs03n8zqmy6giqd5pc9dx97q7ytj6ys7z1ulv4z4pw6huhl/index.m3u8?un=jeanvinueza&tm=1648392741&sn=ZyOSXeDPnmAz0tH6myjuyao4PUx
-#EXTINF:-1 , MOVISTAR COMEDIA HD
-http://23.237.78.11:7283/6m27nnw808esmop5umo3ci4ol1m2hnbjqyp7txhpzs176qd2spb8yerzmj4735hpfobx2n5vc/index.m3u8?un=jeanvinueza&tm=1648392741&sn=F9dnxMyhZUyzZuysABjPAh8Y75d
-#EXTINF:-1 , KANAL D EN ESPAÑOL
-http://23.237.78.11:7283/ayc2v0ze84c3k3d94ox381eylbbqc41wqhig85scebyc45m388636cn8p34wrr2m0e3vnmy/index.m3u8?un=jeanvinueza&tm=1648392741&sn=TsHG0mZFWC8K4VrAUwwXrmVjlkz
-#EXTINF:-1 , COMEDY CENTRAL HD
-http://23.237.78.11:7283/8wnv6dipheod1w352dd512ni8pt7zn1qb40a13zizxcr6lvqovo9e284qizn4esq5khizn/index.m3u8?un=jeanvinueza&tm=1648392741&sn=5bF91BOswPvDrELaoa5qZXaecje
-#EXTINF:-1 , DISTRITO COMEDIA HD
-http://23.237.78.11:7283/29vwfsvacdnnyy3thorxkp0k6tvvoucrusli1az8jpx1dzppfy00ve5gq8jeqqe4vvnq27nyu/index.m3u8?un=jeanvinueza&tm=1648392741&sn=UG7gPIBhlsJofrYecGpnfK60DXD
-#EXTINF:-1  , XTRM ESPAÑA HD
-http://23.237.78.11:7283/prdp06bdq6aazlbicuzq9gryih7j2mdpio33e28onhma6m4caolte456162ka5s9i/index.m3u8?un=jeanvinueza&tm=1648392741&sn=GgTomZNLEUbIF6VOcs15olr5OXS
-#EXTINF:-1  , EPIX 1 ESTE HD
-http://23.237.78.11:7283/ktahxiuampzqkrawhznmqqoveg3111c1rg4peglbd4f81wu9te6fh65f32lpajuo7/index.m3u8?un=jeanvinueza&tm=1648392741&sn=NVN90TNagPMPAUWDchDm7WeGsAu
-#EXTINF:-1 , DHE FHD
-http://23.237.78.11:7283/1h50ajb8tm165e5r1k4lwc1ok8jtjvyf1aikog5sx8b2jqohtq9mqd/index.m3u8?un=jeanvinueza&tm=1648392741&sn=ENksfakUVDOQJxbkfqibclbDC7G
-#EXTINF:-1 , SHOWTIME HD
-http://23.237.78.11:7283/1qygxz4ofbwmt560n9pzx5l1aup7rwzrppueh9at62sf4em9sypd5s2vaejon/index.m3u8?un=jeanvinueza&tm=1648392741&sn=ZGrIer88Y6RcLGOedwS0GykiOZ3
+#EXTINF:-1 ,#0 HD
+http://jlz1lnwsg7ufoxcvpqj4fa.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=378&t=live&f=ts
+#EXTINF:-1 ,FOX HD
+http://2ablumta4pwxcnus3dsojy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=353&t=live&f=ts
+#EXTINF:-1 ,AMC HD
+http://of0ltypzkxru2qujrpbmyk.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=347&t=live&f=ts
+#EXTINF:-1 ,AXN HD
+http://1wve9gq4xyk7rpam6scptu.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=349&t=live&f=ts
+#EXTINF:-1 ,AXN WHITE HD
+http://sb47tud9dlmb32ogexrxyk.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=382&t=live&f=ts
+#EXTINF:-1 ,SOMOS
+http://0hqw8enjdfkalersxflyau.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26342&t=live&f=ts
+#EXTINF:-1 ,CINE1
+http://3j4mhoulw2bvuh6cgdeevf.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26344&t=live&f=ts
+#EXTINF:-1 ,SUPTV
+http://mi1arghhw9cuzbtbzjxqo3.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26345&t=live&f=ts
+#EXTINF:-1 ,SYFY HD
+http://uk08ewsg6ntzmalfytp3qg.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=372&t=live&f=ts
+#EXTINF:-1 ,CALLE 13
+http://dne7ilyf0sbysoazq8e2jz.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=350&t=live&f=ts
+#EXTINF:-1 ,COMEDY CENTRAL
+http://rgocqpatroei2kvbuhed3x.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=405&t=live&f=ts
+#EXTINF:-1 ,COSMO HD
+http://m4sesl0jonuahtfp79xfq5.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=406&t=live&f=ts
+#EXTINF:-1 ,PROCAJA TV1
+http://kwnzca5ujsxywlvx73d2p1.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26722&t=live&f=ts
+#EXTINF:-1 ,MARVEL1
+http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
+#EXTINF:-1 ,MARVEL2
+http://9ecyr3af0rzjnsoluuhtqo.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26326&t=live&f=ts
+#EXTINF:-1 ,MARVEL3
+http://c6ir97bcgk3xllfnthovwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26327&t=live&f=ts
+#EXTINF:-1 ,MARVEL4
+http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26328&t=live&f=ts
+#EXTINF:-1 ,MARVEL5
+http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
