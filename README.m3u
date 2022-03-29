@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 , group-title="España",#0 HD
+http://23.237.78.11:7283/3y8kiciermam7qwolhd2fufa0mn33jtt51ksgjfphlegykq7mo/index.m3u8?un=jeanvinueza&tm=1648392741&sn=3ExufPon90crxGdJdZwhgE5wzYw
 #EXTINF:-1,group-title="ESPAÑA",TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1, group-title="ESPAÑA",ALQUILER 1
@@ -219,8 +221,6 @@ http://23.237.78.11:7283/ed2ltb651mohtvlvyi62anbcgn3j0a9eacsd3wipq9eevjo5psag9cp
 http://23.237.78.11:7283/f1vm8axos3824mxpj04k6eu7xjoizc2xsh93xl3zxl6n9ofn2rcqe2/index.m3u8?un=jeanvinueza&tm=1648392741&sn=WrwhLe3DWLW9BYleKO31WdFW5UO
 #EXTINF:-1 , group-title="España",A3S Series HD
 http://23.237.78.11:7283/1jhcn0mnqeywmhfeorvyg7r8lic401f7kpukgxrnf8ker8hop5k04/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DJ3VcQqPGV3yNqiCQa7Buwky2fV
-#EXTINF:-1 , group-title="España",#0 HD
-http://23.237.78.11:7283/3y8kiciermam7qwolhd2fufa0mn33jtt51ksgjfphlegykq7mo/index.m3u8?un=jeanvinueza&tm=1648392741&sn=3ExufPon90crxGdJdZwhgE5wzYw
 #EXTINF:-1, F1 1080 , F1 1080 
 acestream://9ddf64cab26efc80aef43eaf15caa01943bd534a
 #EXTINF:-1, F1 1080 , F1 1080 
