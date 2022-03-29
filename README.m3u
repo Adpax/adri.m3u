@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome 
+acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1, ALQUILER 1
@@ -211,8 +213,6 @@ acestream://60c39884f16c7b7b676618a4b100124547b3d320
 acestream://f80249a2127534a95639ad5a23033ee831b31954
 #EXTINF:-1,|SP| Lista Adri wellcome 
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome 
-acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:-1,|SP|  M. Deportes 1 1080
 acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6                                                                                                                                                              
 #EXTINF:-1,|SP|  M.LaLiga  
