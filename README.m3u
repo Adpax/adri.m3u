@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,|SP| Vamos 1080
 acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
-#EXTINF:-1 , |SP| MOVISTAR ESTRENOS HD
+#EXTINF:-1,|SP| Mbed 
+acestream://f22c903366126bd5242b119983a91066d2007b9f
+EXTINF:-1 , |SP| MOVISTAR ESTRENOS HD
 http://xwpzszwjisxarbkgvrtqpu.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=364&t=live&f=ts
 #EXTINF:-1 , |SP| MOVISTAR ESTRENOS 2
 http://6tygoejeb1zgdaxs2pkw7q.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26663&t=live&f=ts
