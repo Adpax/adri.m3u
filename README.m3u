@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,|SP| Vamos 1080
 acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
+#EXTINF:-1,|SP| prueba cod
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1143
 #EXTINF:-1 ,MARVEL1
 http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
 #EXTINF:-1 ,MARVEL2
