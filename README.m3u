@@ -1,28 +1,18 @@
 #EXTM3U
 #EXTINF:-1,|SP| Vamos 1080
 acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
+#EXTINF:-1 ,MARVEL1
+http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
+#EXTINF:-1 ,MARVEL2
+http://9ecyr3af0rzjnsoluuhtqo.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26326&t=live&f=ts
+#EXTINF:-1 ,MARVEL3
+http://c6ir97bcgk3xllfnthovwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26327&t=live&f=ts
+#EXTINF:-1 ,MARVEL4
+http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26328&t=live&f=ts
+#EXTINF:-1 ,MARVEL5
+http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
 #EXTINF:-1,|SP| Mbed 
 acestream://f22c903366126bd5242b119983a91066d2007b9f
-EXTINF:-1 , |SP| MOVISTAR ESTRENOS HD
-http://xwpzszwjisxarbkgvrtqpu.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=364&t=live&f=ts
-#EXTINF:-1 , |SP| MOVISTAR ESTRENOS 2
-http://6tygoejeb1zgdaxs2pkw7q.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26663&t=live&f=ts
-#EXTINF:-1 ,MOVISTAR ACCION HD
-http://dsurci2tn4avpcmfedjvpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=358&t=live&f=ts
-#EXTINF:-1 ,MOVISTAR COMEDIA HD
-http://4sn1kcyqk97yghmb3l6rtr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=363&t=live&f=ts
-#EXTINF:-1 ,MOVISTAR DRAMA HD
-http://ttmgm3ip8x60jyu1jarnce.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=360&t=live&f=ts
-#EXTINF:-1 ,M. CINE ESPAÑOL FULL HD
-http://t4usm1dos8ieqrf9ewzapr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3847&t=live&f=ts
-#EXTINF:-1 ,M.FEST
-http://tqiudypcfmkgdlehbau45x.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26664&t=live&f=ts
-#EXTINF:-1 ,HOLLYWOOD 
-http://mekpiwpw31j2vgduraju9f.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3796&t=live&f=ts
-#EXTINF:-1 ,PARAMOUNT
-http://p7igblwdwooykxak0ajidt.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=3855&t=live&f=ts
-#EXTINF:-1 ,M.CLASICOS
-http://yo2xcsubgmejngs48klozz.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26665&t=live&f=ts
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1, ALQUILER 1
@@ -49,42 +39,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/97149
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97148
 #EXTINF:-1 , ALQUILER 12 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97147
-#EXTINF:-1 , CHRISTMAS+ MOVIES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97146
-#EXTINF:-1 , NETFLIX+ MOVIES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97145
-#EXTINF:-1 , M.ACCION HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73057
-#EXTINF:-1 , M. CINE ESPANOL
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73056
-#EXTINF:-1 , M. COMEDIA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73055
-#EXTINF:-1 , M.DRAMA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73054
-#EXTINF:-1 , M.ESTRENOS HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73053
-#EXTINF:-1 , M.SERIES HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73052
-#EXTINF:-1 , M.SERIESMANIA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73051
-#EXTINF:-1, BLAZE
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72991
-#EXTINF:-1 ,CAZAYPESCA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72988
-#EXTINF:-1 , CRIMEN+INVES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72987
-#EXTINF:-1 , DISCOVERY
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72986
-#EXTINF:-1 , HISTORIA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72985
-#EXTINF:-1 , IBERALIA TV
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72984
-#EXTINF:-1 , NAT GEO HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72983
-#EXTINF:-1 , NAT GEO WILD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72982
-#EXTINF:-1 , NAT GEO WILD HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72981
 #EXTINF:-1 , CANAL ODISEA
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72980
 #EXTINF:-1 , VIAJAR HD
@@ -97,18 +51,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/72976
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73013
 #EXTINF:-1 , AXN HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73005
-#EXTINF:-1 , ANTENA 3 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73039
-#EXTINF:-1 , CUATRO HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73038
-#EXTINF:-1 , TELECINCO HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73037
-#EXTINF:-1 , LA SEXTA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73036
-#EXTINF:-1 , BE MAD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73030
-#EXTINF:-1 , ATRE SERIES HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73020
 #EXTINF:-1 , XTRM HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73021
 #EXTINF:-1 , 0 HD
@@ -129,18 +71,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/73003
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73002
 #EXTINF:-1 ,COSMO HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73001
-#EXTINF:-1 , FOX HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73000
-#EXTINF:-1 , FOX LIFE
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72999
-#EXTINF:-1 , HOLLYWOOD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72998
-#EXTINF:-1 , PARAMOUNT CHANNEL
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72997
-#EXTINF:-1 , SUNDANCE TV
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72996
-#EXTINF:-1 , NICK/MTV
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73009
 #EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome 
 acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:-1 , DAZN 1
@@ -161,18 +91,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/97208
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97207
 #EXTINF:-1 , M.LALIGA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/96415
-#EXTINF:-1 ,M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73081
-#EXTINF:-1 , M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96395
-#EXTINF:-1 ,M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73080
-#EXTINF:-1 , M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96394
-#EXTINF:-1 , M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73079
-#EXTINF:-1  , M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96393
 #EXTINF:-1, M. LCAMPEONES
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73102
 #EXTINF:-1 , M. LCAMPEONES
@@ -201,30 +119,37 @@ http://s1.pixel4k.visión:80/152022019471985/152056322705390/73100
 http://23.237.78.11:7283/3y8kiciermam7qwolhd2fufa0mn33jtt51ksgjfphlegykq7mo/index.m3u8?un=jeanvinueza&tm=1648392741&sn=3ExufPon90crxGdJdZwhgE5wzYw
 #EXTINF:-1 ,ALQUILER 5 HD
 http://23.237.78.11:7283/6qhxtx04tak8kbxvpb5su9g473o21e6c4srvjltze6meonlk63qc7scgz1n/index.m3u8?un=jeanvinueza&tm=1648392741&sn=OYsuEh02Qjx38ozDQFcafiFyrvF
-#EXTINF:-1 , Cuatro HD
-http://23.237.78.11:7283/x5ewdg4j93e6umc2xign6npm01mt5ujnkzkgnv4zpb0n4owe74e2147nd/index.m3u8?un=jeanvinueza&tm=1648392741&sn=WWypAe72MDKy93u5TZQRIMDQCh6
-#EXTINF:-1 , Divinity HD
-http://23.237.78.11:7283/3hkx1syc262z0g41835ohd124av2rpo5rn624a1h2nby09r9ewoaygn2757pa/index.m3u8?un=jeanvinueza&tm=1648392741&sn=N501rqALxCfYdYKUQSWz2eObFtj
 #EXTINF:-1 , DISCOVERY CHANNEL ESPAÑA HD
 http://23.237.78.11:7283/187euh9j22g62026vkn30ln83s5z4zxwgt1ej9w76xxo0go8b9pi9pgsk0a22lyyffc1apzgdzhmzkwomufts/index.m3u8?un=jeanvinueza&tm=1648392741&sn=7g4vlYNb9Xm9NmfFiMEwoUC7xNu
-#EXTINF:-1 , Mega ESP HD
-http://23.237.78.11:7283/2zhchebzayssy6044a6z6hfcc8y2mqdjl7i5947ztw0yjgwjfp5daf3xcck2t/index.m3u8?un=jeanvinueza&tm=1648392741&sn=P5JwNOXoI867eRVWfPif1A9Yovj
-#EXTINF:-1 , NAT GEO ESPAÑA HD
-http://23.237.78.11:7283/8i2v6i0j3b9ur7pe8o1qjp7372ajoz7s8eqrv20xlwyj53w2ukp0irygszv65gnz3dqbjp/index.m3u8?un=jeanvinueza&tm=1648392741&sn=C74fSWTWqx1ZDYC790YuWQE5RbM
-#EXTINF:-1 , BeMad HD
-http://23.237.78.11:7283/5f3mzln6daifdh5j9rim807gsznaj9f3irt47n2kwiuhfgfsej34zfbg/index.m3u8?un=jeanvinueza&tm=1648392741&sn=BVUqZTWCeQIZkyAzcduSdKs4lYK
-#EXTINF:-1 , LA SEXTA HD
-http://23.237.78.11:7283/zf5hm0cygx2gh9acilsrmb1kay7z9p7b20a9k6pz7j0e73xdp9f7x6srhrax/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DHijCWupoylytvMmRkHHDz5NCSp
-#EXTINF:-1 , CANAL GOL HD
-http://23.237.78.11:7283/ocwvy4y8hfj3wyq6xxxdudp8jcvaka2ajpyrmz037n4zd58wadxjdf0jzyhp0t/index.m3u8?un=jeanvinueza&tm=1648392741&sn=JWOXQ5NZgPQ7LJcp2W3e9t4ZbXa
-#EXTINF:-1 , ANTENA 3 INTERNACIONAL HD
-http://23.237.78.11:7283/4gcnmui9yst3vjpg1or3klxybhfov7p9lv7q8d6q1jnj1761w7mn45cv7b4bcjtgso8zqalyeuyubfenhp/index.m3u8?un=jeanvinueza&tm=1648392741&sn=47dGm1ftl0uratDs3i4ukxwxxHY
-#EXTINF:-1 , FOX ESP HD
-http://23.237.78.11:7283/ed2ltb651mohtvlvyi62anbcgn3j0a9eacsd3wipq9eevjo5psag9cpcchz/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DOmwjoqExD3HQWCQBtRY1k7wViw
-#EXTINF:-1 , NOVA HD
-http://23.237.78.11:7283/f1vm8axos3824mxpj04k6eu7xjoizc2xsh93xl3zxl6n9ofn2rcqe2/index.m3u8?un=jeanvinueza&tm=1648392741&sn=WrwhLe3DWLW9BYleKO31WdFW5UO
-#EXTINF:-1 , A3S Series HD
-http://23.237.78.11:7283/1jhcn0mnqeywmhfeorvyg7r8lic401f7kpukgxrnf8ker8hop5k04/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DJ3VcQqPGV3yNqiCQa7Buwky2fV
+#EXTINF:-1 , FOX LIFE
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72999
+#EXTINF:-1 , HOLLYWOOD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72998
+#EXTINF:-1 , PARAMOUNT CHANNEL
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72997
+#EXTINF:-1 , SUNDANCE TV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72996
+#EXTINF:-1 , NICK/MTV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73009
+#EXTINF:-1 , CHRISTMAS+ MOVIES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97146
+#EXTINF:-1 , NETFLIX+ MOVIES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/97145
+#EXTINF:-1 , M.ACCION HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73057
+#EXTINF:-1 , M. CINE ESPANOL
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73056
+#EXTINF:-1 , M. COMEDIA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73055
+#EXTINF:-1 , M.DRAMA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73054
+#EXTINF:-1 , M.ESTRENOS HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73053
+#EXTINF:-1 , M.SERIES HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73052
+#EXTINF:-1 , M.SERIESMANIA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73051
+#EXTINF:-1, BLAZE
 #EXTINF:-1, F1 1080 , F1 1080 
 acestream://9ddf64cab26efc80aef43eaf15caa01943bd534a
 #EXTINF:-1, F1 1080 , F1 1080 
@@ -357,6 +282,38 @@ acestream://4477859c90e843d5557297d8e27b64783baeaa29
 acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
 #EXTINF:-1,|SP|  LIGA 1080
 acestream://100461294df29635ad81a5c8890f7a3dbdb875d4
+#EXTINF:-1 ,CAZAYPESCA HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72988
+#EXTINF:-1 , CRIMEN+INVES
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72987
+#EXTINF:-1 , DISCOVERY
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72986
+#EXTINF:-1 , HISTORIA
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72985
+#EXTINF:-1 , IBERALIA TV
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72984
+#EXTINF:-1 , NAT GEO HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72983
+#EXTINF:-1 , NAT GEO WILD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72982
+#EXTINF:-1 , Mega ESP HD
+http://23.237.78.11:7283/2zhchebzayssy6044a6z6hfcc8y2mqdjl7i5947ztw0yjgwjfp5daf3xcck2t/index.m3u8?un=jeanvinueza&tm=1648392741&sn=P5JwNOXoI867eRVWfPif1A9Yovj
+#EXTINF:-1 , NAT GEO ESPAÑA HD
+http://23.237.78.11:7283/8i2v6i0j3b9ur7pe8o1qjp7372ajoz7s8eqrv20xlwyj53w2ukp0irygszv65gnz3dqbjp/index.m3u8?un=jeanvinueza&tm=1648392741&sn=C74fSWTWqx1ZDYC790YuWQE5RbM
+#EXTINF:-1 , BeMad HD
+http://23.237.78.11:7283/5f3mzln6daifdh5j9rim807gsznaj9f3irt47n2kwiuhfgfsej34zfbg/index.m3u8?un=jeanvinueza&tm=1648392741&sn=BVUqZTWCeQIZkyAzcduSdKs4lYK
+#EXTINF:-1 , LA SEXTA HD
+http://23.237.78.11:7283/zf5hm0cygx2gh9acilsrmb1kay7z9p7b20a9k6pz7j0e73xdp9f7x6srhrax/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DHijCWupoylytvMmRkHHDz5NCSp
+#EXTINF:-1 , CANAL GOL HD
+http://23.237.78.11:7283/ocwvy4y8hfj3wyq6xxxdudp8jcvaka2ajpyrmz037n4zd58wadxjdf0jzyhp0t/index.m3u8?un=jeanvinueza&tm=1648392741&sn=JWOXQ5NZgPQ7LJcp2W3e9t4ZbXa
+#EXTINF:-1 , ANTENA 3 INTERNACIONAL HD
+http://23.237.78.11:7283/4gcnmui9yst3vjpg1or3klxybhfov7p9lv7q8d6q1jnj1761w7mn45cv7b4bcjtgso8zqalyeuyubfenhp/index.m3u8?un=jeanvinueza&tm=1648392741&sn=47dGm1ftl0uratDs3i4ukxwxxHY
+#EXTINF:-1 , FOX ESP HD
+http://23.237.78.11:7283/ed2ltb651mohtvlvyi62anbcgn3j0a9eacsd3wipq9eevjo5psag9cpcchz/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DOmwjoqExD3HQWCQBtRY1k7wViw
+#EXTINF:-1 , NOVA HD
+http://23.237.78.11:7283/f1vm8axos3824mxpj04k6eu7xjoizc2xsh93xl3zxl6n9ofn2rcqe2/index.m3u8?un=jeanvinueza&tm=1648392741&sn=WrwhLe3DWLW9BYleKO31WdFW5UO
+#EXTINF:-1 , A3S Series HD
+http://23.237.78.11:7283/1jhcn0mnqeywmhfeorvyg7r8lic401f7kpukgxrnf8ker8hop5k04/index.m3u8?un=jeanvinueza&tm=1648392741&sn=DJ3VcQqPGV3yNqiCQa7Buwky2fV
 #EXTINF:-1 ,#0 HD
 http://jlz1lnwsg7ufoxcvpqj4fa.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=378&t=live&f=ts
 #EXTINF:-1 ,FOX HD
@@ -381,15 +338,17 @@ http://dne7ilyf0sbysoazq8e2jz.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 http://rgocqpatroei2kvbuhed3x.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=405&t=live&f=ts
 #EXTINF:-1 ,COSMO HD
 http://m4sesl0jonuahtfp79xfq5.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=406&t=live&f=ts
+#EXTINF:-1 ,M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73081
+#EXTINF:-1 , M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96395
+#EXTINF:-1 ,M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73080
+#EXTINF:-1 , M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96394
+#EXTINF:-1 , M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/73079
+#EXTINF:-1  , M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/96393
 #EXTINF:-1 ,PROCAJA TV1
 http://kwnzca5ujsxywlvx73d2p1.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26722&t=live&f=ts
-#EXTINF:-1 ,MARVEL1
-http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
-#EXTINF:-1 ,MARVEL2
-http://9ecyr3af0rzjnsoluuhtqo.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26326&t=live&f=ts
-#EXTINF:-1 ,MARVEL3
-http://c6ir97bcgk3xllfnthovwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26327&t=live&f=ts
-#EXTINF:-1 ,MARVEL4
-http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26328&t=live&f=ts
-#EXTINF:-1 ,MARVEL5
-http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
