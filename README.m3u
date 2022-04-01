@@ -41,10 +41,50 @@ http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
 #EXTINF:-1 ,SP Acción por M +
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/364.m3u8
-#EXTINF:-1 ,TELECINCO HD
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 ,TELECINCO HD
-http://91.126.141.13:1935/live/61/1800-def.m3u8
+##EXTINF:0 ,MOVISTAR Accion FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1148
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Biografias HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284596
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Cine Espanol HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/64788
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Clasicos HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281773
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Spain",ES: MOVISTAR Comedia FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1146
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Deportes 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281791
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Spain",ES: MOVISTAR Deportes FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/227121
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Drama FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1144
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Spain",ES: MOVISTAR Estrenos FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1143
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Fest HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/168992
+#EXTINF:0 tvg-id="Golf.es" group-title="Spain",ES: MOVISTAR Golf FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1142
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR La Resistencia HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/286800
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5311
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281772
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 4 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/269466
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 5 HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281792
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1141
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/81096
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LIGA DE CAMPEONES FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2800
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Plus TV HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/8994
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Series 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1139
+#EXTINF:0 tvg-id="M.Series.es" group-title="Spain",ES: MOVISTAR Series FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1140
 #EXTINF:-1 ,DRAMA 
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10471
 #EXTINF:-1,|SP| Mbed 
