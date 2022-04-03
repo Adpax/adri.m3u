@@ -1,26 +1,6 @@
 #EXTM3U
-
-
-
-
-#EXTINF:-1 ,pelicula isla
-https://ia601403.us.archive.org/31/items/viaje-al-centro-de-la-tierra-2-la-isla-misteriosa-2012/Viaje%20al%20centro%20de%20la%20Tierra%202%20-%20La%20isla%20misteriosa%20%282012%29.avi
-#EXTINF:-1 ,Cine Marvel
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/697.m3u8
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 
-https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
-#EXTINF:-1 ,Dragon Ball 24/7
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/425.m3u8
-#EXTINF:-1 ,Dragon Ball GT 24/7
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/520.m3u8
-#EXTINF:-1 ,Dragon Ball Super 24/7
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/424.m3u8
-#EXTINF:-1 ,Dragon Ball Z 24/7
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/329.m3u8
-#EXTINF:-1,0# 1080
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,Estrenos 2 fhd
-acestream://983d7d377b9daeea7e845de01f24c17bb12e932d
+#EXTINF:-1,TNT HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1 ,MARVEL1
 http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
 #EXTINF:-1 ,MARVEL2
@@ -31,58 +11,6 @@ http://c6ir97bcgk3xllfnthovwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26328&t=live&f=ts
 #EXTINF:-1 ,MARVEL5
 http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
-#EXTINF:-1 ,SP Acción por M +
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/364.m3u8
-##EXTINF:0 ,MOVISTAR Accion FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1148
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Biografias HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/284596
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Cine Espanol HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/64788
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Clasicos HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281773
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="Spain",ES: MOVISTAR Comedia FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1146
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Deportes 1 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281791
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Spain",ES: MOVISTAR Deportes FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/227121
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Drama FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1144
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Spain",ES: MOVISTAR Estrenos FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1143
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Fest HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/168992
-#EXTINF:0 tvg-id="Golf.es" group-title="Spain",ES: MOVISTAR Golf FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1142
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR La Resistencia HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/286800
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/5311
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 3 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281772
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 4 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/269466
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga 5 HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281792
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LaLiga FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1141
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LIGA DE CAMPEONES 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/81096
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LIGA DE CAMPEONES FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2800
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Plus TV HD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/8994
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR Series 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1139
-#EXTINF:0 tvg-id="M.Series.es" group-title="Spain",ES: MOVISTAR Series FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1140
-#EXTINF:-1 ,DRAMA 
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10471
-#EXTINF:-1,|SP| Mbed 
-acestream://f22c903366126bd5242b119983a91066d2007b9f
-#EXTINF:-1,TNT HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1, ALQUILER 1
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97158
 #EXTINF:-1 ,ALQUILER 2 HD
@@ -109,6 +37,30 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/97148
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97147
 #EXTINF:-1 ,MOVIESTAR ACCION HD
 http://iptvcanales.gq/canales/tvfree/337/playlist.m3u8
+#EXTINF:-1,0# 1080
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1 ,pelicula isla
+https://ia601403.us.archive.org/31/items/viaje-al-centro-de-la-tierra-2-la-isla-misteriosa-2012/Viaje%20al%20centro%20de%20la%20Tierra%202%20-%20La%20isla%20misteriosa%20%282012%29.avi
+#EXTINF:-1 ,Cine Marvel
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/697.m3u8
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 
+https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
+#EXTINF:-1 ,Dragon Ball 24/7
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/425.m3u8
+#EXTINF:-1 ,Dragon Ball GT 24/7
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/520.m3u8
+#EXTINF:-1 ,Dragon Ball Super 24/7
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/424.m3u8
+#EXTINF:-1 ,Dragon Ball Z 24/7
+http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/329.m3u8
+#EXTINF:-1 ,SP Acción por M +
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/364.m3u8
+##EXTINF:0 ,MOVISTAR Accion FHD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1148
+#EXTINF:-1,|SP| Mbed 
+acestream://f22c903366126bd5242b119983a91066d2007b9f
+
 #EXTINF:-1 , CINE Ñ 
 http://iptvcanales.gq/canales/tvfree/346/playlist.m3u8
 #EXTINF:-1 ,M ESTRENO
