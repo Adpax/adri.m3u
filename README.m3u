@@ -1,34 +1,5 @@
 #EXTM3U
-#EXTINF:0 , RAKUTEN TOP FREE
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0, RAKUTEN TV DRAMA
-https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0 , RAKUTEN COMEDIA
-https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0 , RAKUTEN ACCION
-https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0 , SPTV Digital
-https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
 
-#EXTINF:0,Movistar Accion ES
-http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/7065/index.m3u8
-#EXTINF:0 ,Movistar Comedia ES
-http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/7066/index.m3u8
-#EXTINF:0 ,Movistar Drama ES
-http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/7067/index.m3u8
-
-
-#EXTINF:-1 , Butaca TV | ES
-https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 , Butaca TV 2 | MX
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 , A3Series | HD | ES
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341243325
-#EXTINF:-1 , A3Cine | ES
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
-
-#EXTINF:-1 , XMEN APOCALIPSIS dual
-http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
 
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
@@ -52,6 +23,20 @@ acestream://73e88a8534c46c9f44e63c3ac7ed21a8c74786f0
 acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
 #EXTINF:-1,BEIN SPAÑOL
 acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:0 , RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN TV DRAMA
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 , RAKUTEN COMEDIA
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 , RAKUTEN ACCION
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1 , Butaca TV | ES
+https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 , Butaca TV 2 | MX
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 , XMEN APOCALIPSIS dual
+http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
 #EXTINF:-0,|SP| ESTRENO MCortes peligrosos
 acestream://b1b6b576027d480336dd4d7a36063c6fcb408175
 #EXTINF:-0,|SP| ESTRENO Cortes peligrosos2
