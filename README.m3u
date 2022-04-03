@@ -1,51 +1,75 @@
 #EXTM3U
+#EXTINF:0 , RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0, RAKUTEN TV DRAMA
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 , RAKUTEN COMEDIA
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 , RAKUTEN ACCION
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 , SPTV Digital
+https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
+
+#EXTINF:0,Movistar Accion ES
+http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/7065/index.m3u8
+#EXTINF:0 ,Movistar Comedia ES
+http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/7066/index.m3u8
+#EXTINF:0 ,Movistar Drama ES
+http://6b1e0f89.akadatel.com/iptv/6TSDYU5SBHZF4U/7067/index.m3u8
+
+
+#EXTINF:-1 , Butaca TV | ES
+https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 , Butaca TV 2 | MX
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 , A3Series | HD | ES
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341243325
+#EXTINF:-1 , A3Cine | ES
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+
+#EXTINF:-1 , XMEN APOCALIPSIS dual
+http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
+
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-#EXTINF:-1 ,MARVEL1
-http://whvbqrmocz8dexknzdtipc.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26325&t=live&f=ts
-#EXTINF:-1 ,MARVEL2
-http://9ecyr3af0rzjnsoluuhtqo.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26326&t=live&f=ts
-#EXTINF:-1 ,MARVEL3
-http://c6ir97bcgk3xllfnthovwr.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26327&t=live&f=ts
-#EXTINF:-1 ,MARVEL4
-http://2gn5op9riapcs8twuhxboy.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26328&t=live&f=ts
-#EXTINF:-1 ,MARVEL5
-http://okqzmhxpl8shiwde16jbpn.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26329&t=live&f=ts
-#EXTINF:-1, ALQUILER 1
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97158
-#EXTINF:-1 ,ALQUILER 2 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97157
-#EXTINF:-1, ALQUILER 3 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97156
-#EXTINF:-1 , ALQUILER 4 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97155
-#EXTINF:-1 , ALQUILER 5 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97154
-#EXTINF:-1 ,  ALQUILER 6 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97153
-#EXTINF:-1 , ALQUILER 7 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97152
-#EXTINF:-1 , ALQUILER 8 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97151
-#EXTINF:-1 , ALQUILER 9 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97150
-#EXTINF:-1 , ALQUILER 10 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97149
-#EXTINF:-1 , ALQUILER 11 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97148
-#EXTINF:-1 , ALQUILER 12 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97147
-#EXTINF:-1 ,MOVIESTAR ACCION HD
-http://iptvcanales.gq/canales/tvfree/337/playlist.m3u8
 #EXTINF:-1,0# 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-
+#EXTINF:-1,LaLiga Tv Bar 
+acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
+#EXTINF:-1,M. LaLiga MultiAudio
+acestream://6904a8e397fe51013aa974f6d1293d8a889836e6
+#EXTINF:-1,M. LaLiga 1 MultiCámara
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1,M. LaLiga
+acestream://ffc077d6cc2acd501c539b51b9c4fbc106b369c3
+#EXTINF:-1,M. LaLiga
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF:-1,M. LaLiga
+acestream://59c95c0f30d265c541d9ef163f652b9542bc0b4b
+#EXTINF:-1,M. LaLiga                                              
+acestream://73e88a8534c46c9f44e63c3ac7ed21a8c74786f0
+#EXTINF:-1,BEIN SPAÑOL
+acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
+#EXTINF:-1,BEIN SPAÑOL
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-0,|SP| ESTRENO MCortes peligrosos
+acestream://b1b6b576027d480336dd4d7a36063c6fcb408175
+#EXTINF:-0,|SP| ESTRENO Cortes peligrosos2
+acestream://7efaf9b7579a4afcf3446f3e2a6be296300456b1
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 1
+acestream://817c443fca3345e5a5990beb146dac2870d95f56
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 2
+acestream://19525a9176fd9202179b77c6c3bf994df7b30866                                        
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 3
+acestream://d799648efbbcb7571c1670ab7988f06926f480d1
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 4
+acestream://9e3b5b9b96d4d9842bda5c87865c5e65a6320b7f
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 5
+https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
 #EXTINF:-1 ,pelicula isla
 https://ia601403.us.archive.org/31/items/viaje-al-centro-de-la-tierra-2-la-isla-misteriosa-2012/Viaje%20al%20centro%20de%20la%20Tierra%202%20-%20La%20isla%20misteriosa%20%282012%29.avi
 #EXTINF:-1 ,Cine Marvel
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/697.m3u8
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 
-https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
 #EXTINF:-1 ,Dragon Ball 24/7
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/425.m3u8
 #EXTINF:-1 ,Dragon Ball GT 24/7
@@ -54,37 +78,14 @@ http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/520.m3u8
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/424.m3u8
 #EXTINF:-1 ,Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/329.m3u8
-#EXTINF:-1 ,SP Acción por M +
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/364.m3u8
-##EXTINF:0 ,MOVISTAR Accion FHD
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1148
-#EXTINF:-1,|SP| Mbed 
-acestream://f22c903366126bd5242b119983a91066d2007b9f
-
-#EXTINF:-1 , CINE Ñ 
-http://iptvcanales.gq/canales/tvfree/346/playlist.m3u8
-#EXTINF:-1 ,M ESTRENO
-http://iptvcanales.gq/canales/live/247/playlist.m3u8
-#EXTINF:-1 ,MOVISTAR SERIES HD
-http://iptvcanales.gq/canales/tvfree/369/playlist.m3u8
-#EXTINF:-1 ,Discovery Max 
-http://91.126.141.12:1935/live/discoverymax/.m3u8
-#EXTINF:-1 ,DARK HD
-http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/197810
 #EXTINF:-1 ,A3S SERIES HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 , CANAL ODISEA
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72980
-#EXTINF:-1 , VIAJAR HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72979
 #EXTINF:-1 , MTV
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72977
 #EXTINF:-1 , MTV DANCE
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72976
 #EXTINF:-1 , DREAMWORKS
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73013
-#EXTINF:-1 , AXN HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73005
 #EXTINF:-1 , XTRM HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73021
 #EXTINF:-1 , 0 HD
@@ -93,16 +94,10 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/73028
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73022
 #EXTINF:-1,  CANAL 24 HORAS
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73029
-#EXTINF:-1 , AMC HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73007
-#EXTINF:-1 , AXN
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73006
 #EXTINF:-1 , AXN WHITE HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73004
 #EXTINF:-1 , CALLE 13 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73003
-#EXTINF:-1 , COMEDY CENTRAL HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73002
 #EXTINF:-1 ,COSMO HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73001
 #EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome 
@@ -115,12 +110,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/96399
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97210
 #EXTINF:-1 , DAZN 2 HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/96398
-#EXTINF:-1 , DAZN 3
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97209
-#EXTINF:-1 , DAZN 3 HD
-http://s1.pixel4k.visión:80/152022019471985/152056322705390/96397
-#EXTINF:-1 , DAZN 4
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97208
 #EXTINF:-1 , DAZN F1
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97207
 #EXTINF:-1 , M.LALIGA HD
@@ -129,18 +118,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/96415
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73102
 #EXTINF:-1 , M. LCAMPEONES
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/97196
-#EXTINF:-1 , M.LCAMPEONES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96416
-#EXTINF:-1 , M. LCAMPEON 2
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97195
-#EXTINF:-1 , M. DEPORTES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97194
-#EXTINF:-1 , M. DEPORTES HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96410
-#EXTINF:-1 , M.DEPORTES1 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96409
-#EXTINF:-1 , M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73075
 #EXTINF:-1 , BEIN LALIGA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73101
 #EXTINF:-1 , EUROSPORT 1
@@ -149,173 +126,19 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/97190
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73099
 #EXTINF:-1 , EUROSPORT1 HD
 http://s1.pixel4k.visión:80/152022019471985/152056322705390/73100
-#EXTINF:-1 , #0 HD
-http://23.237.78.11:7283/3y8kiciermam7qwolhd2fufa0mn33jtt51ksgjfphlegykq7mo/index.m3u8?un=jeanvinueza&tm=1648392741&sn=3ExufPon90crxGdJdZwhgE5wzYw
-#EXTINF:-1 ,ALQUILER 5 HD
-http://23.237.78.11:7283/6qhxtx04tak8kbxvpb5su9g473o21e6c4srvjltze6meonlk63qc7scgz1n/index.m3u8?un=jeanvinueza&tm=1648392741&sn=OYsuEh02Qjx38ozDQFcafiFyrvF
-#EXTINF:-1 , DISCOVERY CHANNEL ESPAÑA HD
-http://23.237.78.11:7283/187euh9j22g62026vkn30ln83s5z4zxwgt1ej9w76xxo0go8b9pi9pgsk0a22lyyffc1apzgdzhmzkwomufts/index.m3u8?un=jeanvinueza&tm=1648392741&sn=7g4vlYNb9Xm9NmfFiMEwoUC7xNu
-#EXTINF:-1 , FOX LIFE
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72999
-#EXTINF:-1 , HOLLYWOOD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72998
-#EXTINF:-1 , PARAMOUNT CHANNEL
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72997
-#EXTINF:-1 , SUNDANCE TV
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72996
-#EXTINF:-1 , NICK/MTV
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73009
-#EXTINF:-1 , CHRISTMAS+ MOVIES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97146
-#EXTINF:-1 , NETFLIX+ MOVIES
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/97145
-#EXTINF:-1 , M.ACCION HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73057
-#EXTINF:-1 , M. CINE ESPANOL
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73056
-#EXTINF:-1 , M. COMEDIA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73055
-#EXTINF:-1 , M.DRAMA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73054
-#EXTINF:-1 , M.ESTRENOS HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73053
-#EXTINF:-1 , M.SERIES HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73052
-#EXTINF:-1 , M.SERIESMANIA HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73051
-#EXTINF:-1, BLAZE
 #EXTINF:-1, F1 1080 , F1 1080 
 acestream://9ddf64cab26efc80aef43eaf15caa01943bd534a
 #EXTINF:-1, F1 1080 , F1 1080 
 acestream://0eb963333f8561e07fc2bd099deacccbdf317b8d
-#EXTINF:-1, F1 dazn F1 SD  , F1 dazn F1 SD 
-acestream://4a03e14ec4e40afce24781e7c54ba9e3575dfe0a
-#EXTINF:-1,externo2, externo2
-acestream://60c39884f16c7b7b676618a4b100124547b3d320
-#EXTINF:-1,externo1, externo1
-acestream://f80249a2127534a95639ad5a23033ee831b31954
-#EXTINF:-1,|SP| Lista Adri wellcome 
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,|SP|  M. Deportes 1 1080
-acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6                                                                                                                                                              
-#EXTINF:-1,|SP|  M.LaLiga  
-acestream://a4f4ad23856aef23c98ca68b7de0a2bb0864236a
-#EXTINF:-1,|SP|  .LaLiga_1 
-acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
-#EXTINF:-1,|SP|  .LaLiga_6
-acestream://8bc3ca34cd9c538e4047e0fe3001fe53b2ac2073
-#EXTINF:-1,|SP|  .Liga Campeones 
-acestream://4390a127822f6122f0a471d86e9c11185989feb0
-#EXTINF:-1,|SP|  M.Liga Campeones_1 
-acestream://b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf
-#EXTINF:-1,|SP|  M.Liga Campeones_3
-acestream://cb88f1f9d2fb881f2569eeff16d052bebc1eec40
-#EXTINF:-1,|SP|  M.Liga Campeones_4
-acestream://00e59d3b53a7e6d4ab636c04aed9803f391da03f
+
 #EXTINF:-1,|SP|   Deportes 
 acestream://065bf7e674897a4310d5d3ed8cec99ba56496ef9
 #EXTINF:-1,|SP|  Vamos 
 acestream://ffc077d6cc2acd501c539b51b9c4fbc106b369c3
-#EXTINF:-1,|SP|  DAZN_
-acestream://c00688c87b642ec0c50067221685b1966705106a
-#EXTINF:-1,|SP|  DAZN_2
-acestream://b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
-#EXTINF:-1,|SP| DAZN_1 
-acestream://c51a1fe43842de6cb5e12f543c05f15a9a642663
-#EXTINF:-1,|SP| DAZN_2 
-acestream://5d5ec96d976d6532d30edde5cd6d04e9f5916182
-#EXTINF:-1,|SP| SportTv_1 
-acestream://e8f5f847f3a3380c37c6a1dbfa87619d4e944ed8
-#EXTINF:-1,|SP| SportTv_2  
-acestream://60c39884f16c7b7b676618a4b100124547b3d320
-#EXTINF:-1,|SP|  SportTv_3 
-acestream://10b55222246760a06dd1d4f9ce3a9d86b1c97ab6 
-#EXTINF:-1,|SP|  TUDN  
-acestream://c32adec51b796a58fc484f99456b035cde188c2a
-#EXTINF:-1,|SP|  TUDN  3
-acestream://597c07bd56b65779a55b08878b236d8deab6297b
 #EXTINF:-1,|SP|  canal 0 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,|SP|  M. golf 1080
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1,|SP|  Vamos 1080
-acestream://2dbea1288c3bad4a8faab395249fb5e5edfde4b6
-#EXTINF:-1,|SP|  uDAZN 1 1080  update
-acestream://4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0
-#EXTINF:-1,|SP|  uDAZN 2 1080  update
-acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
-#EXTINF:-1,|SP|  uDAZN 3 1080  update
-acestream://abfad7e2865448702e4abd46bbcae01c04daab5f
-#EXTINF:-1,|SP|  DAZN 2 1080 update
-acestream://b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
-#EXTINF:-1,|SP|  DAZN 3  1080 update
-acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
-#EXTINF:-1,|SP|  DAZN 4 1080 update
-acestream://3634ae8e7443f637222e0255f0fc70bf3f050e64
-#EXTINF:-1,|SP|  SPORTV 1 update 
-acestream://304f4331286501c5a373a71391b8225900ff7849
-#EXTINF:-1,|SP|  Liga Tv Bar 
-acestream://268361065992567230d35c0d62f02ffdebe8be2d
-#EXTINF:-1,|SP|   La Liga 1080 MultiAudio
-acestream://2b16391b15b98bd06576cfb7f7be400d3f78f2d1
-#EXTINF:-1,|SP|  .La Liga 720 
-acestream://0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d
-#EXTINF:-1,|SP|  M. La Liga 1 1080
-acestream://4477859c90e843d5557297d8e27b64783baeaa29
-#EXTINF:-1,|SP|  .La Liga 2 1080
-acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
-#EXTINF:-1,|SP|  .La Liga 3 1080
-acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440
-#EXTINF:-1,|SP|  VAMOS 720
-acestream://540566088cacb110e5321b3bf8b239680fac01c8
-#EXTINF:-1,|SP|  . Deportes 1080
-acestream://9a68bf410d49d4d140217cfd576cc99e927f1cd6
-#EXTINF:-1,|SP|  M. Deportes 1 1080
-acestream://b2c349035181772990ef2acba88a582833667f88
-#EXTINF:-1,|SP|  M. Deportes 2 1080
-acestream://ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6
-#EXTINF:-1,|SP|  M. Deportes 3 SD
-acestream://d357998908bf0986f5ae2714e0ef471d2e74ceca
-#EXTINF:-1,|SP|  M. Deportes 4 SD
-acestream://a88195215f9b6e38bf6363d28bfe84000a12d46a
-#EXTINF:-1,|SP|  M. Liga de Campeones 1080
-acestream://3484a8b98af044d885fdc5f77e6e46a1506cbcf6
-#EXTINF:-1,|SP|  M. Liga de Campeones 720
-acestream://d7af0bb93ed089d3b1cd733feb7372305126aabc
-#EXTINF:-1,|SP|  M. Liga de Campeones 1 1080
-acestream://836b3aa3e4dfef6b02479a9df15b464cbbef9d26
-#EXTINF:-1,|SP|  M. Liga de Campeones 1  720
-acestream://b9cc8b9cc719992677637b1b7e9dbf871a638181  
-#EXTINF:-1,|SP|  M. Liga de Campeones 2 1080
-acestream://3e35e555174b8bbfa642cf88c5a9ab4ee401f350
-#EXTINF:-1,|SP|  M. Liga de Campeones 3 1080
-acestream://a5d22610cb7bd5608c14249e3984bacb54dfe487
-#EXTINF:-1,|SP|  DAZN 1 1080
-acestream://3fa73a810166f4ad4c5017351e723a5c6cf910c2
-#EXTINF:-1,|SP|  DAZN 2 1080
-acestream://872d02418a60d3fd48b2c0da19b57b7c00550e15
-#EXTINF:-1,|SP|  DAZN 3 1080
-acestream://bf977ed3dbf661329f9aa0eb79849484e01562d2
-#EXTINF:-1,|SP|  DAZN 4 1080
-acestream://a0465ef421f30d0c68ff706654147762ec7b6c03
-#EXTINF:-1,|SP|  DAZN F1 1080 (Fórmula 1)
-acestream://1859c0cd3acc2cd17971be7a6425edf9b98ffdf6
-#EXTINF:-1,|SP|  DAZN F1 720 (Fórmula 1)
-acestream://da465079d5b418a3cac268314dd0b39cb28c88e7
-#EXTINF:-1,|SP|  M.La Liga 2 1080
-acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
-#EXTINF:-1,|SP|   Vamos 1080
-acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
-#EXTINF:-1,|SP|   VAMOS 720
-acestream://540566088cacb110e5321b3bf8b239680fac01c8
-#EXTINF:-1,|SP|  LIGA 1080
-acestream://e378fc79083c3a72b5b0ca59d7770d921e168888
-#EXTINF:-1,|SP|  LIGA 1080e
-acestream://4477859c90e843d5557297d8e27b64783baeaa29
-#EXTINF:-1,|SP|  LIGA 1080h
-acestream://b35fd54093c095e9afce3f20c512d622d0e94ac4
-#EXTINF:-1,|SP|  LIGA 1080
-acestream://100461294df29635ad81a5c8890f7a3dbdb875d4
+
+
 #EXTINF:-1 ,CAZAYPESCA HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72988
 #EXTINF:-1 , CRIMEN+INVES
@@ -372,17 +195,219 @@ http://dne7ilyf0sbysoazq8e2jz.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=1
 http://rgocqpatroei2kvbuhed3x.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=405&t=live&f=ts
 #EXTINF:-1 ,COSMO HD
 http://m4sesl0jonuahtfp79xfq5.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=406&t=live&f=ts
-#EXTINF:-1 ,M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73081
-#EXTINF:-1 , M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96395
-#EXTINF:-1 ,M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73080
-#EXTINF:-1 , M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96394
-#EXTINF:-1 , M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73079
-#EXTINF:-1  , M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/96393
-#EXTINF:-1 ,PROCAJA TV1
-http://kwnzca5ujsxywlvx73d2p1.m8u.newnow.me/live/dash.php?z=997&u=Qv48il5bEB&s=116661646561&id=26722&t=live&f=ts
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/12/no-mires-arriba-poster-sinopsis1.jpg", No Mires Arriba  | Phoenix'DreamsTV
+https://ia804601.us.archive.org/4/items/n0m1r3s-4rr1b42021/n0m1r3s-4rr1b42021.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/monstermania.jpg", Monstermanía  | Phoenix'DreamsTV
+https://ia601403.us.archive.org/26/items/m0n5t3rm4n142021/m0n5t3rm4n142021.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg", Finch | Phoenix´DreamsTV
+https://ia904601.us.archive.org/33/items/1f-1nc-0h/1f1nc0h.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Bienvenidos_a_Raccoon_City-764554100-large.jpg", Resident Evil: Bienvenidos a Raccoon City | Phoenix´DreamsTV
+https://ia601405.us.archive.org/23/items/rp-189-pr/RP189PR.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://kbimages1-a.akamaihd.net/84c452ca-9e34-49aa-9f0a-bdcb843207f3/1200/1200/False/hotel-transylvania-transformania-movie-novelization.jpg", Hotel Transylvania: Transformania | Phoenix´DreamsTV
+https://ia601502.us.archive.org/17/items/0t-31tr-4n-51lv-4n-142022/0t31tr4n51lv4n142022.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | Phoenix´DreamsTV
+https://ia801500.us.archive.org/0/items/m-4tr-1x-2021/M4tr1x2021.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
+https://ia601504.us.archive.org/31/items/c4s42021/c4s42021.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-xFW5MwvS30w/XxhlfNtZRHI/AAAAAAAAICY/a96eYyHdng00q6PkMGjbR4MAEzFxTdDagCLcBGAsYHQ/s500/BLACKPANTER.jpg", Black Panther | Phoenix'DreamsTV
+https://ia802800.us.archive.org/30/items/Seminario8/Seminario2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/81V1KTnYKwL._SL1371_.jpg", Avengers Infinity War | Phoenix'DreamsTV
+https://ia802800.us.archive.org/30/items/Seminario8/Seminario1.mkv
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://irs.www.warnerbros.es/keyart-jpeg/movies/media/browser/las-brujas-1417.jpg", Las Brujas | Phoenix'DreamsTV
+https://archive.org/download/l-45-2020-bruj-45/L45%20%20%282020%29%20bruj45.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | Phoenix'DreamsTV
+https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinemagavia.es/wp-content/uploads/2021/06/Viuda-Negra-poster.jpg.webp", La Viuda Negra | Phoenix'DreamsTV
+https://archive.org/download/123-1ud-4-7n-3gr-123/123-1ud4-7n3gr123.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-3zvFIl_kGQY/YMNpMvzXcKI/AAAAAAAAkG0/s7rVrZrKBboSlOdvvCZyHOw7YfHglJjKACLcBGAsYHQ/s500/91iRHcxCIXS._SS500_.jpg", Infinite | Phoenix'DreamsTV
+https://archive.org/download/1nf-1n-1t-3/1nf1n1t3.ia.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/84/Jungle_Cruise_Poster_%282%29.jpg", Jungle Cruise | Phoenix'DreamsTV
+https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://rockthebestmusic.com/wp-content/uploads/2021/06/Luca-cover.jpg", Luca | Phoenix'DreamsTV
+https://archive.org/download/1uc-4_202106/1uc4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/26/17/45/4238572.jpg", La Guerra Del Mañana | Phoenix'DreamsTV
+https://archive.org/download/14-gu-3rr-4-d-31-m-4n-4n-4/14%20gu3rr4%20d31%20m4%C3%B14n4%20.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-PAKSao3OdO0/YC0vsj0tz2I/AAAAAAAAKpU/GIQH7QOPlyUgQ2B6hL70dV4cEJyOju06wCLcBGAsYHQ/s758/cruela-disney-emma-stone.jpg", Cruella | Phoenix'DreamsTV
+https://archive.org/download/c-7u-3ll-4/C7u3ll4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://as.com/meristation/imagenes/2021/03/17/avances/1615986299_957691_1615993077_noticia_normal_recorte1.jpg", Mortal Kombat | Phoenix'DreamsTV
+https://archive.org/download/m-0rt-4l-k-0mb-4/M0rt4l%20K0mb4%2B.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/03/5442885.jpg", El Joker | Phoenix'DreamsTV
+https://archive.org/download/j-0k-3r_202106/J0k3r.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36204-715581-20210601021907.jpg", El Conjuro 3 | Phoenix'DreamsTV
+https://archive.org/download/3l-c-0njur-0-3/3l%20%C3%A70njur0%20-%203.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36401-547465-20210721035236.jpg", Jefe En Pañales 2 | Phoenix'DreamsTV
+https://archive.org/download/j-3f-3-3n-p-4n-4l-35-2/J3f3%203n%20P4%C3%B14l35%20-%202.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Raya_y_el_ltimo_drag_n-458441308-large.jpg", Raya | Phoenix'DreamsTV
+https://archive.org/download/r-4y-4/R4y4.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | Phoenix´DreamsTV
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+
+
+
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | Phoenix´DreamsTV
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro | Phoenix´DreamsTV
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2 | Phoenix´DreamsTV
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3 | Phoenix´DreamsTV
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name | Phoenix´DreamsTV
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | Phoenix´DreamsTV
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | Phoenix´DreamsTV
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | Phoenix´DreamsTV
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | Phoenix´DreamsTV
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | Phoenix´DreamsTV  
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | Phoenix´DreamsTV  
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://elcafetindelas5.files.wordpress.com/2013/03/resena-nosotros-los-nobles_121446_28022-670x503.jpg", Nosotros Los Nobles | Phoenix´DreamsTV  
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | Phoenix´DreamsTV  
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | Phoenix´DreamsTV  
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | Phoenix´DreamsTV  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | Phoenix´DreamsTV  
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | Phoenix´DreamsTV  
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | Phoenix´DreamsTV  
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+
+
+
+
+
+REGIOFLIX
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/el-proyecto-adam-netflix-nuevo-trailer-poster-2-1080x1598-977490136.jpg", Proyecto Adam | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/proyectoadam.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Scream5Grita.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.aullidos.com/imagenes/caratulas/matanza-texas-2022.jpg", Masacre en Texas 2022 | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/masacreentexas2022.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://comoacaba.com/wp-content/uploads/2022/02/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg", Venganza a Golpes | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/golpesdevenganza.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://adeymovies.com/wp-content/uploads/2021/05/Riverdance-The-Animated-Adventure-2021.jpg", Riverdance | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/riverdance.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/2022/02/KIMI-poster.jpg?fit=696%2C1031&ssl=1", Kimi | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/kimi.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/1400/1460/003.jpg", Volver al futuro | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/volver.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/51URcEemjTL._AC_.jpg", Volver al futuro 2 | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/volver2.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al futuro 3 | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/volver3.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/91/f7/f1/91f7f1bfc1232cb4b192c2a45a3c8015.jpg", Sangre por Sangre | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/sangrexsangre.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fe0hiusviaml5nj_mtu1.jpg", Matrix Resurecciones | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/matrix2021.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cinembrollos.files.wordpress.com/2021/06/hotel_transylvania_transformania.jpg", Hotel Transylvania Transformania | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/hoteltransylvaniatransformania.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos | Phoenix´DreamsTV
+http://regioplay.xyz/223022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo | Phoenix´DreamsTV
+http://regioplay.xyz/php/SR_REGIO_223022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi | Phoenix´DreamsTV
+http://regioplay.xyz/223022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://allpeliculas.ac/wp-content/uploads/2021/10/0815e542ae8eccf0e97d2df02e023f0bbTlQchCU05xJZyn4Va8gHkTeayu.jpg", Una momia en Halloween | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", You´re not alone | Phoenix´DreamsTV
+http://regioplay.xyz/223022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9 | Phoenix´DreamsTV
+http://regioplay.xyz/223022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era | Phoenix´DreamsTV
+http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO | Phoenix´DreamsTV
+http://regioplay.xyz/223022/coco.mkv
