@@ -1,16 +1,12 @@
 #EXTM3U
+
+
+
+
 #EXTINF:-1 ,pelicula isla
 https://ia601403.us.archive.org/31/items/viaje-al-centro-de-la-tierra-2-la-isla-misteriosa-2012/Viaje%20al%20centro%20de%20la%20Tierra%202%20-%20La%20isla%20misteriosa%20%282012%29.avi
 #EXTINF:-1 ,Cine Marvel
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/697.m3u8
-#EXTINF:-1 ,Cine Marvel HD
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/701.m3u8
-EXTINF:-1 ,Cine Ficcion/Fantasia 1
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/709.m3u8
-#EXTINF:-1 ,Cine Ficción/Fantasia HD
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/712.m3u8
-#EXTINF:-1 ,Cine Ficcion/Fantasia Sagas
-http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/711.m3u8
 #EXTINF:-0,|SP| ESTRENO Muerte en el nilo 
 https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
 #EXTINF:-1 ,Dragon Ball 24/7
@@ -21,10 +17,6 @@ http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/520.m3u8
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/424.m3u8
 #EXTINF:-1 ,Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/329.m3u8
-#EXTINF:-1,|SP| Vamos 1080
-acestream://28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
-#EXTINF:-1,|SP| prueba cod
-http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1143
 #EXTINF:-1,0# 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1,Estrenos 2 fhd
