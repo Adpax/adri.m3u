@@ -35,20 +35,10 @@ https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/
 https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 , Butaca TV 2 | MX
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 , XMEN APOCALIPSIS dual
-http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
 #EXTINF:-0,|SP| ESTRENO MCortes peligrosos
 acestream://b1b6b576027d480336dd4d7a36063c6fcb408175
-#EXTINF:-0,|SP| ESTRENO Cortes peligrosos2
-acestream://7efaf9b7579a4afcf3446f3e2a6be296300456b1
 #EXTINF:-0,|SP| ESTRENO Muerte en el nilo 1
 acestream://817c443fca3345e5a5990beb146dac2870d95f56
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 2
-acestream://19525a9176fd9202179b77c6c3bf994df7b30866                                        
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 3
-acestream://d799648efbbcb7571c1670ab7988f06926f480d1
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 4
-acestream://9e3b5b9b96d4d9842bda5c87865c5e65a6320b7f
 #EXTINF:-0,|SP| ESTRENO Muerte en el nilo 5
 https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
 #EXTINF:-1 ,pelicula isla
@@ -69,6 +59,8 @@ http://iptv.premiumstore.biz:8080/movie/Osv4ldoB4eza/Osv4ldoB4eza1/99023.mkv
 http://xdgo.live:8080/movie/Normieandflax/65hfxFsbkE/58247.mkv
 #EXTINF:-1 ,ESTRENOS DEL CINE",Sing 2: ¡Ven y canta de nuevo! (Full HD)
 http://iptv.premiumstore.biz:8080/movie/Osv4ldoB4eza/Osv4ldoB4eza1/94904.mkv
+#EXTINF:-1 , XMEN APOCALIPSIS dual
+http://51.77.66.14/Marvel/X-Men/X-Men%208%20-%20Apocalypse.mkv
 #EXTINF:-1 , MTV
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72977
 #EXTINF:-1 , MTV DANCE
@@ -87,8 +79,6 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/73029
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73004
 #EXTINF:-1,•●★-- Deportes de España --★●•
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117111
-#EXTINF:-1,ESP - #Vamos (TV)(1080)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117130
 #EXTINF:-1,ESP - #Vamos (TV)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117129
 #EXTINF:-1,ESP - Barça TV (X)(1080)
@@ -143,16 +133,6 @@ http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117144
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117143
 #EXTINF:-1,ESP - Teledeporte (TV)(1080)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117135
-#EXTINF:-1,ESP - Toros TV (TV)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117206
-#EXTINF:-1,•●★-- TDT ESPAÑA--★●
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117283
-#EXTINF:-1,ESP - 24 Horas (X)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117676
-#EXTINF:-1,ESP - 24h (TV)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117168
-#EXTINF:-1,ESP - Antena 3 (X)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117158
 #EXTINF:-1,ESP - Antena 3 (TV)(1080)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117159
 #EXTINF:-1,ESP - Antena 3 Internacional (TV)(1080)
@@ -161,12 +141,6 @@ http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117160
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117173
 #EXTINF:-1,ESP - BeMad (TV)(1080)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117174
-#EXTINF:-1,ESP - Calle 13 (X)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117218
-#EXTINF:-1,ESP - Calle 13 (TV)(1080)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117219
-#EXTINF:-1,ESP - COSMO (TV)(1080)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117203
 #EXTINF:-1,ESP - Cuatro (X)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117161
 #EXTINF:-1,ESP - Cuatro (TV)(1080)
@@ -183,18 +157,6 @@ http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117176
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117178
 #EXTINF:-1,ESP - Hispan TV (TV)(SD)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117169
-#EXTINF:-1,ESP - La 1 (X)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117153
-#EXTINF:-1,ESP - La 1 (TV)(1080)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117154
-#EXTINF:-1,ESP - La 2 (X)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117155
-#EXTINF:-1,ESP - La 2 (TV)(1080)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117156
-#EXTINF:-1,ESP - La Sexta (X)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117165
-#EXTINF:-1,ESP - La Sexta (TV)(1080)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117166
 #EXTINF:-1,ESP - MEGA (X)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117171
 #EXTINF:-1,ESP - MEGA (TV)(1080)
