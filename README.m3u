@@ -35,11 +35,11 @@ https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/
 https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 , Butaca TV 2 | MX
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-0,|SP| ESTRENO MCortes peligrosos
+#EXTINF:-1,|SP| ESTRENO MCortes peligrosos
 acestream://b1b6b576027d480336dd4d7a36063c6fcb408175
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 1
-acestream://817c443fca3345e5a5990beb146dac2870d95f56
-#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 5
+#EXTINF:-1,|SP| ESTRENO Muerte en el nilo 1
+https://ia801507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
+#EXTINF:-5, |SP| ESTRENO Muerte en el nilo 5
 https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
 #EXTINF:-1 ,pelicula isla
 https://ia601403.us.archive.org/31/items/viaje-al-centro-de-la-tierra-2-la-isla-misteriosa-2012/Viaje%20al%20centro%20de%20la%20Tierra%202%20-%20La%20isla%20misteriosa%20%282012%29.avi
