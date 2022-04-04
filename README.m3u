@@ -63,8 +63,12 @@ http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/520.m3u8
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/424.m3u8
 #EXTINF:-1 ,Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/329.m3u8
-#EXTINF:-1 ,A3S SERIES HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 ,ESTRENOS DEL CINE",Spider-Man: Sin Camino a Casa (Full HD)
+http://iptv.premiumstore.biz:8080/movie/Osv4ldoB4eza/Osv4ldoB4eza1/99023.mkv
+#EXTINF:-1 ) ,="ESTRENOS DEL CINE",Matrix: Resurecciones (Full HD)
+http://xdgo.live:8080/movie/Normieandflax/65hfxFsbkE/58247.mkv
+#EXTINF:-1 ,ESTRENOS DEL CINE",Sing 2: ¡Ven y canta de nuevo! (Full HD)
+http://iptv.premiumstore.biz:8080/movie/Osv4ldoB4eza/Osv4ldoB4eza1/94904.mkv
 #EXTINF:-1 , MTV
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72977
 #EXTINF:-1 , MTV DANCE
@@ -81,10 +85,266 @@ http://s1.pixel4k.vision:80/152022019471985/152056322705390/73022
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73029
 #EXTINF:-1 , AXN WHITE HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/73004
-#EXTINF:-1 , CALLE 13 HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73003
-#EXTINF:-1 ,COSMO HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/73001
+#EXTINF:-1,•●★-- Deportes de España --★●•
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117111
+#EXTINF:-1,ESP - #Vamos (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117130
+#EXTINF:-1,ESP - #Vamos (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117129
+#EXTINF:-1,ESP - Barça TV (X)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117132
+#EXTINF:-1,ESP - Eurosport 1 (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117140
+#EXTINF:-1,ESP - Eurosport 2 (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117142
+#EXTINF:-1,ESP - Gol (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117678
+#EXTINF:-1,ESP - GOL (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117131
+#EXTINF:-1,ESP - LaLiga TV Bar (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117126
+#EXTINF:-1,ESP - LaLiga TV Bar (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117125
+#EXTINF:-1,ESP - M. Deportes (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117139
+#EXTINF:-1,ESP - M. Deportes (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117138
+#EXTINF:-1,ESP - M. F1 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117679
+#EXTINF:-1,ESP - M. F1 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117134
+#EXTINF:-1,ESP - M. Golf (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117137
+#EXTINF:-1,ESP - M. LaLiga (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117124
+#EXTINF:-1,ESP - M. LaLiga (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117123
+#EXTINF:-1,ESP - M. LaLiga 1 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117146
+#EXTINF:-1,ESP - M. LaLiga 1 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117145
+#EXTINF:-1,ESP - M. LaLiga 2 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117147
+#EXTINF:-1,ESP - M. LaLiga 3 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117148
+#EXTINF:-1,ESP - M. Liga de Campeones (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117128
+#EXTINF:-1,ESP - M. Liga de Campeones (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117127
+#EXTINF:-1,ESP - M. Liga de Campeones 1 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117149
+#EXTINF:-1,ESP - M. Liga de Campeones 2 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117150
+#EXTINF:-1,ESP - Multideportes (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117112
+#EXTINF:-1,ESP - Real Madrid TV (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117144
+#EXTINF:-1,ESP - Real Madrid TV (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117143
+#EXTINF:-1,ESP - Teledeporte (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117135
+#EXTINF:-1,ESP - Toros TV (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117206
+#EXTINF:-1,•●★-- TDT ESPAÑA--★●
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117283
+#EXTINF:-1,ESP - 24 Horas (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117676
+#EXTINF:-1,ESP - 24h (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117168
+#EXTINF:-1,ESP - Antena 3 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117158
+#EXTINF:-1,ESP - Antena 3 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117159
+#EXTINF:-1,ESP - Antena 3 Internacional (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117160
+#EXTINF:-1,ESP - BeMad (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117173
+#EXTINF:-1,ESP - BeMad (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117174
+#EXTINF:-1,ESP - Calle 13 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117218
+#EXTINF:-1,ESP - Calle 13 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117219
+#EXTINF:-1,ESP - COSMO (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117203
+#EXTINF:-1,ESP - Cuatro (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117161
+#EXTINF:-1,ESP - Cuatro (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117162
+#EXTINF:-1,ESP - DARK (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117221
+#EXTINF:-1,ESP - Divinity (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117177
+#EXTINF:-1,ESP - Dkiss (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117175
+#EXTINF:-1,ESP - DMAX (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117176
+#EXTINF:-1,ESP - Energy (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117178
+#EXTINF:-1,ESP - Hispan TV (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117169
+#EXTINF:-1,ESP - La 1 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117153
+#EXTINF:-1,ESP - La 1 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117154
+#EXTINF:-1,ESP - La 2 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117155
+#EXTINF:-1,ESP - La 2 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117156
+#EXTINF:-1,ESP - La Sexta (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117165
+#EXTINF:-1,ESP - La Sexta (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117166
+#EXTINF:-1,ESP - MEGA (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117171
+#EXTINF:-1,ESP - MEGA (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117172
+#EXTINF:-1,ESP - Neox (TV)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117183
+#EXTINF:-1,ESP - Odisea (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117181
+#EXTINF:-1,ESP - Telecinco (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117736
+#EXTINF:-1,ESP - Telecinco (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117164
+#EXTINF:-1,ESP - Telecinco (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117163
+#EXTINF:-1,ESP - Telemadrid (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117261
+#EXTINF:-1,ESP - TVE Internacional (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117152
+#EXTINF:-1,•●★-- Cine TV --★●
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117209
+#EXTINF:-1,ESP - #0 (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117211
+#EXTINF:-1,ESP - #0 (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117210
+#EXTINF:-1,ESP - A3Series (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117229
+#EXTINF:-1,ESP - A3Series Internacional (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117230
+#EXTINF:-1,ESP - AMC (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117212
+#EXTINF:-1,ESP - AMC (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117213
+#EXTINF:-1,ESP - Antena Series (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117157
+#EXTINF:-1,ESP - AXN (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117214
+#EXTINF:-1,ESP - AXN (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117215
+#EXTINF:-1,ESP - AXN White (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117216
+#EXTINF:-1,ESP - AXN White (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117217
+#EXTINF:-1,ESP - Bom Cine (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117258
+#EXTINF:-1,ESP - Comedy Central (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117196
+#EXTINF:-1,ESP - Comedy Central (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117197
+#EXTINF:-1,ESP - FOX (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117222
+#EXTINF:-1,ESP - FOX (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117223
+#EXTINF:-1,ESP - FOX Life (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117225
+#EXTINF:-1,ESP - Hollywood (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117231
+#EXTINF:-1,ESP - M. Accion (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117232
+#EXTINF:-1,ESP - M. Accion (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117233
+#EXTINF:-1,ESP - M. Cine Español (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117337
+#EXTINF:-1,ESP - M. CineDoc&Roll (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117236
+#EXTINF:-1,ESP - M. Comedia (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117237
+#EXTINF:-1,ESP - M. Comedia (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117238
+#EXTINF:-1,ESP - M. Disney+ (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117275
+#EXTINF:-1,ESP - M. Drama (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117239
+#EXTINF:-1,ESP - M. Drama (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117240
+#EXTINF:-1,ESP - M. Dreamworks (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117277
+#EXTINF:-1,ESP - M. Estrenos (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117241
+#EXTINF:-1,ESP - M. Estrenos (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117242
+#EXTINF:-1,ESP - M. Series (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117243
+#EXTINF:-1,ESP - M. Series (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117244
+#EXTINF:-1,ESP - M. Seriesmania (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117245
+#EXTINF:-1,ESP - M. Seriesmania (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117246
+#EXTINF:-1,ESP - SyFy (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117248
+#EXTINF:-1,ESP - Paramount Channel (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117259
+#EXTINF:-1,ESP - SOMOS (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117228
+#EXTINF:-1,ESP - TCM (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117250
+#EXTINF:-1,ESP - TNT (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117252
+#EXTINF:-1,ESP - TNT (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117251
+#EXTINF:-1,•●★-- Infantil --★●
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117263
+#EXTINF:-1,ESP - Baby TV (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117274
+#EXTINF:-1,ESP - Canal Cocina (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117200
+#EXTINF:-1,ESP - Disney Channel (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117267
+#EXTINF:-1,ESP - Disney Channel (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117268
+#EXTINF:-1,ESP - Disney Junior (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117269
+#EXTINF:-1,ESP - Nick Jr (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117270
+#EXTINF:-1,ESP - Nickelodeon (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117272
+#EXTINF:-1,•●★-- Documentales--★●
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117284
+#EXTINF:-1,ESP - Canal Panda (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117273
+#EXTINF:-1,ESP - Caza y Pesca (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117226
+#EXTINF:-1,ESP - Caza y Pesca (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117227
+#EXTINF:-1,ESP - Crimen Investigacion
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117185
+#EXTINF:-1,ESP - Decasa (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117199
+#EXTINF:-1,ESP - Discovery Channel (X)(SD)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117188
+#EXTINF:-1,ESP - Discovery Channel (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117189
+#EXTINF:-1,ESP - Historia (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117190
+#EXTINF:-1,ESP - Historia (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117191
+#EXTINF:-1,ESP - National Geographic (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117194
+#EXTINF:-1,ESP - Nat Geo Wild (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117193
+#EXTINF:-1,ESP - Nat Geo Wild (X)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117192
+#EXTINF:-1,ESP - Viajar (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117204
+#EXTINF:-1,•●★-- Musicales --★●
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117278
+#EXTINF:-1,ESP - MTV España (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117279
+#EXTINF:-1,ESP - XTRM (TV)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/117253
 #EXTINF:-1,|SP|  DAZN1  Lista Adri wellcome 
 acestream://4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:-1 , DAZN 1
