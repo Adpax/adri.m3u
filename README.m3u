@@ -1,10 +1,9 @@
 #EXTM3U
-
-
+#EXTINF:-1,0# 1080
+acestream://1bcc00e509dbc2e58ce11bd9df042fa75e265258
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-#EXTINF:-1,0# 1080
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1,LaLiga Tv Bar 
 acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
 #EXTINF:-1,M. LaLiga MultiAudio
