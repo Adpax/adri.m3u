@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,M. Liga de Campeones 1080  MultiAudio
+acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF:-1,M. Liga de Campeones 1080  MultiAudio
+acestream://1b5bbb4a596dbd0906c67d9943efec9ec75253ff
+#EXTINF:-1,low
+acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF:-1,Liga Tv Bar 1080 (Update)
+acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
+#EXTINF:-1,M. Liga de Campeones 1 1080
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 #EXTINF:-1,0# 1080
 acestream://1bcc00e509dbc2e58ce11bd9df042fa75e265258
 #EXTINF:-1,TNT HD
