@@ -1,6 +1,29 @@
 #EXTM3U
-#EXTINF:-1,M. Liga de Campeones 1080  MultiAudio
-acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF:-1,TNT HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
+864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fallito/TheLogoDB/master/Images/AXN.png,AXN spain
+http://78.201.98.110:8000/play/a06v
+
+#EXTINF:-1 group-title="spain" tvg-shift="0",M Series
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2667
+
+#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Accion
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2665
+
+#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Comedia 
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2671
+
+#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Cine Español
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2672
+
+#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Estrenos
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2669
+
+#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Drama 
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2670
+
 #EXTINF:-1,M. Liga de Campeones 1080  MultiAudio
 acestream://1b5bbb4a596dbd0906c67d9943efec9ec75253ff
 #EXTINF:-1,low
@@ -11,23 +34,6 @@ acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
 acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 #EXTINF:-1,0# 1080
 acestream://1bcc00e509dbc2e58ce11bd9df042fa75e265258
-#EXTINF:-1,TNT HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,LaLiga Tv Bar 
-acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
-#EXTINF:-1,M. LaLiga MultiAudio
-acestream://6904a8e397fe51013aa974f6d1293d8a889836e6
-#EXTINF:-1,M. LaLiga 1 MultiCámara
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1,M. LaLiga
-acestream://ffc077d6cc2acd501c539b51b9c4fbc106b369c3
-#EXTINF:-1,M. LaLiga
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:-1,M. LaLiga
-acestream://59c95c0f30d265c541d9ef163f652b9542bc0b4b
-#EXTINF:-1,M. LaLiga                                              
-acestream://73e88a8534c46c9f44e63c3ac7ed21a8c74786f0
 #EXTINF:-1,BEIN SPAÑOL
 acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
 #EXTINF:-1,BEIN SPAÑOL
