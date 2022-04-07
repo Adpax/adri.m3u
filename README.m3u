@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1,Paramount
+http://photocall.xyz/o2eh/l2?ch=paramount
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fallito/TheLogoDB/master/Images/AXN.png,AXN spain
 http://78.201.98.110:8000/play/a06v
@@ -23,7 +24,6 @@ http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2669
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Drama 
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2670
-
 #EXTINF:-1,M. Liga de Campeones 1080  MultiAudio
 acestream://1b5bbb4a596dbd0906c67d9943efec9ec75253ff
 #EXTINF:-1,low
