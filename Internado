@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, 1X01 2
+plugin://plugin.video.p2p-streams/?url=acestream://792f38bc19547c6b6c39f7ffcae366db2b2c80e7&mode=1&name=acestream+SKY
 #EXTINF:-1, 1X01 
 acestream://d1e2270cc49ddf205e0308eeb0712dbd00e778f6
 #EXTINF:-1, 1X02 
