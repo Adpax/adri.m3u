@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, 1X01 2
-plugin://plugin.video.p2p-streams/?url=acestream://792f38bc19547c6b6c39f7ffcae366db2b2c80e7&mode=1&name=acestream+SKY
+
 #EXTINF:-1, 1X01 
+#EXTGRP:Спорт
 acestream://d1e2270cc49ddf205e0308eeb0712dbd00e778f6
-#EXTINF:-1, 1X02 
+#EXTINF:-0, 1X02 
 acestream://792f38bc19547c6b6c39f7ffcae366db2b2c80e7
 #EXTINF:-1, 1X03 
 acestream://61bfcf25869b1ce08c380a0c86fb857d6831ccc5
