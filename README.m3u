@@ -15,8 +15,7 @@ https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",M Series
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2667
-
+acestream://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Accion
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2665
 
