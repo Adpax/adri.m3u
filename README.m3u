@@ -13,7 +13,28 @@ https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/
 https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 , Butaca TV 2 | MX
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26134&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 2 " tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 2 
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26135&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 3" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26136&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 4" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 4
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26137&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 5" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 5
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26138&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="SPAIN",Peliculas Action HD 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26114&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="SPAIN",Peliculas Action HD 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26115&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="SPAIN",Peliculas Action HD 3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26116&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="SPAIN",Peliculas Action HD 4
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26117&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="SPAIN",Peliculas Action HD 5
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26118&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 6" tvg-logo="" group-title="SPAIN",Peliculas Action HD 6
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26119&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="" group-title="SPAIN",M. ESTRENOS 2 HD
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26663&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="SPAIN",M. ACCION HD
