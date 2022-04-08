@@ -9,9 +9,8 @@ https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:0 , RAKUTEN ACCION
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:-1 , Butaca TV | ES
-https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 , Butaca TV 2 | MX
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="SPAIN",24/7 Raised By Wolves
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26265&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 1
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26134&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
