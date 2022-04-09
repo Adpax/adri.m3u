@@ -35,7 +35,7 @@ acestream://22aa62ff527036b8ca6a96208b1025a5d4c1ed51
 acestream://930a41adbecf95a86ea15cabacde9e024fd8731a
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="SPAIN",24/7 Raised By Wolves
+#EXTINF:-0 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="SPAIN",24/7 Raised By Wolves
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26265&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Accion
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2665
@@ -264,11 +264,9 @@ acestream://5da88bd42cd50b54570cd61fbae8749d9d886722
 acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
 #EXTINF:-1,|SP| ESTRENO MCortes peligrosos
 acestream://b1b6b576027d480336dd4d7a36063c6fcb408175
-#EXTINF:-1,|SP| ESTRENO Muerte en el nilo 1
+#EXTINF:-0,|SP| ESTRENO Muerte en el nilo 1
 https://ia801507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
-#EXTINF:-5, |SP| ESTRENO Muerte en el nilo 5
-https://ia601507.us.archive.org/13/items/muerte-en-el-nilo-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-link/Muerte%20en%20el%20Nilo%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.LINK%5D.avi
-#EXTINF:-1 ,pelicula isla
+#EXTINF:-0 ,pelicula isla
 https://ia601403.us.archive.org/31/items/viaje-al-centro-de-la-tierra-2-la-isla-misteriosa-2012/Viaje%20al%20centro%20de%20la%20Tierra%202%20-%20La%20isla%20misteriosa%20%282012%29.avi
 #EXTINF:-1 ,Cine Marvel
 http://user.tvcluboficial.com/stream/free_IC_TzU/Gl5/697.m3u8
