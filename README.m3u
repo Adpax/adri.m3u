@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1,MOONFALL
-https://archive.org/download/moonfall-2022-line-blu-ray-screener-castellano-linewww.atomix-hq.-link/Moonfall%20%282022%29%20%28Line%29%20%5BBluRay%20Screener%5D%5BCastellano%20Line%5D%5Bwww.atomixHQ.LINK%5D.mkv
 #EXTINF:-0,MOONFALL
 https://archive.org/download/moonfall-2022-line-blu-ray-screener-castellano-linewww.atomix-hq.-link/Moonfall%20%282022%29%20%28Line%29%20%5BBluRay%20Screener%5D%5BCastellano%20Line%5D%5Bwww.atomixHQ.LINK%5D.mkv
 #EXTINF:-2,MOONFALL
 https://archive.org/download/moonfall-2022-line-blu-ray-screener-castellano-linewww.atomix-hq.-link/Moonfall%20%282022%29%20%28Line%29%20%5BBluRay%20Screener%5D%5BCastellano%20Line%5D%5Bwww.atomixHQ.LINK%5D.mkv
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
-#EXTINF:0 , RAKUTEN TOP FREE
+#EXTINF:-1 , RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0, RAKUTEN TV DRAMA
+#EXTINF:-1, RAKUTEN TV DRAMA
 https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0 , RAKUTEN COMEDIA
+#EXTINF:-1 , RAKUTEN COMEDIA
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:0 , RAKUTEN ACCION
+#EXTINF:-1 , RAKUTEN ACCION
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1,Liga Tv Bar 1080
 acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
