@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,Liga Tv Bar 1080
+acestream://608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
+#EXTINF:-1,M. La Liga 1080 MultiAudio
+acestream://6904a8e397fe51013aa974f6d1293d8a889836e6
+#EXTINF:-1,.La Liga 720
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF:-1,. La Liga 1 1080
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1,.La Liga 2 1080 
+acestream://ed147166c7df93f7aecba44d4e2fc9383d028218
+#EXTINF:-1,M.La Liga 3 1080
+acestream://e693d6b35ee9dc2c6a0d0593edec281268e79440
+#EXTINF:-1, TV 1080
+acestream://49c35606668ebf7a895434ec4c9243a163d87718
+#EXTINF:-1,M.La Liga 2 720
+acestream://8ac5778f5481ba48861ce7e3b6f438fa214f7161
+#EXTINF:-1,M.La Liga 3 720
+acestream://22aa62ff527036b8ca6a96208b1025a5d4c1ed51
+#EXTINF:-1,M.La Liga 3 720
+acestream://930a41adbecf95a86ea15cabacde9e024fd8731a
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:0 , RAKUTEN TOP FREE
