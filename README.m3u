@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1,MTV 2
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1,MTV
 http://rec2.distv.net/jorge/102030/617
+#EXTINF:-1,MTV
+http://tvdevv.club:8080/play/RKxPB3m7W6mL4euJkoFCyvKviUyp-VHXbGZ64gRrh1S4yFRO4ifN06zNfy55bpet
 #EXTINF:-0,estreno MOONFALL
 https://archive.org/download/moonfall-2022-line-blu-ray-screener-castellano-linewww.atomix-hq.-link/Moonfall%20%282022%29%20%28Line%29%20%5BBluRay%20Screener%5D%5BCastellano%20Line%5D%5Bwww.atomixHQ.LINK%5D.mkv
 #EXTINF:-2,MOONFALL
