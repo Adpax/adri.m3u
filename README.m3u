@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-0,estreno halo 1x01
 https://archive.org/download/halo-1x-01-hdtv-dual-latino-subtitulado/Halo%201x01%20HDTV%20DUAL%20Latino%20%2B%20Subtitulado.mp4
+#EXTINF:-0,estreno halo 1x02
+https://archive.org/download/halo.-s-01e-02.latino.cinecalidad.live.mp-4/Halo.S01e02.latino.cinecalidad.live.mp4.m4v
+#EXTINF:-0,estreno halo 1x03
+https://archive.org/download/halo.-s-01e-03-dual-latino-1080pwww.cinecalidad.live/Halo.S01e03-%28dual-latino%29%281080p%29%28www.cinecalidad.live%29.mp4
+#EXTINF:-0,Cine Animación Marte necesita madres
+https://archive.org/download/marte.-necesita.-madres.-dvd.-xvi-d.www.-divx-tota-l.com/Marte.Necesita.Madres.DVD.XviD.%5Bwww.DivxTotaL.com%5D.avi
 #EXTINF:-1,MTV 2
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1,MTV
