@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-0,estreno halo 1x01
+https://archive.org/download/halo-1x-01-hdtv-dual-latino-subtitulado/Halo%201x01%20HDTV%20DUAL%20Latino%20%2B%20Subtitulado.mp4
 #EXTINF:-1,MTV 2
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1,MTV
