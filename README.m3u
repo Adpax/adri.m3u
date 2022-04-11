@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TNT HD
+http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1,estreno halo 1x01
 https://archive.org/download/halo-1x-01-hdtv-dual-latino-subtitulado/Halo%201x01%20HDTV%20DUAL%20Latino%20%2B%20Subtitulado.mp4
 #EXTINF:-0,estreno halo 1x01
@@ -13,18 +15,10 @@ https://archive.org/download/halo.-s-01e-03-dual-latino-1080pwww.cinecalidad.liv
 https://archive.org/download/halo.-s-01e-03-dual-latino-1080pwww.cinecalidad.live/Halo.S01e03-%28dual-latino%29%281080p%29%28www.cinecalidad.live%29.mp4
 #EXTINF:-0,Cine Animación Marte necesita madres
 https://archive.org/download/marte.-necesita.-madres.-dvd.-xvi-d.www.-divx-tota-l.com/Marte.Necesita.Madres.DVD.XviD.%5Bwww.DivxTotaL.com%5D.avi
-#EXTINF:-1,MTV 2
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-#EXTINF:-1,MTV
-http://rec2.distv.net/jorge/102030/617
-#EXTINF:-1,MTV
-http://tvdevv.club:8080/play/RKxPB3m7W6mL4euJkoFCyvKviUyp-VHXbGZ64gRrh1S4yFRO4ifN06zNfy55bpet
 #EXTINF:-0,estreno MOONFALL
 https://archive.org/download/moonfall-2022-line-blu-ray-screener-castellano-linewww.atomix-hq.-link/Moonfall%20%282022%29%20%28Line%29%20%5BBluRay%20Screener%5D%5BCastellano%20Line%5D%5Bwww.atomixHQ.LINK%5D.mkv
 #EXTINF:-2,MOONFALL
 https://archive.org/download/moonfall-2022-line-blu-ray-screener-castellano-linewww.atomix-hq.-link/Moonfall%20%282022%29%20%28Line%29%20%5BBluRay%20Screener%5D%5BCastellano%20Line%5D%5Bwww.atomixHQ.LINK%5D.mkv
-#EXTINF:-1,TNT HD
-http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-0,Picard 2x1
 https://archive.org/download/star-trek-picard-temporada-2-hdtv-cap.-201-castellanowww.-atomix-hq.-link/Star%20Trek%20%20Picard%20-%20Temporada%202%20%5BHDTV%5D%5BCap.201%5D%5BCastellano%5D%5Bwww.AtomixHQ.LINK%5D.avi
 #EXTINF:-0,Picard 2x2
