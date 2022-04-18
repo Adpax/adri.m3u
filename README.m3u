@@ -43,20 +43,10 @@ acestream://930a41adbecf95a86ea15cabacde9e024fd8731a
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-0 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="SPAIN",24/7 Raised By Wolves
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26265&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Accion
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2665
-
-#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Comedia 
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2671
-
-#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Cine Español
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2672
-
-#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Estrenos
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2669
-
-#EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Drama 
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2670
+#EXTINF:-1 group-title="ESPANA",|ES| MTV ESPANA
+http://player.ukwtv.com/3143191764531365/2598854265/193365
+#EXTINF:-1 group-title="ESPANA",|ES| MTV ESPANA HD
+http://player.ukwtv.com/3143191764531365/2598854265/193366
 
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 1
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26134&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
@@ -118,7 +108,18 @@ http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26513&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1 tvg-id="" tvg-name="Super Movie 12" tvg-logo="" group-title="SPAIN",Super Movie 12
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26619&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220itle="SPAIN",M. ACCIN FULL HD
-
+#EXTINF:-1 group-title="Monólogos",Dani Rovira- Excursión a Port Aventura - El Club de la Comedia
+https://dl.dropboxusercontent.com/s/bd8zgrbpq1nuhxe/Dani%20Rovira-%20Excursi%C3%B3n%20a%20Port%20Aventura%20-%20El%20Club%20de%20la%20Comedia.mp4?dl=0
+#EXTINF:-1 group-title="Monólogos",Dani Rovira- Las playas de Málaga - El Club de la Comedia
+https://dl.dropboxusercontent.com/s/gqnd2z19v7wraz2/Dani%20Rovira-%20Las%20playas%20de%20M%C3%A1laga%20-%20El%20Club%20de%20la%20Comedia.mp4?dl=0
+#EXTINF:-1 group-title="Peliculas",Lo Dejo Cuando Quiera
+https://dl.dropboxusercontent.com/s/8p5fqvu1jgj5khn/Ver%20Lo%20dejo%20cuando%20quiera%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4?dl=0
+#EXTINF:-1 group-title="Peliculas",Los Vengadores: Endgame 
+https://dl.dropboxusercontent.com/s/9ajb8bmc5aqrunh/V3nG4me.m1080p.Castellano.mkv?dl=0
+#EXTINF:-1 group-title="Peliculas",Joker 
+https://dl.dropboxusercontent.com/s/uxqle5atn9ks05h/Joker%20BD1080.www.pctnew.org.mkv?dl=0
+#EXTINF:-1 group-title="Peliculas",Black Widow 
+https://dl.dropboxusercontent.com/s/4ursb0k9837ph7p/Black.Widow.2021.1080P-Dual-Lat-Cine-Calidad.Com.mp4?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="" group-title="MOVISTAR +",M. ESTRENOS 2 HD
 http://O0hymz91w4GqRXAWFPSkHd.green.onerunthisway.me/live/sun.php?z=997&u=OfeCCh8TZE&s=6848169694&id=26663&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="MOVISTAR +",M. ACCION HD
