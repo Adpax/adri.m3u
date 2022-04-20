@@ -1,4 +1,179 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Witcher" tvg-logo="" group-title="SPAIN",24/7 The Witcher
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26162&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="SPAIN",24/7 The Mandalorian
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26166&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1" tvg-logo="" group-title="SPAIN",HBO Max 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26649&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="SPAIN",HBO Max 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26650&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3" tvg-logo="" group-title="SPAIN",HBO Max 3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26651&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4" tvg-logo="" group-title="SPAIN",HBO Max 4
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26652&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5" tvg-logo="" group-title="SPAIN",HBO Max 5
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26661&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Cinesur 1" tvg-logo="" group-title="SPAIN",Cinesur 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26715&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Studios 1" tvg-logo="" group-title="SPAIN",Marvel Studios 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26654&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Studios 2" tvg-logo="" group-title="SPAIN",Marvel Studios 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26655&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Procaja Tv1" tvg-logo="" group-title="SPAIN",Procaja Tv1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26722&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Procaja Tv2" tvg-logo="" group-title="SPAIN",Procaja Tv2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26723&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Procaja Tv3" tvg-logo="" group-title="SPAIN",Procaja Tv3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26724&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 1" tvg-logo="" group-title="SPAIN",Apple TV+ 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26720&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 2" tvg-logo="" group-title="SPAIN",Apple TV+ 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26721&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Movistar+1 4K" tvg-logo="" group-title="SPAIN",Movistar+1 4K
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26660&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alquiler HD 1" tvg-logo="" group-title="SPAIN",Canal Alquiler HD 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26647&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Disney + 1" tvg-logo="" group-title="SPAIN",Disney + 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26648&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 1 HD" tvg-logo="" group-title="SPAIN",Rakuten TV Top 1 HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26716&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 2 HD" tvg-logo="" group-title="SPAIN",Rakuten TV Top 2 HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26717&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Family HD" tvg-logo="" group-title="SPAIN",Rakuten TV Family HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26718&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="SPAIN",M.ESTRENOS HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=364&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS FULL HD" tvg-logo="" group-title="SPAIN",M.ESTRENOS FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3805&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="" group-title="SPAIN",M. ESTRENOS 2 HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26663&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="SPAIN",M. ACCION HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=358&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCIN FULL HD" tvg-logo="" group-title="SPAIN",M. ACCIN FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3799&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="" group-title="SPAIN",M.COMEDIA HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=363&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA FULL HD" tvg-logo="" group-title="SPAIN",M.COMEDIA FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3804&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="" group-title="SPAIN",M. DRAMA HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=360&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA FULL HD" tvg-logo="" group-title="SPAIN",M. DRAMA FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3801&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Espaol" tvg-logo="" group-title="SPAIN",M. Cine Espaol
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=426&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Espaol FULL HD" tvg-logo="" group-title="SPAIN",M. Cine Espaol FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3847&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. Fest" tvg-logo="" group-title="SPAIN",M. Fest
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26664&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="SPAIN",M. SERIES HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=362&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES FULL HD" tvg-logo="" group-title="SPAIN",M. SERIES FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3803&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES  2 HD" tvg-logo="" group-title="SPAIN",M. SERIES  2 HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26662&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="SPAIN",HOLLYWOOD HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=354&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FULL HD" tvg-logo="" group-title="SPAIN",HOLLYWOOD FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3796&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="SPAIN",Paramount Channel
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=454&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Paramount FULL HD" tvg-logo="" group-title="SPAIN",Paramount FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3855&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M. CL.SICOS HD" tvg-logo="" group-title="SPAIN",M. CL.SICOS HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26665&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="SPAIN",TCM HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=373&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="TCM FULL HD" tvg-logo="" group-title="SPAIN",TCM FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3813&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="SPAIN",TNT HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=375&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="" group-title="SPAIN",TNT FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3815&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="SPAIN",SUNDANCE TV
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=456&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FULL HD" tvg-logo="" group-title="SPAIN",Sundance TV FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3856&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPAIN",#0 HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=378&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="#0 FULL HD" tvg-logo="" group-title="SPAIN",#0 FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3818&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania HD" tvg-logo="" group-title="SPAIN",M.Seriesmania HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=368&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania FULL HD" tvg-logo="" group-title="SPAIN",M.Seriesmania FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3809&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="SPAIN",FOX HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=353&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="FOX FULL HD" tvg-logo="" group-title="SPAIN",FOX FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3795&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="SPAIN",AMC HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=347&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="AMC FULL HD" tvg-logo="" group-title="SPAIN",AMC FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3789&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="SPAIN",AXN HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=349&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="" group-title="SPAIN",AXN FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3791&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="SPAIN",AXN WHITE HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=382&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FULL HD" tvg-logo="" group-title="SPAIN",AXN WHITE FULL HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=3821&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="XTREM HD" tvg-logo="" group-title="SPAIN",XTREM HD
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26341&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="SPAIN",SOMOS
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26342&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="" group-title="SPAIN",A3SERIES
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26343&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="" group-title="SPAIN",MOVISTAR+ MARVEL 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26325&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 2" tvg-logo="" group-title="SPAIN",MOVISTAR+ MARVEL 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26326&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 3" tvg-logo="" group-title="SPAIN",MOVISTAR+ MARVEL 3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26327&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 4" tvg-logo="" group-title="SPAIN",MOVISTAR+ MARVEL 4
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26328&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 5" tvg-logo="" group-title="SPAIN",MOVISTAR+ MARVEL 5
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26329&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 1" tvg-logo="" group-title="SPAIN",Super Movie 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26330&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 2" tvg-logo="" group-title="SPAIN",Super Movie 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26331&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 3" tvg-logo="" group-title="SPAIN",Super Movie 3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26332&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 4" tvg-logo="" group-title="SPAIN",Super Movie 4
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26333&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 5" tvg-logo="" group-title="SPAIN",Super Movie 5
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26334&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 6" tvg-logo="" group-title="SPAIN",Super Movie 6
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26335&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 7" tvg-logo="" group-title="SPAIN",Super Movie 7
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26336&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 8" tvg-logo="" group-title="SPAIN",Super Movie 8
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26337&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 9" tvg-logo="" group-title="SPAIN",Super Movie 9
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26338&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 10" tvg-logo="" group-title="SPAIN",Super Movie 10
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26339&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 11" tvg-logo="" group-title="SPAIN",Super Movie 11
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26513&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 12" tvg-logo="" group-title="SPAIN",Super Movie 12
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26619&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 1" tvg-logo="" group-title="SPAIN",Netflix 1
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26282&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="SPAIN",Netflix 2
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26283&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 3" tvg-logo="" group-title="SPAIN",Netflix 3
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26284&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4" tvg-logo="" group-title="SPAIN",Netflix 4
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26285&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 5" tvg-logo="" group-title="SPAIN",Netflix 5
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26288&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 6" tvg-logo="" group-title="SPAIN",Netflix 6
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26289&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 7" tvg-logo="" group-title="SPAIN",Netflix 7
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26311&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 8" tvg-logo="" group-title="SPAIN",Netflix 8
+http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26312&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1,TNT HD
 http://s1.pixel4k.vision:80/152022019471985/152056322705390/72993
 #EXTINF:-1 , MTV
