@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1,estreno Uncharted Español
+#EXTINF:-0,estreno Uncharted Español PART 1 MP4
+https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellanoparte-1/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano%28parte%201%29.mp4
+#EXTINF:-0,estreno Uncharted Español PART 1 MP4
+https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellanoparte-1/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano%28parte%202%29.mp4
+#EXTINF:-1,estreno Uncharted Español HD
 https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellano/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano.mkv
-#EXTINF:-0,estreno Uncharted Español
+#EXTINF:-0,estreno Uncharted Español HD
 https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellano/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Rakuten Drama
