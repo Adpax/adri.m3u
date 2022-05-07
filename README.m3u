@@ -1,12 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1,M. La Liga 1080 MultiAudio 
+acestream://4229d640fecf3c0897674241bcf851b67f4310e3
+
+#EXTINF:-1,M. La Liga 1080 MultiAudio 
+acestream://f146e252ab9f9a90e6fe0257fe4932643aa7384a
+
 #EXTINF:-1,estreno DOOM
 https://archive.org/download/doom-annihilation-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-club/Doom%20Annihilation%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.CLUB%5D.avi
 #EXTINF:-0,estreno DOOM
 https://archive.org/download/doom-annihilation-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-club/Doom%20Annihilation%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.CLUB%5D.avi
 
-
-#EXTINF:-1,M. La Liga 1080 MultiAudio 
-acestream://f146e252ab9f9a90e6fe0257fe4932643aa7384a
 #EXTINF:-1,estreno Uncharted Español HD
 https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellano/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano.mkv
 #EXTINF:-0,estreno Uncharted Español HD
