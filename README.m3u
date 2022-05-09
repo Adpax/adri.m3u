@@ -1,10 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1,M. La Liga 1080 MultiAudio 
-acestream://4229d640fecf3c0897674241bcf851b67f4310e3
-
-#EXTINF:-1,M. La Liga 1080 MultiAudio 
-acestream://f146e252ab9f9a90e6fe0257fe4932643aa7384a
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 1" tvg-logo="" group-title="PELICULAS 24H",Apple TV+ 1
+http://102l6pePTR8cDFiVq7hLOo.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26720&t=live&f=ts
 
 #EXTINF:-1,estreno DOOM
 https://archive.org/download/doom-annihilation-2022-blu-ray-rip-ac-3-5.1-castellanowww.atomix-hq.-club/Doom%20Annihilation%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.atomixHQ.CLUB%5D.avi
@@ -216,31 +212,6 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", Latido Music
 https://linear-257.frequency.stream/dist/localnow/257/hls/master/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 1
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26134&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 2 " tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 2 
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26135&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 3" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 3
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26136&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 4" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 4
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26137&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 5" tvg-logo="" group-title="SPAIN",Peliculas de Ciencia ficcion HD 5
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26138&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="SPAIN",Peliculas Action HD 1
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26114&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="SPAIN",Peliculas Action HD 2
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26115&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="SPAIN",Peliculas Action HD 3
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26116&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="SPAIN",Peliculas Action HD 4
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26117&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="SPAIN",Peliculas Action HD 5
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26118&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 6" tvg-logo="" group-title="SPAIN",Peliculas Action HD 6
-http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26119&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="" group-title="SPAIN",M. ESTRENOS 2 HD
 http://ac176bc7c6d636e795bb57ceb00447a4.dramostimes.me/live/c6.php?z=997&ui=5987&s=CT43SYR4FA&id=26663&h=3d3565288aa14f32d6f5ef073c0d36df869c41f5&n=1648463193&i=150.214.219.220
 #EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="SPAIN",M. ACCION HD
@@ -1075,8 +1046,7 @@ http://ia801400.us.archive.org/11/items/000_20200130_202001/5.mp4
 
 #EXTINF:-1 group-title="PELICULAS" ,EL DISCRETO ENCANTO DE LA BURGUESIA
 http://ia801002.us.archive.org/21/items/3l.d15cr370.3nc4n70.d3.l4.bur6u35av/3l.d15cr370.3nc4n70.d3.l4.bur6u35%C3%ADa%28v%29.mp4
-#EXTINF:-1 group-title="PELICULAS" ,EL EFECTO MARIPOSA
-http://clubtv.link/5may/05may/peliculas2.php?c=1590185949701925776827411877121/3.mp4
+
 #EXTINF:-1 group-title="PELICULAS" ,EL ESCUADRON DEL DIABLO
 http://ia601505.us.archive.org/32/items/000_20200122_20200122/5.mp4
 #EXTINF:-1 group-title="PELICULAS" ,EL EVANGELIO DE JUAN 
@@ -1111,41 +1081,7 @@ http://clubtv.link/5may/05may/peliculas2.php?c=009_20200823/045.mp4
 http://clubtv.link/5may/05may/peliculas2.php?c=009_20200823/046.mp4
 #EXTINF:-1 group-title="PELICULAS" ,EL HIJO DE BATMAN
 http://ia601501.us.archive.org/19/items/5573728-evm-fk-e-6-aiyi-m-8-narqod-ix-tq-nruqui-2m-klqkvs-6-ozm_202005/Batman%20-%20Hijo%20de%20Batman%20%28convert-video-online.com%29.mp4
-#EXTINF:-1 group-title="PELICULAS" ,EL HIJO DEL DIABLO
-http://clubtv.link/5may/05may/peliculas2.php?c=icon1_20190813/13.mp4
-#EXTINF:-1 group-title="PELICULAS" ,EL HOBBIT LA BATALLA DE LOS CINCO EJERCITOS
-#EXTINF:-1 group-title="PELICULAS" ,STARSHIP TROOPERS LA INVASION
-http://clubtv.link/5may/05may/peliculas2.php?c=w-17-fl-1-x-1/574r5h1p7r00p3r5%20l41nv455may/05may.mp4
-#EXTINF:-1 group-title="PELICULAS" ,STEP UP
-http://clubtv.link/5may/05may/peliculas2.php?c=3_20200612_20200612/4.mp4
-#EXTINF:-1 group-title="PELICULAS" ,STEVEN UNIVERSE LA PELICULA
-http://clubtv.link/5may/05may/peliculas2.php?c=img-20200517-wa-0100/elxdfano120.mp4
-#EXTINF:-1 group-title="PELICULAS" ,Street Fighter
-http://clubtv.link/5may/05may/peliculas2.php?c=w-17-fl-1-x-1_202008/5tr337F1gh73r4.mp4
-#EXTINF:-1 group-title="PELICULAS" ,Street Fighter Alpha
-http://clubtv.link/5may/05may/peliculas2.php?c=w-17-fl-1-x/Stre.mp4
-#EXTINF:-1 group-title="PELICULAS" ,Street Fighter II - La Película
-http://clubtv.link/5may/05may/peliculas2.php?c=w-17-fl-1-x/StrII.mp4
-#EXTINF:-1 group-title="PELICULAS" ,STUART LITLE
-http://clubtv.link/5may/05may/peliculas2.php?c=screenshot20200224145047/5u54nsv3r.mp4
-#EXTINF:-1 group-title="PELICULAS" ,STUART LITTLE 3
-http://clubtv.link/5may/05may/peliculas2.php?c=wunsdr25fs/wunsdr25fs.mp4
-#EXTINF:-1 group-title="PELICULAS" ,SUEÑO DE FUGA
-http://clubtv.link/5may/05may/peliculas2.php?c=sdf1m21lposk13o24lpo4/SdF1m21lpoSK13O24lPO4.mp4
-#EXTINF:-1 group-title="PELICULAS" ,SULLY: HAZAÑA EN EL HUDSON
-http://clubtv.link/5may/05may/peliculas2.php?c=566783i-8su-117637h-4z-4n-466673nn-3lhud-0njuggs/566783i8su117637h4z4%C3%B1466673nn3lhud0njuggs.mp4
-#EXTINF:-1 group-title="PELICULAS" ,SUMMER WARDS
-http://clubtv.link/5may/05may/peliculas2.php?c=trupo8jh3ds/trupo8jh3ds.mp4
-#EXTINF:-1 group-title="PELICULAS" ,SUPER COOL
-http://clubtv.link/5may/05may/peliculas2.php?c=plkbhgfhnhfssksklkzxjxks/plkbhgfhnhfssksklkzxjxks.mp4
-#EXTINF:-1 group-title="PELICULAS" ,Super Mario Bros La PELÍCULA
-http://clubtv.link/5may/05may/peliculas2.php?c=img-20200521-172454-hdr/4pru3b4d31n7r0.mp4
-#EXTINF:1,Super Mario Bros, ¡¡Mision De Rescate de la Princesa Peach!! 1986
-http://clubtv.link/5may/05may/peliculas2.php?c=witflix_20200820/YA7ANA01.mp4
-#EXTINF:-1 group-title="PELICULAS" ,Súper Smash Bros Braw! movie
 
-#EXTINF:-1 group-title="PELICULAS" ,THE LIGHTHOUSE (2019) (Subtitulada)
-http://clubtv.link/5may/05may/peliculas2.php?c=f1_20200421/f1/f1.avi
 
 #EXTINF:-1 group-title="PELICULAS" ,TODO PODEROSO (OPC2)
 http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
@@ -1315,25 +1251,25 @@ http://regioplay.xyz/223022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
 http://regioplay.xyz/223022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi | Phoenix´DreamsTV
 
-#EXTINF:0,AAA La película
+#EXTINF:0  group-title="PELICULAS", AAA La película
 #EXTGRP:sorted
 https://bit.ly/2WXIG5K
-#EXTINF:0,A todo tren destino Asturias (2021)
+#EXTINF:0  group-title="PELICULAS",A todo tren destino Asturias (2021)
 #EXTGRP:sorted
 https://bit.ly/3I1ddSe
-#EXTINF:0,Aladdin Dibujos FHD
+#EXTINF:0  group-title="PELICULAS", Aladdin Dibujos FHD
 #EXTGRP:sorted
 http://bit.ly/2tdEb8i
-#EXTINF:0,Aladdin FHD
+#EXTINF:0  group-title="PELICULAS", Aladdin FHD
 #EXTGRP:sorted
 http://bit.ly/2Syz9xQ
-#EXTINF:0,Alicia en el país de las maravillas
+#EXTINF:0  group-title="PELICULAS", Alicia en el país de las maravillas
 #EXTGRP:sorted
 https://bit.ly/33QgBRv
-#EXTINF:0,Alvin y las Ardillas 1
+#EXTINF:0  group-title="PELICULAS", miguel y las Ardillas 1
 #EXTGRP:sorted
 https://bit.ly/2Pa71SC
-#EXTINF:0,Alvin y las Ardillas 2
+#EXTINF:0  group-title="PELICULAS", Alvin y las Ardillas 2
 #EXTGRP:sorted
 https://bit.ly/3dxhT6f
 #EXTINF:0,Alvin y las Ardillas 3
