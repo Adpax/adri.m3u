@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="externa TV+ 1" tvg-logo="" group-title="series 24H", TV+ 1
+https://raw.githubusercontent.com/TVPRO20/SeriesHD/0b7b05501b934251052c0f850f0a4691578b541e/tv21.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 1" tvg-logo="" group-title="PELICULAS 24H",Apple TV+ 1
 http://102l6pePTR8cDFiVq7hLOo.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26720&t=live&f=ts
 
@@ -11,6 +14,27 @@ https://archive.org/download/doom-annihilation-2022-blu-ray-rip-ac-3-5.1-castell
 https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellano/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano.mkv
 #EXTINF:-0,estreno Uncharted Español HD
 https://archive.org/download/uncharted-2022-blu-ray-720p-x-264-mkv-ac-3-5.1-castellano/Uncharted%20%282022%29%20%5BBluRay%20720p%20X264%20MKV%5D%5BAC3%205.1%20Castellano.mkv
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO8k-wUen0_KoXtGJhFByX7NYJimqqxPHiW0Au35sywBje9mte" group-title="Películas",Fast and Furious: Hobbs and Saw
+https://dl.dropboxusercontent.com/s/v224sm9mzakghtr/Hobbs%20and%20Shaw%20M1080.www.pctnew.org.mkv?dl=0
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/X45WApQGa7w/movieposter_en.jpg" group-title="Películas",Spiral Saw 4K
+https://dl.dropboxusercontent.com/s/yoru29wxxcgsodu/Sp1r4lS4w.2021.1080p.Castilian.mkv?dl=0
+#EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_09cd2a64.jpeg" group-title="Películas",Viuda Negra 4K
+https://dl.dropboxusercontent.com/s/sj5nr5phpnr7ebw/Viuda%20negra%20BD1080.pctmix1.com.mkv?dl=0
+#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/Si_yo_fuera_rico-966978641-large.jpg" group-title="Películas",Si yo fuera rico
+https://dl.dropboxusercontent.com/s/vahz9vqw9kmdfrp/Si%20yo%20fuera%20rico%20M1080.www.pctreload.com.mkv?dl=0
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBlMjBhMGMtYWY5OS00MzhkLTlmMGEtM2VjZTZhMWY5MzZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Películas",Bloodshot 4K
+https://dl.dropboxusercontent.com/s/qp3pnku6dm3vlc6/Bloodshot%20M1080.www.pctreload.com.mkv?dl=0
+#EXTINF:-1  tvg-logo="https://i.blogs.es/1af78a/al-filo-del-manana-edge-of-tomorrow-tendra-secuela/1366_2000.jpg" group-title="Películas",Al filo del mañana 4K
+https://dl.dropboxusercontent.com/s/qsx31mp88frexdg/Alfilodelma%C3%B1anaM1080.www.newpct1.com.mkv?dl=0
+#EXTINF:-1  tvg-logo="https://www.filmaboutit.com/data/shp/images/gNj1p2rItPNlUXck8yLFIC39T1u.jpg" group-title="Películas",Plan de escape 3 4K
+https://dl.dropboxusercontent.com/s/no7y53ei9a0qb06/Plan%20De%20Escape%203%20%282020%29%20%5BBluRay%20RIP%5D%5BAC3%205.1%20Castellano%5D%5Bwww.PCTRELOAD.COM%5D.avi?dl=0
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Variedades", Rakuten Drama
 ://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8
