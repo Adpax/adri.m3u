@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+#EXTINF:-1,M. La Liga 1080 MultiAudio 3
+acestream://326dce70b6e859099eec4f7e5191ff5bada6a17a
+#EXTINF:-1,M. La Liga 1080 MultiAudio 4
+acestream://9b5ef4123d05747e3d683d820270551ef21cae78
+#EXTINF:-1,M. La Liga 1080 MultiAudio 5
+acestream://2d37a5abea9855e36687d2940ce80dc3c1d476e3
+#EXTINF:-1,M. La Liga 1080 MultiAudio 6
+acestream://4a5145354b389fc8501fd4be0865551d7d86aa9b
+#EXTINF:-1,M. La Liga 1080 MultiAudio 7
+acestream://8c3535f4aae7765c3a1494d573f5e421f8514ef1
+#EXTINF:-1,M. La Liga 1080 MultiAudio 8
+acestream://1193ef6c88792f589f9a5afa3a53ea2eb5604ed2
+
 #EXTINF:-1,M. La Liga 1080 MultiAudio 
 acestream://1f4df78bf39f5bda5d4ed21f2f209714522bf25f
 
