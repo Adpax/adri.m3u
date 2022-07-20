@@ -1,5 +1,502 @@
 #EXTM3U
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/0M+.png" group-title="MAC´S GROUP", MOVISTAR #0 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=7012&extension=ts
 
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=703&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2085&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 2 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2120&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=7006&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistaraccion.png" group-title="MAC´S GROUP", MOVISTAR ACCION 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=364&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistaraccion.png" group-title="MAC´S GROUP", MOVISTAR ACCION HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2267&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcomedia.png" group-title="MAC´S GROUP", MOVISTAR COMEDIA 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=628&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcomedia.png" group-title="MAC´S GROUP", MOVISTAR COMEDIA 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=628&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistardrama.png" group-title="MAC´S GROUP", MOVISTAR DRAMA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2238&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseries.png" group-title="MAC´S GROUP", MOVISTAR SERIES HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2114&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseries.png" group-title="MAC´S GROUP", MOVISTAR SERIES MANIA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=636&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcinedocandroll.png" group-title="MAC´S GROUP", MOVISTAR CINEDOC&ROLL HD
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcineespagnol.png" group-title="MAC´S GROUP", MOVISTAR DCINE
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2239&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/axnhd.png" group-title="MAC´S GROUP", AXN HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=631&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/axnwhitehd.png" group-title="MAC´S GROUP", AXN WHITE HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2264&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/foxhd.png" group-title="MAC´S GROUP", FOX HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2265&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/foxlifehd.png" group-title="MAC´S GROUP", FOX LIFE HD
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/syfyhd.png" group-title="MAC´S GROUP", SYFY HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=716&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/canalhollywoodhd.png" group-title="MAC´S GROUP", HOLLYWOOD HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=635&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/amchd.png" group-title="MAC´S GROUP", AMC HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=810&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/calle13hd.png" group-title="MAC´S GROUP", CALLE 13 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=713&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/cosmo.png" group-title="MAC´S GROUP", COSMO
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2205&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/tcmhd.png" group-title="MAC´S GROUP", TCM HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=702&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/tnthd.png" group-title="MAC´S GROUP", TNT HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=714&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/fdf.png" group-title="MAC´S GROUP", FDF
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=847&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/nationalgeographichd.png" group-title="MAC´S GROUP", NAT. GEOGRAPHIC HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2154&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/natgeowildhd.png" group-title="MAC´S GROUP", NAT GEO WILD HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2153&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/discoverychannel.png" group-title="MAC´S GROUP", DISCOVERY CHANNEL
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=642&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/historia.png" group-title="MAC´S GROUP", HISTORIA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=712&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/cazaypesca.png" group-title="MAC´S GROUP", CAZA Y PESCA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2202&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/iberalia.png" group-title="MAC´S GROUP", IBERALIA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=723&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/odisea.png" group-title="MAC´S GROUP", ODISEA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=743&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/gol.png" group-title="MAC´S GROUP", GOL TV HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=858&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/viajar.png" group-title="MAC´S GROUP", VIAJAR HD
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/bemad.png" group-title="MAC´S GROUP", BE MAD TV HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74018&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/dmax.png" group-title="MAC´S GROUP", DMAX
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74034&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/blaze.png" group-title="MAC´S GROUP", BLAZE HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=811&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/decasa.png" group-title="MAC´S GROUP", CANAL DECASA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=741&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/canalcocina.png" group-title="MAC´S GROUP", CANAL COCINA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=742&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/tveclan.png" group-title="MAC´S GROUP", CLAN
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=7003&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/disneychannel.png" group-title="MAC´S GROUP", DISNEY CHANNEL
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=848&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/disneyxd.png" group-title="MAC´S GROUP", DISNEY XD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6053&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/disneyjunior.png" group-title="MAC´S GROUP", DISNEY JR
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=720&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/pandacanal.png" group-title="MAC´S GROUP", CANAL PANDA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=718&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/nickelodeonhd.png" group-title="MAC´S GROUP", NICKELODEON HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=828&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/nickjr.png" group-title="MAC´S GROUP", NICK JR
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=853&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/boing.png" group-title="MAC´S GROUP", BOING
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=719&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/babytv.png" group-title="MAC´S GROUP", BABY TV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=623&extension=ts
+
+#EXTINF:-1 group-title="MAC´S GROUP" tvg-logo="http://media.c-x-c.media/picons/ES/Dreanworks.png" group-title="MAC´S GROUP", DREANWORKS
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=18176&extension=ts group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/tvela1hd.png" group-title="MAC´S GROUP", LA 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2152&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/la2hd.png" group-title="MAC´S GROUP", LA 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=435&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/antena3hd.png" group-title="MAC´S GROUP", ANTENA 3 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2150&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/cuatrohd.png" group-title="MAC´S GROUP", CUATRO HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2151&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/telecincohd.png" group-title="MAC´S GROUP", TELECINCO HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2149&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/lasextahd.png" group-title="MAC´S GROUP", LA SEXTA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2148&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/trece.png" group-title="MAC´S GROUP", TRECE TV
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/a3series.png" group-title="MAC´S GROUP", A3 SERIES HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=964&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/TVE24h.png" group-title="MAC´S GROUP", 24H
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2123&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mega.png" group-title="MAC´S GROUP", MEGA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=836&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/nova.png" group-title="MAC´S GROUP", NOVA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=722&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/energy.png" group-title="MAC´S GROUP", ENERGY
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6978&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/divinity.png" group-title="MAC´S GROUP", DIVINITY HD
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/neox.png" group-title="MAC´S GROUP", NEOX
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=625&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/comedycentralhd.png" group-title="MAC´S GROUP", COMEDY CENTRAL HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2204&extension=ts
+
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/paramountnetwork.png" group-title="MAC´S GROUP", PARAMOUNT CHANNEL
+
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/xtrm.png" group-title="MAC´S GROUP", XTRM HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74084&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/DKISS.png" group-title="MAC´S GROUP", DKISS
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6996&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/BR/mtv.png" group-title="MAC´S GROUP", MTV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=813&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/PT/vh1.png" group-title="MAC´S GROUP", VH1
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74082&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/FR/mezzolivehd.png" group-title="MAC´S GROUP", MEZZO LIVE
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74056&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/7andalucia.png" group-title="MAC´S GROUP", 7 ANDALUCIA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74006&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/tvgalicia.png" group-title="MAC´S GROUP", TV GALICIA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=618&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/telemadrid.png" group-title="MAC´S GROUP", TELEMADRID HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74067&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/etb1.png" group-title="MAC´S GROUP", ETB 1
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74038&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/ETB2.png" group-title="MAC´S GROUP", ETB 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74039&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/multideporte.png" group-title="MAC´S GROUP", MULTIDEPORTE
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/LaLiga_TV_Bar_HD.png" group-title="MAC´S GROUP", LA LIGA TV BAR HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=35117&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mliga.png" group-title="MAC´S GROUP", LA LIGA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=14973&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mliga.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2082&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig1.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=641&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig2.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6984&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig3.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 3 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43857&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig4.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 4 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43856&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig5.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 5 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43855&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig6.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 6 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43854&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig7.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 7 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43853&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig8.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 8 HDhttp://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43852&extension=ts
+
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig9.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 9 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43851&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/mlig10.png" group-title="MAC´S GROUP", MOVISTAR LA LIGA 10 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=43850&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones.png" group-title="MAC´S GROUP", M. L.CAMPEONES 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=361&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones.png" group-title="MAC´S GROUP", M. L.CAMPEONES HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2083&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones1.png" group-title="MAC´S GROUP", M. L.CAMPEONES 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6884&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones2.png" group-title="MAC´S GROUP", M. L.CAMPEONES 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6885&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones2.png" group-title="MAC´S GROUP", M. L.CAMPEONES 3 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6886&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarligadecampeones2.png" group-title="MAC´S GROUP", M. L.CAMPEONES 4 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6886&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/Tdp_HD.png" group-title="MAC´S GROUP", TELEDEPORTE HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=863&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/teledeporte.png" group-title="MAC´S GROUP", TELEDEPORTE
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2122&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="MAC´S GROUP", DAZN 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2155&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="MAC´S GROUP", DAZN 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=1620&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="MAC´S GROUP",  DAZN 3 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=1621&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/IT/dazn_res.png" group-title="MAC´S GROUP", DAZN 4 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2855&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MAC´S GROUP", DAZN F1 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=3314&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="MAC´S GROUP", DAZN F1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2084&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/vamos.png" group-title="MAC´S GROUP", MOVISTAR #VAMOS HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2266&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes.png" group-title="MAC´S GROUP", MOVISTAR DEPORTES HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=594&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes1.png" group-title="MAC´S GROUP", MOVISTAR DEPORTES 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=594&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistardeportes2.png" group-title="MAC´S GROUP", MOVISTAR DEPORTES 2
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarformula1.png" group-title="MAC´S GROUP", MOVISTAR FORMULA 1 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=621&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarformula1.png" group-title="MAC´S GROUP", MOVISTAR FORMULA 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2574&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistargolf.png" group-title="MAC´S GROUP", MOVISTAR GOLF
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=660&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistargolf.png" group-title="MAC´S GROUP", MOVISTAR GOLF HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2203&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/toros.png" group-title="MAC´S GROUP", TOROS TV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=661&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/toros.png" group-title="MAC´S GROUP", TOROS TV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6058&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/realmadridtv.png" group-title="MAC´S GROUP", REAL MADRID TV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=620&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/barcatv.png" group-title="MAC´S GROUP", BARCA TV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=643&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/eurosport1hd.png" group-title="MAC´S GROUP", EUROSPORT 1 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=640&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/eurosport1hd.png" group-title="MAC´S GROUP", EUROSPORT 1 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=4346&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/eurosport2.png" group-title="MAC´S GROUP", EUROSPORT 2
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=695&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/0M+.png" group-title="MAC´S GROUP", MOVISTAR #0 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=662&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/0M+.png" group-title="MAC´S GROUP", MOVISTAR #0 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=7012&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=703&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2085&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 2 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2120&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarestrenos.png" group-title="MAC´S GROUP", MOVISTAR ESTRENOS 2 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=7006&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistaraccion.png" group-title="MAC´S GROUP", MOVISTAR ACCION 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=364&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistaraccion.png" group-title="MAC´S GROUP", MOVISTAR ACCION HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2267&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcomedia.png" group-title="MAC´S GROUP", MOVISTAR COMEDIA 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=628&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcomedia.png" group-title="MAC´S GROUP", MOVISTAR COMEDIA 
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=628&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistardrama.png" group-title="MAC´S GROUP", MOVISTAR DRAMA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2238&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseries.png" group-title="MAC´S GROUP", MOVISTAR SERIES HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2114&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarseries.png" group-title="MAC´S GROUP", MOVISTAR SERIES MANIA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=636&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcinedocandroll.png" group-title="MAC´S GROUP", MOVISTAR CINEDOC&ROLL HD
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/movistarcineespagnol.png" group-title="MAC´S GROUP", MOVISTAR DCINE
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2239&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/axnhd.png" group-title="MAC´S GROUP", AXN HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=631&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/axnwhitehd.png" group-title="MAC´S GROUP", AXN WHITE HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2264&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/foxhd.png" group-title="MAC´S GROUP", FOX HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2265&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/foxlifehd.png" group-title="MAC´S GROUP", FOX LIFE HD
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/syfyhd.png" group-title="MAC´S GROUP", SYFY HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=716&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/canalhollywoodhd.png" group-title="MAC´S GROUP", HOLLYWOOD HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=635&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/amchd.png" group-title="MAC´S GROUP", AMC HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=810&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/calle13hd.png" group-title="MAC´S GROUP", CALLE 13 HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=713&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/cosmo.png" group-title="MAC´S GROUP", COSMO
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2205&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/tcmhd.png" group-title="MAC´S GROUP", TCM HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=702&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/tnthd.png" group-title="MAC´S GROUP", TNT HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=714&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/fdf.png" group-title="MAC´S GROUP", FDF
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=847&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/nationalgeographichd.png" group-title="MAC´S GROUP", NAT. GEOGRAPHIC HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2154&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/natgeowildhd.png" group-title="MAC´S GROUP", NAT GEO WILD HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2153&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/discoverychannel.png" group-title="MAC´S GROUP", DISCOVERY CHANNEL
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=642&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/historia.png" group-title="MAC´S GROUP", HISTORIA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=712&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/cazaypesca.png" group-title="MAC´S GROUP", CAZA Y PESCA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2202&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/iberalia.png" group-title="MAC´S GROUP", IBERALIA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=723&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/odisea.png" group-title="MAC´S GROUP", ODISEA HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=743&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/gol.png" group-title="MAC´S GROUP", GOL TV HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=858&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/viajar.png" group-title="MAC´S GROUP", VIAJAR HD
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/bemad.png" group-title="MAC´S GROUP", BE MAD TV HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74018&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/dmax.png" group-title="MAC´S GROUP", DMAX
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=74034&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/blaze.png" group-title="MAC´S GROUP", BLAZE HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=811&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/decasa.png" group-title="MAC´S GROUP", CANAL DECASA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=741&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/canalcocina.png" group-title="MAC´S GROUP", CANAL COCINA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=742&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/tveclan.png" group-title="MAC´S GROUP", CLAN
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=7003&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/disneychannel.png" group-title="MAC´S GROUP", DISNEY CHANNEL
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=848&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/disneyxd.png" group-title="MAC´S GROUP", DISNEY XD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=6053&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/disneyjunior.png" group-title="MAC´S GROUP", DISNEY JR
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=720&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/pandacanal.png" group-title="MAC´S GROUP", CANAL PANDA
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=718&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/nickelodeonhd.png" group-title="MAC´S GROUP", NICKELODEON HD
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=828&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/nickjr.png" group-title="MAC´S GROUP", NICK JR
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=853&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/boing.png" group-title="MAC´S GROUP", BOING
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=719&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/babytv.png" group-title="MAC´S GROUP", BABY TV
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=623&extension=ts
+
+#EXTINF:-1 group-title="fraberpa" tvg-logo="http://media.c-x-c.media/picons/ES/Dreanworks.png" group-title="MAC´S GROUP", DREANWORKS
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=18176&extension=ts
 #EXTINF:-1, LaLiga Movistar 
 #EXTINF:-1,LaLiga Tv Bar 1080
 01b333b9369c662775902638ef8cffac346a0f61
