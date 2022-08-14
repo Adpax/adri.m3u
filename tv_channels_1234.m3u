@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="XXX | Teen"  group-title="TV | XXX ADULTOS",XXX | Teen
+http://198.245.53.172:8970/live/RH4GE7VYY8PB/UATB6U2YY6TH/184159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX | Hustler"  group-title="TV | XXX ADULTOS",XXX | Hustler
+http://198.245.53.172:8970/live/RH4GE7VYY8PB/UATB6U2YY6TH/184215.ts
 #EXTINF:-1,|SP| TVE La1
 http://red.ipfox.org:8080/1234/12345678/2507
 #EXTINF:-1,|SP| TVE La2
