@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1670.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/125.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1328.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/25.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/168.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/33.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png",M+ Clásicos HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1335.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png",La Resistencia
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1449.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1713.ts
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/133.ts
+#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/39.ts
+#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/112.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOMCIN.png",BOM Cine
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1711.ts
+#EXTINF:-1 group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/51.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/796.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
+
 #EXTINF:-1,Test Channel 1
 http://127.0.0.1:6878/ace/getstream?id=ba248210b26507ce559562176509ea76c2839153&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
@@ -81,50 +113,84 @@ d4d4200a1e52fc23940b2dde915600af7e9a6b05
 DAZN 1 720
 84af46abab9de02bdd22818747738cfa5438132e
 DAZN 2 1080
-42fea4e172bf3debe0e004260bdd077fe0b4f58e
-DAZN 2 720
-6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
-DAZN 3 1080
-bfbcda5a0999256360ce560caf2a6473aafc3f11
-DAZN 4 1080
-a0465ef421f30d0c68ff706654147762ec7b6c03
-DAZN F1 1080 (Fórmula 1)
-c372020ed2744033f56548b6beb11a9f3e740f37
-DAZN F1 720 (Fórmula 1)
-12e7fb26141ec4a6d99588e0e870a1a441b37f83
-GOL TV 1080
-49c35606668ebf7a895434ec4c9243a163d87718
-EuroSport 1 1080
-40da37534656efcc6179c1b7693335d5e8212e43
-EuroSport 2 1080
-1954779c721fc7d87eb6d7df7ab11bf751cebb3b
-tdp 1080  (TeleDeporte) 
-a537d162cb8c5cfa72c09be09ecac69e2f2cc535
-LA 1 1080
-b41d52a733be6f4709db3bdf33e260de2b67d27a
-CUATRO 1080
-36e777b34e35460f4fd72d9583a2f8c0598d7ec2
-# 0
-864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-Sport Tv 1 1080
-56bb17b376ec52b5e58679d87ed2bd9e70be2175
-Sport Tv 2 1080
-b402a5fc3d93860c7f4a9c46463ff5469b6436f6
-Sport Tv 3 
-3c81c395fc9385c650e0fba8c286935c594f7e1a
-beIN SPORTS ñ 1080
-52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
-ESPN 2 720
-5ae9afd963961cd07e8f690e44a6596a2bb4e51e
-17:30  Cádiz VS  Real sociedad
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/342.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/260.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/78.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/167.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/3.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/63.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/143.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/88.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/90.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/21.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/146.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/23.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/60.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/140.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/142.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200",Nasa tv media
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1242.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/467.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/102.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/770.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/11.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1344.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/93.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/52.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/54.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/91.ts
+#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
 
-22:00 Almería VS Real Madrid
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/771.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/774.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1184.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1185.ts
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/43.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/804.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/44.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 03 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1186.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png",M+ LaLiga 04 HD
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1187.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png",M+ LaLiga 05
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/126.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png",M+ LaLiga 06
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/47.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png",M+ LaLiga 07
+http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/48.ts
+#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG7.png",M+ LaLiga 08
 
-1080
-0bbf4d00b630289e45e13dd7e232e75e6b47e765
 
-720
-5724ee11a1afbfc3fe647541012e61b276ff0801
 
-LIGA 
-ba248210b26507ce559562176509ea76c2839153
+
