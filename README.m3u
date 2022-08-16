@@ -3,25 +3,13 @@
 
 https://drive.google.com/file/d/1qvG3JlVR_qXzQ6GYKb2FbxD9RsT4SC_t/view?usp=sharing
 
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Butaca | España
-https://veranda-butacatv-1-es.samsung.wurl.tv/3000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Comedy Movies | España
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Action Movies | España
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 channel-id="Sony Comedias" tvg-id="Sony Comedias" tvg-chno="942" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="FAMILIARES",Sony Canal Comedias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Sony Comedias" tvg-name="Sony Comedias" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/72/USAJ22000057N_20201007T012227.png" group-title="FAMILIARES",Sony Canal Comedias
-https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693&ads.wurl_name=SonyCanalComedias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&PlaylistM3UCL
-
-#EXTINF:-1 channel-id="Sony Competencias" tvg-id="Sony Competencias" tvg-chno="949" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="FAMILIARES",Sony Canal Competencias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Sony Novelas" tvg-name="Sony Novelas" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/43/USAJ3000002OC_20201007T012234.png" group-title="FAMILIARES",Sony Canal Novelas
-https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&PlaylistM3UCL
 
 #EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0 HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1670.ts
@@ -103,8 +91,8 @@ http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccfa
 
 #EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/342.ts
+
+
 #EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/260.ts
 #EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN HD
