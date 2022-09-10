@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-chno="731" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/46
 
@@ -308,29 +312,4 @@ http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
 
 
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/771.ts
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png",DAZN 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/774.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1184.ts
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png",LaLiga SmartbankTV 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1185.ts
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png",DAZN F1 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/43.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",M+ LaLiga HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/804.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png",M+ LaLiga 02
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/44.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png",M+ LaLiga 03 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1186.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png",M+ LaLiga 04 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1187.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png",M+ LaLiga 05
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/126.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png",M+ LaLiga 06
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/47.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png",M+ LaLiga 07
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/48.ts
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG7.png",M+ LaLiga 08
 
