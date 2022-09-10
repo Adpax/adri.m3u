@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="### Deportes ###"  group-title="SPANISH",### Deportes ###
-http://fydUubRjcQzthJeHK26MVL.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27151&t=live&f=ts
+
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLigaHD"  group-title="SPANISH",DAZN LaLigaHD
 http://ndGmrCIBXNzvsDu5cK3EMQ.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27160&t=live&f=ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLiga2 HD"  group-title="SPANISH",DAZN LaLiga2 HD
@@ -17,8 +16,6 @@ http://1EahelTHKmAZ9FCoJ3Y0gM.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtA
 http://YucGM2LBSJda5DV6RQ7E1I.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26246&t=live&f=ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LALIGATV BAR HD"  group-title="SPANISH",LALIGATV BAR HD
 http://kzjHTZDOSYoA0hnPy2mM6e.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=357&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN SPORTS Espana"  group-title="SPANISH",beIN SPORTS Espana
-http://LIim53ycMJwKalHBSGZtOW.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26321&t=live&f=ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga FHD"  group-title="SPANISH",M+ LaLiga FHD
 http://nQJY4qoyZKs1SrLej7PT65.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26042&t=live&f=ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga +"  group-title="SPANISH",M+ LaLiga +
@@ -231,38 +228,6 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Action Movies | España
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV3.png",M+ #0 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1670.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png",M+ Estrenos HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/125.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png",M+ Estrenos 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1328.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPACCI.png",M+ Acción HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/25.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png",M+ Comedia HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/168.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png",M+ Drama HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/33.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png",M+ Clásicos HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1335.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/RESIST.png",La Resistencia
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1449.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MONFIR.png",M+ Fest
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1713.ts
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV2.png",M+ Series HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/133.ts
-#EXTINF:-1 group-title="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPSER.png",M+ Series 2 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/39.ts
-#EXTINF:-1 group-title="M+ Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png",M+ Cine Español
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/112.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BOMCIN.png",BOM Cine
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1711.ts
-#EXTINF:-1 group-title="Música" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MTV.png",MTV
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/51.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SOMOS.png",Somos
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/796.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DARK.png",DARK
-
 
 #EXTINF:-1,Test Channel 1
 http://127.0.0.1:6878/ace/getstream?id=ba248210b26507ce559562176509ea76c2839153&hlc=1&transcode_audio=0
@@ -318,51 +283,6 @@ http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/260.ts
 #EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/78.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png",AXN White HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/167.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AMC.png",AMC HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/3.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TNT.png",TNT HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/63.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SCI-FI.png",SYFY HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/143.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PCM.png",Comedy Central HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/88.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/COSMO.png",COSMO HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/90.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FOXGE.png",Fox HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/21.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CL13.png",Calle 13 HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/146.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HOLLYW.png",Hollywood HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/23.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TCM.png",TCM HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/60.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PARCH.png",Paramount Channel
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/140.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SUNDAN.png",Sundance
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/142.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200",Nasa tv media
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1242.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/467.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png",Historia
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/102.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/770.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",Odisea
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/11.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/1344.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png",Discovery
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/93.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",National Geographic HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/52.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png",Nat Geo Wild HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/54.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png",AMC Crime
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/91.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png",AMC Break
 
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/771.ts
