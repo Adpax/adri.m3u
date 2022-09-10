@@ -305,10 +305,8 @@ http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccfa
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
 
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/XTRM.png",XTRM HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/260.ts
-#EXTINF:-1 group-title="Moviestar+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/AXN.png",AXN HD
-http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/78.ts
+
+
 
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png",DAZN 1 HD
 http://ydb6c.top:8000/live/0i4bdS3sFG/Z6uoTegaRP/771.ts
