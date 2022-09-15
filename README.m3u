@@ -1,131 +1,138 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Comedy Movies | España
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Action Movies | España
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NOTICIAS",Rakuten NOTICIAS | España
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
-http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="EuroNewsEspanol.fr" group-title="ESPANA2",euronews
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 
 
-
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLigaHD"  group-title="SPANISH",DAZN LaLigaHD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLigaHD"  group-title="DEPORTES (FUTBOL)",DAZN LaLigaHD
 http://ndGmrCIBXNzvsDu5cK3EMQ.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27160&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLiga2 HD"  group-title="SPANISH",DAZN LaLiga2 HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLiga2 HD"  group-title="DEPORTES (FUTBOL)",DAZN LaLiga2 HD
 http://vFR3j12m05ICZuWbNkaJyQ.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27161&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLigaHD FULL HD"  group-title="SPANISH",DAZN LaLigaHD FULL HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLigaHD FULL HD"  group-title="DEPORTES (FUTBOL)",DAZN LaLigaHD FULL HD
 http://NVkC6Z9nieogwyzW0TYdJ3.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27162&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLiga2 HD FULL HD"  group-title="SPANISH",DAZN LaLiga2 HD FULL HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLiga2 HD FULL HD"  group-title="DEPORTES (FUTBOL)",DAZN LaLiga2 HD FULL HD
 http://W2cnilw7TuBAEDZYoFMyfg.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27163&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga HD"  group-title="SPANISH",M+ LaLiga HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga HD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga HD
 http://ebSYDE8dX7xyWjrL1u2QMT.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26046&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga HD+"  group-title="SPANISH",M+ LaLiga HD+
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga HD+"  group-title="DEPORTES (FUTBOL)",M+ LaLiga HD+
 http://1EahelTHKmAZ9FCoJ3Y0gM.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26248&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LaLiga HD"  group-title="SPANISH",LaLiga HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LaLiga HD"  group-title="DEPORTES (FUTBOL)",LaLiga HD
 http://YucGM2LBSJda5DV6RQ7E1I.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26246&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LALIGATV BAR HD"  group-title="SPANISH",LALIGATV BAR HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LALIGATV BAR HD"  group-title="DEPORTES (FUTBOL)",LALIGATV BAR HD
 http://kzjHTZDOSYoA0hnPy2mM6e.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=357&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga FHD"  group-title="SPANISH",M+ LaLiga FHD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga FHD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga FHD
 http://nQJY4qoyZKs1SrLej7PT65.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26042&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga +"  group-title="SPANISH",M+ LaLiga +
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga +"  group-title="DEPORTES (FUTBOL)",M+ LaLiga +
 http://Rc6UM1wt2847AClQbyezpx.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26247&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga"  group-title="SPANISH",M+ LaLiga
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga"  group-title="DEPORTES (FUTBOL)",M+ LaLiga
 http://4te3pEFVlBqfdIS07T1KHw.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=435&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bein Laliga/ beIN Sport"  group-title="SPANISH",Bein Laliga/ beIN Sport
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bein Laliga/ beIN Sport"  group-title="DEPORTES (FUTBOL)",Bein Laliga/ beIN Sport
 http://K1TqVNfFpw0lRDAJUsxey4.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=386&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2K"  group-title="SPANISH",M+ LaLiga 2K
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2K"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 2K
 http://bIajf4BSNQxYD87kt9wRrn.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26141&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 4K"  group-title="SPANISH",M+ LaLiga 4K
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 4K"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 4K
 http://0hHZ9VA7FuI8EMa3lJcwk5.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26142&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga FULL HD"  group-title="SPANISH",M+ LaLiga FULL HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga FULL HD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga FULL HD
 http://BIO1ciGS0UC79u2KbyEr5A.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=3849&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 1 HD"  group-title="SPANISH",M+ LaLiga 1 HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 1 HD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 1 HD
 http://m5fhJ4DLpcYtCBS0xFGl8M.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26047&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 1 FULL HD"  group-title="SPANISH",M+ LaLiga 1 FULL HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 1 FULL HD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 1 FULL HD
 http://iAHhe2xQuqflRrYM0SUmjp.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=24929&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 1 FHD"  group-title="SPANISH",M+ LaLiga 1 FHD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 1 FHD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 1 FHD
 http://vOou59kyQCsVig1DcHr48L.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26043&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2 HD"  group-title="SPANISH",M+ LaLiga 2 HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2 HD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 2 HD
 http://lW6U5g0G8m1YxkbTtoB7XI.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26048&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2 FHD"  group-title="SPANISH",M+ LaLiga 2 FHD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2 FHD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 2 FHD
 http://Yg5WSzbpIxenhRKNQXL4Va.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26045&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 3 HD"  group-title="SPANISH",M+ LaLiga 3 HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 3 HD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 3 HD
 http://95H3txfQnjZW1Bm8lUkq7w.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=24927&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 3 FHD"  group-title="SPANISH",M+ LaLiga 3 FHD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 3 FHD"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 3 FHD
 http://mTlyLq1sHbZVhWD645UEBu.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26044&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 2 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 2 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 2 (SOLO EVENTOS)
 http://smL61lxJV028pOoDSXvzuA.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=388&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 4 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 4 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 4 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 4 (SOLO EVENTOS)
 http://ym2KLncCPSkJibxhlNUZgO.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=390&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 5  (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 5  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 5  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 5  (SOLO EVENTOS)
 http://2MAZPiqwo6HIFt0mUgy5CT.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=24926&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 6 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 6 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 6 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 6 (SOLO EVENTOS)
 http://MbUN7fl6iacoPvOHu1j2Ws.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=24925&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 7 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 7 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 7 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 7 (SOLO EVENTOS)
 http://GTMFaPgebUDr2dAc7ZIEHs.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=393&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 8 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 8 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 8 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 8 (SOLO EVENTOS)
 http://XvchYbIQquN1Ei3FOa0Tyk.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=394&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 9 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 9 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 9 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 9 (SOLO EVENTOS)
 http://Je1oHPW9tIGBFq7COrK462.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=24924&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 10 (SOLO EVENTOS)"  group-title="SPANISH",M+ LaLiga 10 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LaLiga 10 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LaLiga 10 (SOLO EVENTOS)
 http://C2JO18olE5qpMNS7DcbULX.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=24928&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES HD"  group-title="SPANISH",M+ LCAMPEONES HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES HD"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES HD
 http://WCcxHA73LYKJv46ewXVnaI.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=445&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES HD+"  group-title="SPANISH",M+ LCAMPEONES HD+
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES HD+"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES HD+
 http://3zdrAjOklXGBLYpN7wDCyn.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26315&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ Lcampeones 4K"  group-title="SPANISH",M+ Lcampeones 4K
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ Lcampeones 4K"  group-title="DEPORTES (FUTBOL)",M+ Lcampeones 4K
 http://LwXGni2eZglBtzHOvaAsW4.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26140&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES FULL HD"  group-title="SPANISH",M+ LCAMPEONES FULL HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES FULL HD"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES FULL HD
 http://WfBlMz3acPd9Hv42OwZyQT.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26078&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1080P"  group-title="SPANISH",M+ LCAMPEONES 1080P
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1080P"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1080P
 http://Ccwn65GXyfFmtuOrxBQi3g.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26316&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES SD"  group-title="SPANISH",M+ LCAMPEONES SD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES SD"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES SD
 http://SlD78fxt0aP21ALQqGEMsj.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26317&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES"  group-title="SPANISH",M+ LCAMPEONES
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES
 http://5WVoPpmBQNbhsKGrF9n3de.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26318&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 1 HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 HD (SOLO EVENTOS)
 http://UNHtVJFABDZjYnfyI4OpEh.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=438&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)
 http://eZmHSEXVJTkYzu2pnivaCw.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26079&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 4K (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 1 4K (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 4K (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 4K (SOLO EVENTOS)
 http://tA6Yb7zFMIPdf3nHB2vy8E.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26175&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 SD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 1 SD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 1 SD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 SD (SOLO EVENTOS)
 http://NTAnzkOPxpu59Hc2LjZDWe.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26319&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 2 HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 2 HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
 http://QpZb1nC0XSFPVmiOcrxDks.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=439&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)
 http://jTAWGZiydqs72JBCYS5mDv.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26080&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 2 SD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 2 SD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 2 SD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 2 SD (SOLO EVENTOS)
 http://zCUXV2Z634IDY1nGjtk8iu.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26320&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 3  (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 3  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 3  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 3  (SOLO EVENTOS)
 http://PsC0eKDjxJ4bGOm15puRZX.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=440&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)
 http://WIPRoMShX5Q7tAFU1kjeyH.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26081&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 4 (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 4 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 4 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 4 (SOLO EVENTOS)
 http://Rl06UWMDzIBXacbVPTd2n8.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=441&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)
 http://7DB8zYSFEPcj1tyWkuolKa.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26082&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 5 (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 5 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 5 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 5 (SOLO EVENTOS)
 http://HdUlnLN548SD6wxWbjT0zA.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=442&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)
 http://SPZjLk80BOcFrqKvosfynz.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26083&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 6 (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 6 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 6 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 6 (SOLO EVENTOS)
 http://tqwz1KEaOYhCVZLJxQ2Afs.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=443&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)
 http://c1VESI6opb0NsuGkPywfDl.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26084&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 7 (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 7 (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 7 (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 7 (SOLO EVENTOS)
 http://ojkZAvhbTCYqw730B6dMJG.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=444&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)
 http://lsQtVU6EMBe4q0Wzm3LdKO.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26085&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)
 http://enl47QsTYjkm9HFiaobfPE.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26086&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)
 http://gCvZKxNsE3UdJjSrQpW6zn.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26711&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)
 http://KITF6Pvs2q8tCYV1aMxpZg.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26712&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)
 http://lbkIhCraAw2T6dWtzVFNHi.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26713&t=live&f=ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)"  group-title="SPANISH",M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)
 http://N3tnv9UiQ07SsTmk4GYZJ2.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26714&t=live&f=ts
 #EXTINF:-1 group-title="PELÍCULAS" ,EL SEÑOR DE LOS ANILLOS EL RETORNO DEL REY
 http://clubtv.link/2sep/token209/peliculas2.php?c=0trece/9.mp4
@@ -135,107 +142,564 @@ http://archive.org/download/0trece/9.mp4
 
 https://drive.google.com/file/d/1qvG3JlVR_qXzQ6GYKb2FbxD9RsT4SC_t/view?usp=sharing
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="SPAIN",DAZN LaLigaHD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="DEPORTES (FUTBOL)",DAZN LaLigaHD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/27160?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="" group-title="SPAIN",DAZN LaLiga2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",DAZN LaLiga2 HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/27161?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD FULL HD" tvg-logo="" group-title="SPAIN",DAZN LaLigaHD FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD FULL HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",DAZN LaLigaHD FULL HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/27162?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD FULL HD" tvg-logo="" group-title="SPAIN",DAZN LaLiga2 HD FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD FULL HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",DAZN LaLiga2 HD FULL HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/27163?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="" group-title="SPAIN",M+ LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26046?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD+" tvg-logo="" group-title="SPAIN",M+ LaLiga HD+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD+" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga HD+
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26248?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="SPAIN",LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",LaLiga HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26246?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="SPAIN",LALIGATV BAR HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",LALIGATV BAR HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/357?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="SPAIN",beIN SPORTS Espana
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="DEPORTES (FUTBOL)",beIN SPORTS Espana
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26321?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga FHD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26042?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga +" tvg-logo="" group-title="SPAIN",M+ LaLiga +
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga +" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga +
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26247?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga" tvg-logo="" group-title="SPAIN",M+ LaLiga
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/435?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="SPAIN",Bein Laliga/ beIN Sport
+#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="DEPORTES (FUTBOL)",Bein Laliga/ beIN Sport
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/386?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2K" tvg-logo="" group-title="SPAIN",M+ LaLiga 2K
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2K" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 2K
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26141?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4K" tvg-logo="" group-title="SPAIN",M+ LaLiga 4K
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4K" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 4K
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26142?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FULL HD" tvg-logo="" group-title="SPAIN",M+ LaLiga FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FULL HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga FULL HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/3849?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 1 HD" tvg-logo="" group-title="SPAIN",M+ LaLiga 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 1 HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 1 HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26047?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 1 FULL HD" tvg-logo="" group-title="SPAIN",M+ LaLiga 1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 1 FULL HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 1 FULL HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/24929?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 1 FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 1 FHD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 1 FHD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26043?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 HD" tvg-logo="" group-title="SPAIN",M+ LaLiga 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 2 HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26048?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 2 FHD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26045?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 HD" tvg-logo="" group-title="SPAIN",M+ LaLiga 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 3 HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/24927?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 3 FHD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26044?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 2 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 2 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/388?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 4 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 4 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/390?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5  (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 5  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5  (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 5  (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/24926?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 6 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 6 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/24925?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 7 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 7 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/393?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 8 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 8 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 8 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 8 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/394?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 9 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 9 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 9 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 9 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/24924?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 10 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 10 (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 10 (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LaLiga 10 (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/24928?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/445?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES HD+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES HD+
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26315?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ Lcampeones 4K" tvg-logo="" group-title="SPAIN",M+ Lcampeones 4K
+#EXTINF:-1 tvg-id="" tvg-name="M+ Lcampeones 4K" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ Lcampeones 4K
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26140?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES FULL HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26078?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1080P
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1080P
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26316?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES SD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26317?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26318?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1 HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 HD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/438?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26079?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 4K (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1 4K (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 4K (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 4K (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26175?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 SD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1 SD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1 SD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 1 SD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26319?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/439?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26080?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LCAMPEONES 2 SD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN", M+ LCAMPEONES 2 SD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name=" M+ LCAMPEONES 2 SD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)", M+ LCAMPEONES 2 SD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26320?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 3  (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 3  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 3  (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 3  (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/440?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26081?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
 
 
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Comedy Movies | España
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="CINE",Rakuten Action Movies | España
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HOLLYWOOD FHD
+http://8amigg.top:80/aq68/85df6s5df/89
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS SD
+http://8amigg.top:80/aq68/85df6s5df/90
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M.ESTRENOS HD
+http://8amigg.top:80/aq68/85df6s5df/91
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS FHD
+http://8amigg.top:80/aq68/85df6s5df/92
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS 2 SD
+http://8amigg.top:80/aq68/85df6s5df/93
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M.ESTRENOS 2 HD
+http://8amigg.top:80/aq68/85df6s5df/94
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/95
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ COMEDIA SD
+http://8amigg.top:80/aq68/85df6s5df/96
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M.COMEDIA HD
+http://8amigg.top:80/aq68/85df6s5df/97
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ COMEDIA FHD
+http://8amigg.top:80/aq68/85df6s5df/98
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COMEDY CENTRAL SD
+http://8amigg.top:80/aq68/85df6s5df/99
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COMEDY CENTRAL HD
+http://8amigg.top:80/aq68/85df6s5df/100
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COMEDY CENTRAL FHD
+http://8amigg.top:80/aq68/85df6s5df/101
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DRAMA SD
+http://8amigg.top:80/aq68/85df6s5df/102
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DRAMA HD
+http://8amigg.top:80/aq68/85df6s5df/103
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DRAMA FHD
+http://8amigg.top:80/aq68/85df6s5df/104
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ACCION SD
+http://8amigg.top:80/aq68/85df6s5df/105
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",C+ ACCION HD
+http://8amigg.top:80/aq68/85df6s5df/106
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ACCION FHD
+http://8amigg.top:80/aq68/85df6s5df/107
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DCINE ESPANOL SD
+http://8amigg.top:80/aq68/85df6s5df/108
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DCINE ESPANOL HD
+http://8amigg.top:80/aq68/85df6s5df/109
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ CINE ESPANOL FHD
+http://8amigg.top:80/aq68/85df6s5df/110
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",A3 SERIES SD
+http://8amigg.top:80/aq68/85df6s5df/111
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",A3 SERIES HD
+http://8amigg.top:80/aq68/85df6s5df/112
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES SD
+http://8amigg.top:80/aq68/85df6s5df/113
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES HD
+http://8amigg.top:80/aq68/85df6s5df/114
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES FHD
+http://8amigg.top:80/aq68/85df6s5df/115
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES 2 SD
+http://8amigg.top:80/aq68/85df6s5df/116
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES 2 HD
+http://8amigg.top:80/aq68/85df6s5df/117
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/118
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DARK SD
+http://8amigg.top:80/aq68/85df6s5df/119
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DARK HD
+http://8amigg.top:80/aq68/85df6s5df/120
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC SD
+http://8amigg.top:80/aq68/85df6s5df/121
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC HD
+http://8amigg.top:80/aq68/85df6s5df/122
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC FHD
+http://8amigg.top:80/aq68/85df6s5df/123
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK SD
+http://8amigg.top:80/aq68/85df6s5df/124
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK HD
+http://8amigg.top:80/aq68/85df6s5df/125
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK FHD
+http://8amigg.top:80/aq68/85df6s5df/126
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC CRIME SD
+http://8amigg.top:80/aq68/85df6s5df/127
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC CRIME HD
+http://8amigg.top:80/aq68/85df6s5df/128
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FOX SD
+http://8amigg.top:80/aq68/85df6s5df/129
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FOX HD
+http://8amigg.top:80/aq68/85df6s5df/130
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FOX FHD
+http://8amigg.top:80/aq68/85df6s5df/131
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CALLE 13 SD
+http://8amigg.top:80/aq68/85df6s5df/132
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CALLE 13 HD
+http://8amigg.top:80/aq68/85df6s5df/133
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CALLE 13 FHD
+http://8amigg.top:80/aq68/85df6s5df/134
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SUNDANCE SD
+http://8amigg.top:80/aq68/85df6s5df/135
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SUNDANCE HD
+http://8amigg.top:80/aq68/85df6s5df/136
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SUNDANCE FHD
+http://8amigg.top:80/aq68/85df6s5df/137
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN SD
+http://8amigg.top:80/aq68/85df6s5df/138
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN HD
+http://8amigg.top:80/aq68/85df6s5df/139
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN FHD
+http://8amigg.top:80/aq68/85df6s5df/140
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN WHITE SD
+http://8amigg.top:80/aq68/85df6s5df/141
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN WHITE HD
+http://8amigg.top:80/aq68/85df6s5df/142
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN WHITE FHD
+http://8amigg.top:80/aq68/85df6s5df/143
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TNT SD
+http://8amigg.top:80/aq68/85df6s5df/144
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TNT HD
+http://8amigg.top:80/aq68/85df6s5df/145
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TNT FHD
+http://8amigg.top:80/aq68/85df6s5df/146
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COSMOPOLITAN SD
+http://8amigg.top:80/aq68/85df6s5df/147
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COSMOPOLITAN HD
+http://8amigg.top:80/aq68/85df6s5df/148
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COSMOPOLITAN FHD
+http://8amigg.top:80/aq68/85df6s5df/149
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SYFY SD
+http://8amigg.top:80/aq68/85df6s5df/150
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SYFY HD
+http://8amigg.top:80/aq68/85df6s5df/151
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SYFY FHD
+http://8amigg.top:80/aq68/85df6s5df/152
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TCM SD
+http://8amigg.top:80/aq68/85df6s5df/153
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TCM HD
+http://8amigg.top:80/aq68/85df6s5df/154
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TCM FHD
+http://8amigg.top:80/aq68/85df6s5df/155
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ENERGY HD
+http://8amigg.top:80/aq68/85df6s5df/157
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FDF SD
+http://8amigg.top:80/aq68/85df6s5df/158
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FDF HD
+http://8amigg.top:80/aq68/85df6s5df/159
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",XTRM SD
+http://8amigg.top:80/aq68/85df6s5df/160
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",XTRM HD
+http://8amigg.top:80/aq68/85df6s5df/161
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",XTRM FHD
+http://8amigg.top:80/aq68/85df6s5df/162
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",PARAMOUNT SD
+http://8amigg.top:80/aq68/85df6s5df/163
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",PARAMOUNT HD
+http://8amigg.top:80/aq68/85df6s5df/164
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NEOX SD
+http://8amigg.top:80/aq68/85df6s5df/165
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NEOX HD
+http://8amigg.top:80/aq68/85df6s5df/166
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DIVINITY SD
+http://8amigg.top:80/aq68/85df6s5df/167
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DIVINITY HD
+http://8amigg.top:80/aq68/85df6s5df/168
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NOVA SD
+http://8amigg.top:80/aq68/85df6s5df/169
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NOVA HD
+http://8amigg.top:80/aq68/85df6s5df/170
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ #0 SD
+http://8amigg.top:80/aq68/85df6s5df/171
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ #0 HD
+http://8amigg.top:80/aq68/85df6s5df/172
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ #0 FHD
+http://8amigg.top:80/aq68/85df6s5df/173
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Aragon TV SD
+http://8amigg.top:80/aq68/85df6s5df/174
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",A&E SD
+http://8amigg.top:80/aq68/85df6s5df/175
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",LA RESISTENCIA SD
+http://8amigg.top:80/aq68/85df6s5df/176
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ RESISTENCIA HD
+http://8amigg.top:80/aq68/85df6s5df/177
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LA RESISTENCIA FHD
+http://8amigg.top:80/aq68/85df6s5df/178
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ TRECE SD
+http://8amigg.top:80/aq68/85df6s5df/179
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ TRECE HD
+http://8amigg.top:80/aq68/85df6s5df/180
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+CLASICOS HD
+http://8amigg.top:80/aq68/85df6s5df/181
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NAUTICAL SD
+http://8amigg.top:80/aq68/85df6s5df/270
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NAUTICAL HD
+http://8amigg.top:80/aq68/85df6s5df/271
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NAUTICAL FHD
+http://8amigg.top:80/aq68/85df6s5df/272
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO SD
+http://8amigg.top:80/aq68/85df6s5df/273
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO HD
+http://8amigg.top:80/aq68/85df6s5df/274
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO FHD
+http://8amigg.top:80/aq68/85df6s5df/275
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CRIMEN+ INVESTIGACION SD
+http://8amigg.top:80/aq68/85df6s5df/276
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC CRIMEN HD
+http://8amigg.top:80/aq68/85df6s5df/277
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CRIMEN+ INVESTIGACION FHD
+http://8amigg.top:80/aq68/85df6s5df/278
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SOMOS SD
+http://8amigg.top:80/aq68/85df6s5df/279
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SOMOS HD
+http://8amigg.top:80/aq68/85df6s5df/280
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SOMOS FHD
+http://8amigg.top:80/aq68/85df6s5df/281
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL DE CASA SD
+http://8amigg.top:80/aq68/85df6s5df/285
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL DE CASA HD
+http://8amigg.top:80/aq68/85df6s5df/286
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL DE CASA FHD
+http://8amigg.top:80/aq68/85df6s5df/287
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DISCOVERY SD
+http://8amigg.top:80/aq68/85df6s5df/291
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DISCOVERY HD
+http://8amigg.top:80/aq68/85df6s5df/292
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DISCOVERY FHD
+http://8amigg.top:80/aq68/85df6s5df/293
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO WILD SD
+http://8amigg.top:80/aq68/85df6s5df/294
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO WILD HD
+http://8amigg.top:80/aq68/85df6s5df/295
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO WILD FHD
+http://8amigg.top:80/aq68/85df6s5df/296
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BE MAD SD
+http://8amigg.top:80/aq68/85df6s5df/297
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BE MAD HD
+http://8amigg.top:80/aq68/85df6s5df/298
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BE MAD FHD
+http://8amigg.top:80/aq68/85df6s5df/299
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEGA SD
+http://8amigg.top:80/aq68/85df6s5df/300
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEGA HD
+http://8amigg.top:80/aq68/85df6s5df/301
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEGA FHD
+http://8amigg.top:80/aq68/85df6s5df/302
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ODISEA SD
+http://8amigg.top:80/aq68/85df6s5df/303
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ODISEA HD
+http://8amigg.top:80/aq68/85df6s5df/304
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ODISEA FHD
+http://8amigg.top:80/aq68/85df6s5df/305
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HISTORIA SD
+http://8amigg.top:80/aq68/85df6s5df/306
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HISTORIA HD
+http://8amigg.top:80/aq68/85df6s5df/307
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HISTORIA FHD
+http://8amigg.top:80/aq68/85df6s5df/308
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL COCINA SD
+http://8amigg.top:80/aq68/85df6s5df/309
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL COCINA HD
+http://8amigg.top:80/aq68/85df6s5df/310
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL COCINA FHD
+http://8amigg.top:80/aq68/85df6s5df/311
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CAZA Y PESCA SD
+http://8amigg.top:80/aq68/85df6s5df/312
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CAZA Y PESCA HD
+http://8amigg.top:80/aq68/85df6s5df/313
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",IBERALIA HD
+http://8amigg.top:80/aq68/85df6s5df/314
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Horse TV SD
+http://8amigg.top:80/aq68/85df6s5df/315
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Horse TV HD
+http://8amigg.top:80/aq68/85df6s5df/316
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Horse TV FHD
+http://8amigg.top:80/aq68/85df6s5df/317
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TEN SD
+http://8amigg.top:80/aq68/85df6s5df/318
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DMAX
+http://8amigg.top:80/aq68/85df6s5df/319
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK
+http://8amigg.top:80/aq68/85df6s5df/320
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ VAMOS SD
+http://8amigg.top:80/aq68/85df6s5df/229
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ VAMOS HD
+http://8amigg.top:80/aq68/85df6s5df/230
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ VAMOS FHD
+http://8amigg.top:80/aq68/85df6s5df/231
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BARCA TV FHD
+http://8amigg.top:80/aq68/85df6s5df/232
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Real Madrid TV HD
+http://8amigg.top:80/aq68/85df6s5df/233
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",EUROSPORT 1 SD
+http://8amigg.top:80/aq68/85df6s5df/234
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",EUROSPORT 1 HD
+http://8amigg.top:80/aq68/85df6s5df/235
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",EUROSPORT 1 FHD
+http://8amigg.top:80/aq68/85df6s5df/236
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",EUROSPORT 2 SD
+http://8amigg.top:80/aq68/85df6s5df/237
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",EUROSPORT 2 HD
+http://8amigg.top:80/aq68/85df6s5df/238
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",EUROSPORT 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/239
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES SD
+http://8amigg.top:80/aq68/85df6s5df/240
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES HD
+http://8amigg.top:80/aq68/85df6s5df/241
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES FHD
+http://8amigg.top:80/aq68/85df6s5df/242
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 1 SD
+http://8amigg.top:80/aq68/85df6s5df/243
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 1 HD
+http://8amigg.top:80/aq68/85df6s5df/244
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 1 FHD
+http://8amigg.top:80/aq68/85df6s5df/245
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 2 SD
+http://8amigg.top:80/aq68/85df6s5df/246
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 2 HD
+http://8amigg.top:80/aq68/85df6s5df/247
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/248
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 3 SD
+http://8amigg.top:80/aq68/85df6s5df/249
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 3 HD
+http://8amigg.top:80/aq68/85df6s5df/250
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 3 FHD
+http://8amigg.top:80/aq68/85df6s5df/251
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 4 SD
+http://8amigg.top:80/aq68/85df6s5df/252
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 4 HD
+http://8amigg.top:80/aq68/85df6s5df/253
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 4 FHD Cable
+http://8amigg.top:80/aq68/85df6s5df/254
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 5 SD
+http://8amigg.top:80/aq68/85df6s5df/255
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 5 HD
+http://8amigg.top:80/aq68/85df6s5df/256
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 5 FHD Cable
+http://8amigg.top:80/aq68/85df6s5df/257
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 6 SD
+http://8amigg.top:80/aq68/85df6s5df/258
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 6 HD
+http://8amigg.top:80/aq68/85df6s5df/259
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+DEPORTES7
+http://8amigg.top:80/aq68/85df6s5df/371
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 7 HD
+http://8amigg.top:80/aq68/85df6s5df/372
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DEPORTES 7 FHD
+http://8amigg.top:80/aq68/85df6s5df/373
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",LA LIGA TV BAR HD
+http://8amigg.top:80/aq68/85df6s5df/266
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",LA LIGA TV BAR FHD
+http://8amigg.top:80/aq68/85df6s5df/199
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TELEDEPORTE SD
+http://8amigg.top:80/aq68/85df6s5df/263
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TELEDEPORTE HD
+http://8amigg.top:80/aq68/85df6s5df/264
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TELEDEPORTE FHD
+http://8amigg.top:80/aq68/85df6s5df/265
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES SD
+http://8amigg.top:80/aq68/85df6s5df/200
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES HD Option1
+http://8amigg.top:80/aq68/85df6s5df/201
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES FHD
+http://8amigg.top:80/aq68/85df6s5df/202
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 1 SD
+http://8amigg.top:80/aq68/85df6s5df/203
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 1 HD
+http://8amigg.top:80/aq68/85df6s5df/204
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 1 FHD
+http://8amigg.top:80/aq68/85df6s5df/205
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 2 SD
+http://8amigg.top:80/aq68/85df6s5df/206
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 2 HD
+http://8amigg.top:80/aq68/85df6s5df/207
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/208
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 3 SD
+http://8amigg.top:80/aq68/85df6s5df/209
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 3 HD
+http://8amigg.top:80/aq68/85df6s5df/210
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 3 FHD
+http://8amigg.top:80/aq68/85df6s5df/211
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 4 SD
+http://8amigg.top:80/aq68/85df6s5df/212
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 4 HD
+http://8amigg.top:80/aq68/85df6s5df/213
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 6 HD
+http://8amigg.top:80/aq68/85df6s5df/1503
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LIGA DE CAMPEONES 5 HD
+http://8amigg.top:80/aq68/85df6s5df/1502
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ELLAS
+http://8amigg.top:80/aq68/85df6s5df/1500
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NOVA FHD
+http://8amigg.top:80/aq68/85df6s5df/1501
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Mijas 3.40 TV HD
+http://8amigg.top:80/aq68/85df6s5df/370
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DREAMWORKS SD
+http://8amigg.top:80/aq68/85df6s5df/336
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DREAMWORKS HD
+http://8amigg.top:80/aq68/85df6s5df/337
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DREAMWORKS FHD
+http://8amigg.top:80/aq68/85df6s5df/338
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BOING HD
+http://8amigg.top:80/aq68/85df6s5df/358
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BABY TV SD
+http://8amigg.top:80/aq68/85df6s5df/359
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BABY TV HD
+http://8amigg.top:80/aq68/85df6s5df/360
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Pequeradio
+http://8amigg.top:80/aq68/85df6s5df/65
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 1 HD
+http://8amigg.top:80/aq68/85df6s5df/361
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 2 HD
+http://8amigg.top:80/aq68/85df6s5df/362
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 3 HD
+http://8amigg.top:80/aq68/85df6s5df/363
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 4 HD
+http://8amigg.top:80/aq68/85df6s5df/364
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 5 HD
+http://8amigg.top:80/aq68/85df6s5df/365
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 6 HD
+http://8amigg.top:80/aq68/85df6s5df/366
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 7 HD
+http://8amigg.top:80/aq68/85df6s5df/367
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 8 HD
+http://8amigg.top:80/aq68/85df6s5df/368
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ES: MOVISTAR+ ALQUILER 9 HD
+http://8amigg.top:80/aq68/85df6s5df/369
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DMAX HD
+http://8amigg.top:80/aq68/85df6s5df/1506
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK FHD
+http://8amigg.top:80/aq68/85df6s5df/1505
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",IBERALIA FHD
+http://8amigg.top:80/aq68/85df6s5df/1504
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CAZA y PESCA FHD
+http://8amigg.top:80/aq68/85df6s5df/374
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MTV SD
+http://8amigg.top:80/aq68/85df6s5df/327
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MTV HD
+http://8amigg.top:80/aq68/85df6s5df/328
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SOL MUSICA SD
+http://8amigg.top:80/aq68/85df6s5df/329
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SOL MUSICA HD
+http://8amigg.top:80/aq68/85df6s5df/330
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SOL MUSICA FHD
+http://8amigg.top:80/aq68/85df6s5df/331
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEZZO
+http://8amigg.top:80/aq68/85df6s5df/332
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NEGOCIOS SD
+http://8amigg.top:80/aq68/85df6s5df/333
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NEGOCIOS HD
+http://8amigg.top:80/aq68/85df6s5df/334
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEZZO LIVE HD
+http://8amigg.top:80/aq68/85df6s5df/335
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FEST SD
+http://8amigg.top:80/aq68/85df6s5df/322
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FEST HD
+http://8amigg.top:80/aq68/85df6s5df/323
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FEST FHD
+http://8amigg.top:80/aq68/85df6s5df/324
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DKISS SD
+http://8amigg.top:80/aq68/85df6s5df/321
+
 
 
 #EXTINF:-1,Test Channel 1
