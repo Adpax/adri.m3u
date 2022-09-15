@@ -134,8 +134,7 @@ http://KITF6Pvs2q8tCYV1aMxpZg.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtA
 http://lbkIhCraAw2T6dWtzVFNHi.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26713&t=live&f=ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)"  group-title="DEPORTES (FUTBOL)",M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)
 http://N3tnv9UiQ07SsTmk4GYZJ2.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26714&t=live&f=ts
-#EXTINF:-1 group-title="PELÍCULAS" ,EL SEÑOR DE LOS ANILLOS EL RETORNO DEL REY
-http://clubtv.link/2sep/token209/peliculas2.php?c=0trece/9.mp4
+
  
  #EXTINF:-1 group-title="PELÍCULAS" ,EL SEÑOR DE LOS ANILLOS EL RETORNO DEL REYw
 http://archive.org/download/0trece/9.mp4
@@ -745,6 +744,44 @@ http://127.0.0.1:6878/ace/getstream?id=df139bbcd7ae6825b46d5955c52d639f1215346a&
 #EXTINF:-1,ACESTREAM M. M. M. Smartbank 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccfa&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",ANIMALES FANTASTICOS Y DONDE ENCONTRARLOS
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa [www.newpct1.com]654848946487468498449489.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",EL LOBO DE WAL STREET
+http://www.9link.com.ar/multimedia/videos/2020-07-02/616215.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",ANIMAL CROSSING
+http://archive.org/download/0_20200422/1.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. AGUAS INVISIBLES
+http://archive.org/download/009_20200823/002.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. AGUAS TRANQUILAS
+http://archive.org/download/009_20200823/003.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. AGUAS TROPICALES
+http://archive.org/download/009_20200823/004.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. AGUILAS REINA DE LOS CIELOS
+http://archive.org/download/009_20200823/005.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. AFRICA SALVAJE
+http://archive.org/download/009_20200823/001.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. ALBANIA SALVAJE
+http://archive.org/download/009_20200823/007.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. ALASKA SALVAJE 
+http://archive.org/download/009_20200823/006.mp4
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="PELICULAS",DOC. LA MAYOR MIGRACION ANIMAL
+http://archive.org/download/049_20200824/047.mp4
 
 
 
