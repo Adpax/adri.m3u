@@ -3,32 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-chno="731" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/46
 
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="Movistar Acción" tvg-chno="732" tvg-logo="https://i.imgur.com/Pw0CuRg.png" group-title="España", Movistar Acción
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3576
+#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia" tvg-chno="732" tvg-logo="https://i.imgur.com/joJTeTI.png" group-title="España", Movistar Comedia
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3577
 
-#EXTINF:-1 tvg-id="MovistarFest.es" tvg-name="Movistar Fest" tvg-chno="732" tvg-logo="https://i.imgur.com/OyXaWAD.png" group-title="España", Movistar Fest
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3579
-
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="Movistar Drama" tvg-chno="732" tvg-logo="https://i.imgur.com/WL1ljQB.png" group-title="España", Movistar Drama
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3580
-
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-chno="732" tvg-logo="https://i.imgur.com/GEuJHee.png" group-title="España", Movistar Estrenos
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3581
-
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-chno="732" tvg-logo="https://i.imgur.com/JxtAhZW.png" group-title="España", Movistar Series
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3582
-
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional" tvg-chno="733" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="España", Atreseries Internacional
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/41
-
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-chno="784" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.svg.png" group-title="España", AXN White
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/48
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DAZN LaLigaHD"  group-title="SPANISH",DAZN LaLigaHD
 http://ndGmrCIBXNzvsDu5cK3EMQ.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=27160&t=live&f=ts
@@ -263,50 +242,47 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 http://127.0.0.1:6878/ace/getstream?id=ba248210b26507ce559562176509ea76c2839153&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,Dazn Liga 1080 MultiAudio
+#EXTINF:-1,ACESTREAM Dazn Liga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
  
  
  
-#EXTINF:-1,Dazn Liga 720 
+#EXTINF:-1,ACESTREAM Dazn Liga 720 
 http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,LaLiga Tv Bar 1080
+#EXTINF:-1,ACESTREAM LaLiga Tv Bar 1080
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,LaLiga Tv Bar 720
+#EXTINF:-1,ACESTREAM LaLiga Tv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,M. LaLiga 1080 MultiAudio
+#EXTINF:-1,ACESTREAM M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
-#EXTINF:-1,M. M. LaLiga 1080
+#EXTINF:-1,ACESTREAM M. M. LaLiga 1080
 http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
-#EXTINF:-1,M. M. M. LaLiga 720
+#EXTINF:-1,ACESTREAM M. M. M. LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=df139bbcd7ae6825b46d5955c52d639f1215346a&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,M. LaLiga 1 1080
+#EXTINF:-1,ACESTREAM M. LaLiga 1 1080
 http://127.0.0.1:6878/ace/getstream?id=df139bbcd7ae6825b46d5955c52d639f1215346a&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1,M. M. M. Smartbank 1080 MultiAudio
+#EXTINF:-1,ACESTREAM M. M. M. Smartbank 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccfa&hlc=1&transcode_audio=0
  &transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
-http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
 
 
