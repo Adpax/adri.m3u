@@ -1,7 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-ID="" tvg-name="USALAT | La Casa de Los Famosos (CAM 2)"  group-title="TV | USA LATINOS",USALAT | La Casa de Los Famosos (CAM 2)
-http://198.245.53.172:8970/live/4SZPQ359QQEZ/W24T85NR9CPT/205054.ts
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="2204.PPV: La casa de los famosos (CAM 1)" tvg-logo="https://i.imgur.com/Btq1FOJ.png" group-title="PPV (eventos)",2204.PPV: La casa de los famosos (CAM 1)
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7752.m3u8
+#EXTINF:-1 type="stream" tvg-id="" tvg-name="2205.PPV: La casa de los famosos (CAM 2)" tvg-logo="https://i.imgur.com/Btq1FOJ.png" group-title="PPV (eventos)",2205.PPV: La casa de los famosos (CAM 2)
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7753.m3u8
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Frmula 1)
 http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
