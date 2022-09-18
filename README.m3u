@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,Dazn F1:
+http://127.0.0.1:6878/ace/getstream?id=b13deca329dfd6b9a670faba1077b73f6ea7e188
+
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="RAKUTEN",Rakuten Comedy Movies | España
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
