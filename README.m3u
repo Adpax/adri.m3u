@@ -1,8 +1,254 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="2204.PPV: La casa de los famosos (CAM 1)" tvg-logo="https://i.imgur.com/Btq1FOJ.png" group-title="PPV (eventos)",2204.PPV: La casa de los famosos (CAM 1)
-http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7752.m3u8
-#EXTINF:-1 type="stream" tvg-id="" tvg-name="2205.PPV: La casa de los famosos (CAM 2)" tvg-logo="https://i.imgur.com/Btq1FOJ.png" group-title="PPV (eventos)",2205.PPV: La casa de los famosos (CAM 2)
-http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7753.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HOLLYWOOD FHD
+http://8amigg.top:80/aq68/85df6s5df/89
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS SD
+http://8amigg.top:80/aq68/85df6s5df/90
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M.ESTRENOS HD
+http://8amigg.top:80/aq68/85df6s5df/91
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS FHD
+http://8amigg.top:80/aq68/85df6s5df/92
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS 2 SD
+http://8amigg.top:80/aq68/85df6s5df/93
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M.ESTRENOS 2 HD
+http://8amigg.top:80/aq68/85df6s5df/94
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ESTRENOS 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/95
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ COMEDIA SD
+http://8amigg.top:80/aq68/85df6s5df/96
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M.COMEDIA HD
+http://8amigg.top:80/aq68/85df6s5df/97
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ COMEDIA FHD
+http://8amigg.top:80/aq68/85df6s5df/98
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COMEDY CENTRAL SD
+http://8amigg.top:80/aq68/85df6s5df/99
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COMEDY CENTRAL HD
+http://8amigg.top:80/aq68/85df6s5df/100
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COMEDY CENTRAL FHD
+http://8amigg.top:80/aq68/85df6s5df/101
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DRAMA SD
+http://8amigg.top:80/aq68/85df6s5df/102
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DRAMA HD
+http://8amigg.top:80/aq68/85df6s5df/103
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DRAMA FHD
+http://8amigg.top:80/aq68/85df6s5df/104
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ACCION SD
+http://8amigg.top:80/aq68/85df6s5df/105
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",C+ ACCION HD
+http://8amigg.top:80/aq68/85df6s5df/106
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ ACCION FHD
+http://8amigg.top:80/aq68/85df6s5df/107
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DCINE ESPANOL SD
+http://8amigg.top:80/aq68/85df6s5df/108
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ DCINE ESPANOL HD
+http://8amigg.top:80/aq68/85df6s5df/109
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ CINE ESPANOL FHD
+http://8amigg.top:80/aq68/85df6s5df/110
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",A3 SERIES SD
+http://8amigg.top:80/aq68/85df6s5df/111
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",A3 SERIES HD
+http://8amigg.top:80/aq68/85df6s5df/112
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES SD
+http://8amigg.top:80/aq68/85df6s5df/113
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES HD
+http://8amigg.top:80/aq68/85df6s5df/114
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES FHD
+http://8amigg.top:80/aq68/85df6s5df/115
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES 2 SD
+http://8amigg.top:80/aq68/85df6s5df/116
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES 2 HD
+http://8amigg.top:80/aq68/85df6s5df/117
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ SERIES 2 FHD
+http://8amigg.top:80/aq68/85df6s5df/118
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DARK SD
+http://8amigg.top:80/aq68/85df6s5df/119
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DARK HD
+http://8amigg.top:80/aq68/85df6s5df/120
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC SD
+http://8amigg.top:80/aq68/85df6s5df/121
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC HD
+http://8amigg.top:80/aq68/85df6s5df/122
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC FHD
+http://8amigg.top:80/aq68/85df6s5df/123
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK SD
+http://8amigg.top:80/aq68/85df6s5df/124
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK HD
+http://8amigg.top:80/aq68/85df6s5df/125
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC BREAK FHD
+http://8amigg.top:80/aq68/85df6s5df/126
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC CRIME SD
+http://8amigg.top:80/aq68/85df6s5df/127
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC CRIME HD
+http://8amigg.top:80/aq68/85df6s5df/128
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FOX SD
+http://8amigg.top:80/aq68/85df6s5df/129
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FOX HD
+http://8amigg.top:80/aq68/85df6s5df/130
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FOX FHD
+http://8amigg.top:80/aq68/85df6s5df/131
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CALLE 13 SD
+http://8amigg.top:80/aq68/85df6s5df/132
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CALLE 13 HD
+http://8amigg.top:80/aq68/85df6s5df/133
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CALLE 13 FHD
+http://8amigg.top:80/aq68/85df6s5df/134
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SUNDANCE SD
+http://8amigg.top:80/aq68/85df6s5df/135
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SUNDANCE HD
+http://8amigg.top:80/aq68/85df6s5df/136
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SUNDANCE FHD
+http://8amigg.top:80/aq68/85df6s5df/137
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN SD
+http://8amigg.top:80/aq68/85df6s5df/138
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN HD
+http://8amigg.top:80/aq68/85df6s5df/139
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN FHD
+http://8amigg.top:80/aq68/85df6s5df/140
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN WHITE SD
+http://8amigg.top:80/aq68/85df6s5df/141
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN WHITE HD
+http://8amigg.top:80/aq68/85df6s5df/142
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AXN WHITE FHD
+http://8amigg.top:80/aq68/85df6s5df/143
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TNT SD
+http://8amigg.top:80/aq68/85df6s5df/144
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TNT HD
+http://8amigg.top:80/aq68/85df6s5df/145
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TNT FHD
+http://8amigg.top:80/aq68/85df6s5df/146
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COSMOPOLITAN SD
+http://8amigg.top:80/aq68/85df6s5df/147
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COSMOPOLITAN HD
+http://8amigg.top:80/aq68/85df6s5df/148
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",COSMOPOLITAN FHD
+http://8amigg.top:80/aq68/85df6s5df/149
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SYFY SD
+http://8amigg.top:80/aq68/85df6s5df/150
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SYFY HD
+http://8amigg.top:80/aq68/85df6s5df/151
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SYFY FHD
+http://8amigg.top:80/aq68/85df6s5df/152
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TCM SD
+http://8amigg.top:80/aq68/85df6s5df/153
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TCM HD
+http://8amigg.top:80/aq68/85df6s5df/154
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",TCM FHD
+http://8amigg.top:80/aq68/85df6s5df/155
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ENERGY HD
+http://8amigg.top:80/aq68/85df6s5df/157
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FDF SD
+http://8amigg.top:80/aq68/85df6s5df/158
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",FDF HD
+http://8amigg.top:80/aq68/85df6s5df/159
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",XTRM SD
+http://8amigg.top:80/aq68/85df6s5df/160
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",XTRM HD
+http://8amigg.top:80/aq68/85df6s5df/161
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",XTRM FHD
+http://8amigg.top:80/aq68/85df6s5df/162
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",PARAMOUNT SD
+http://8amigg.top:80/aq68/85df6s5df/163
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",PARAMOUNT HD
+http://8amigg.top:80/aq68/85df6s5df/164
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NEOX SD
+http://8amigg.top:80/aq68/85df6s5df/165
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NEOX HD
+http://8amigg.top:80/aq68/85df6s5df/166
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DIVINITY SD
+http://8amigg.top:80/aq68/85df6s5df/167
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DIVINITY HD
+http://8amigg.top:80/aq68/85df6s5df/168
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NOVA SD
+http://8amigg.top:80/aq68/85df6s5df/169
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NOVA HD
+http://8amigg.top:80/aq68/85df6s5df/170
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ #0 SD
+http://8amigg.top:80/aq68/85df6s5df/171
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ #0 HD
+http://8amigg.top:80/aq68/85df6s5df/172
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ #0 FHD
+http://8amigg.top:80/aq68/85df6s5df/173
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",Aragon TV SD
+http://8amigg.top:80/aq68/85df6s5df/174
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",A&E SD
+http://8amigg.top:80/aq68/85df6s5df/175
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",LA RESISTENCIA SD
+http://8amigg.top:80/aq68/85df6s5df/176
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ RESISTENCIA HD
+http://8amigg.top:80/aq68/85df6s5df/177
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ LA RESISTENCIA FHD
+http://8amigg.top:80/aq68/85df6s5df/178
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ TRECE SD
+http://8amigg.top:80/aq68/85df6s5df/179
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ TRECE HD
+http://8amigg.top:80/aq68/85df6s5df/180
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+CLASICOS HD
+http://8amigg.top:80/aq68/85df6s5df/181
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NAUTICAL SD
+http://8amigg.top:80/aq68/85df6s5df/270
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NAUTICAL HD
+http://8amigg.top:80/aq68/85df6s5df/271
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",M+ NAUTICAL FHD
+http://8amigg.top:80/aq68/85df6s5df/272
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO SD
+http://8amigg.top:80/aq68/85df6s5df/273
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO HD
+http://8amigg.top:80/aq68/85df6s5df/274
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO FHD
+http://8amigg.top:80/aq68/85df6s5df/275
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CRIMEN+ INVESTIGACION SD
+http://8amigg.top:80/aq68/85df6s5df/276
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",AMC CRIMEN HD
+http://8amigg.top:80/aq68/85df6s5df/277
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CRIMEN+ INVESTIGACION FHD
+http://8amigg.top:80/aq68/85df6s5df/278
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SOMOS SD
+http://8amigg.top:80/aq68/85df6s5df/279
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SOMOS HD
+http://8amigg.top:80/aq68/85df6s5df/280
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",SOMOS FHD
+http://8amigg.top:80/aq68/85df6s5df/281
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL DE CASA SD
+http://8amigg.top:80/aq68/85df6s5df/285
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL DE CASA HD
+http://8amigg.top:80/aq68/85df6s5df/286
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",CANAL DE CASA FHD
+http://8amigg.top:80/aq68/85df6s5df/287
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DISCOVERY SD
+http://8amigg.top:80/aq68/85df6s5df/291
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DISCOVERY HD
+http://8amigg.top:80/aq68/85df6s5df/292
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",DISCOVERY FHD
+http://8amigg.top:80/aq68/85df6s5df/293
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO WILD SD
+http://8amigg.top:80/aq68/85df6s5df/294
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO WILD HD
+http://8amigg.top:80/aq68/85df6s5df/295
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",NAT GEO WILD FHD
+http://8amigg.top:80/aq68/85df6s5df/296
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BE MAD SD
+http://8amigg.top:80/aq68/85df6s5df/297
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BE MAD HD
+http://8amigg.top:80/aq68/85df6s5df/298
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",BE MAD FHD
+http://8amigg.top:80/aq68/85df6s5df/299
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEGA SD
+http://8amigg.top:80/aq68/85df6s5df/300
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEGA HD
+http://8amigg.top:80/aq68/85df6s5df/301
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",MEGA FHD
+http://8amigg.top:80/aq68/85df6s5df/302
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ODISEA SD
+http://8amigg.top:80/aq68/85df6s5df/303
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ODISEA HD
+http://8amigg.top:80/aq68/85df6s5df/304
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",ODISEA FHD
+http://8amigg.top:80/aq68/85df6s5df/305
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HISTORIA SD
+http://8amigg.top:80/aq68/85df6s5df/306
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HISTORIA HD
 
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 (Frmula 1)
 http://127.0.0.1:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
