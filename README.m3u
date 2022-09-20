@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",vamos FHD
+http://etc12.xyz:900/5700029950/8417526665/400220770
 
 
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",HOLLYWOOD FHD
