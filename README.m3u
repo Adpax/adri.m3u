@@ -1,8 +1,44 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas",Silent Hill: Revelation (2012)
+http://vod.tuxchannel.tv/peliculas/720/silent%20hill%20revelation.mkv
+
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",vamos FHD
 http://etc12.xyz:900/5700029950/8417526665/400220770
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="MOVISTAR CINE, SERIES",vamos 2 FHD
 http://kmkus.wanicelife.com:8880/6mk040025/34633675/29313
+
+#
+#EXTINF:0 tvg-id="" group-title="",M.ACCION HEVC [100]
+https://list.iptvcat.com/my_list/s/14b5842e38cfb094ff8f57c5e6830d5e.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.ACCION HEVC [96]
+https://list.iptvcat.com/my_list/s/180cf81271e937f1057ae5c9c22956ce.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.COMEDIA HEVC [100]
+https://list.iptvcat.com/my_list/s/c03d70392dbbd7e69337d4ddb75754e3.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.COMEDIA HEVC [100]
+https://list.iptvcat.com/my_list/s/20f8cf14b783f10d51431aa3994b4ac7.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.DEPORTES HEVC [86][offline]
+https://list.iptvcat.com/my_list/s/adf0680b0c7afa877b75b4a18757901e.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.DEPORTES HEVC [100]
+https://list.iptvcat.com/my_list/s/40b998abef0098ae7db66ca4d4da5dc6.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.DRAMA HEVC [100]
+https://list.iptvcat.com/my_list/s/b355c1c55e99cd5f5ac5fd05092742a2.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.DRAMA HEVC [100]
+https://list.iptvcat.com/my_list/s/26470dda97b23c3c6f88a9e83e71bf92.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.ESTRENOS HEVC [95]
+https://list.iptvcat.com/my_list/s/de8d45e0c66530d86412aab2afc1154a.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.ESTRENOS HEVC [96]
+https://list.iptvcat.com/my_list/s/5bef5e2e279bfd0a3d3a1484881736e5.m3u8
+#EXTINF:0 tvg-id="" group-title="Sport",M.EUROSPORT HEVC [100]
+https://list.iptvcat.com/my_list/s/d38efe0f2ff849f4aace07b5147d6040.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.LALIGA 1 HEVC [100]
+https://list.iptvcat.com/my_list/s/25fe3f6904693309f5428b58fdf6445e.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.LALIGA TV HEVC [100]
+https://list.iptvcat.com/my_list/s/3c9810fc1760dc4d06cbf19edb87853c.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.LIGA DE CAMPEONES HEVC [95]
+https://list.iptvcat.com/my_list/s/0f41f935d2acef0bce05cfa1498b226e.m3u8
+#EXTINF:0 tvg-id="" group-title="",M.LIGA DE CAMPEONES HEVC [100]
+https://list.iptvcat.com/my_list/s/90b47650a3a9d3137be7630a9f8452fa.m3u8
+
 
 #
 
