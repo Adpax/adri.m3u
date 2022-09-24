@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/78/09/18647167.jpg" group-title="Peliculas Viejas",Superman Regresa (2006)
+http://vod.tuxchannel.tv/peliculas/720/superman%20regresa.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas",Silent Hill: Revelation (2012)
 http://vod.tuxchannel.tv/peliculas/720/silent%20hill%20revelation.mkv
 
