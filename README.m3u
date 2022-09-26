@@ -1,110 +1,110 @@
 #EXTM3U 
 
 
-#EXTINF:-1,ES: Discovery Channel
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Discovery Channel
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4484
-#EXTINF:-1,ES: Discovery Channel HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Discovery Channel HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4485
-#EXTINF:-1,ES: Historia HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Historia HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4486
-#EXTINF:-1,ES: Nat Geo Wild
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Nat Geo Wild
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4487
-#EXTINF:-1,ES: Nat Geo Wild HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Nat Geo Wild HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4488
-#EXTINF:-1,ES: National Geographic
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: National Geographic
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4489
-#EXTINF:-1,ES: National Geographic HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: National Geographic HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4490
 
-#EXTINF:-1,ES: MTV España
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: MTV España
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4470
 
 
 
-#EXTINF:-1,ES: DAZN 1 FHD
+#EXTINF:-1, group-title="DEPORTES (FUTBOL)",ES: DAZN 1 FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4479
-#EXTINF:-1,ES: DAZN 2 FHD
+#EXTINF:-1 , group-title="DEPORTES (FUTBOL)",ES: DAZN 2 FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4500
-#EXTINF:-1,ES: DAZN 3 FHD
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: DAZN 3 FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4503
-#EXTINF:-1,ES: MOVISTAR Vamos HD
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: MOVISTAR Vamos HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15222
 #EXTINF:-1,ES: La Liga BAR
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15220
 
-#EXTINF:-1,ES: Movistar Accion
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Accion
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4441
-#EXTINF:-1,ES: Movistar Accion HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Accion HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4442
-#EXTINF:-1,ES: Movistar Accion FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Accion FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4443
-#EXTINF:-1,ES: Movistar Cine
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Cine
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4444
-#EXTINF:-1,ES: Movistar Cine Español FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Cine Español FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4445
-#EXTINF:-1,ES: Movistar Accion FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Accion FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4447
-#EXTINF:-1,ES: Movistar CineDoc&Roll
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar CineDoc&Roll
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4446
-#EXTINF:-1,ES: Movistar CineDoc&Roll FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar CineDoc&Roll FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4448
-#EXTINF:-1,ES: Movistar Comedia
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Comedia
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4449
-#EXTINF:-1,ES: Movistar Comedia HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Comedia HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4450
-#EXTINF:-1,ES: Movistar Comedia FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Comedia FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4451
-#EXTINF:-1,ES: Movistar Drama FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Drama FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4454
-#EXTINF:-1,ES: Movistar Estrenos
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Estrenos
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4455
-#EXTINF:-1,ES: Movistar Estrenos HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Estrenos HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4456
-#EXTINF:-1,ES: Movistar Estrenos FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Estrenos FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4457
-#EXTINF:-1,ES: Movistar Series
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Series
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4458
-#EXTINF:-1,ES: Movistar Series HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Series HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4459
-#EXTINF:-1,ES: Movistar Series hevc
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Series hevc
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4460
-#EXTINF:-1,ES: Movistar Seriesmania
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Seriesmania
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4461
-#EXTINF:-1,ES: Movistar Seriesmania HD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Seriesmania HD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4462
-#EXTINF:-1,ES: Movistar Seriesmania FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Seriesmania FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4463
-#EXTINF:-1,ES: Movistar Disney+
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Disney+
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4464
-#EXTINF:-1,ES: Movistar Estrenos FHD
+#EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Movistar Estrenos FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15205
-#EXTINF:-1,ES: MOVISTAR DEPORTE 1
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: MOVISTAR DEPORTE 1
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15223
-#EXTINF:-1,ES: MOVISTAR DEPORTES 1 FHD
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: MOVISTAR DEPORTES 1 FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15206
-#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: MOVISTAR DEPORTE 2
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15224
-#EXTINF:-1,ES: Movistar Liga Campeones FHD
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: Movistar Liga Campeones FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15225
-#EXTINF:-1,ES: MOVISTAR LaLiga 1 FHD
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: MOVISTAR LaLiga 1 FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15256
-#EXTINF:-1,ES: MOVISTAR F1 FHD
+#EXTINF:-1,group-title="DEPORTES (FUTBOL)",ES: MOVISTAR F1 FHD
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/15257
 
 
-#EXTINF:-1,imperio del fuego
+#EXTINF:-1,group-title="Peliculas",imperio del fuego
 https://ia601405.us.archive.org/19/items/fuego_20220926/Fuego.mkv
 
-#EXTINF:-1,puertas
+#EXTINF:-1,group-title="Peliculas" puertas
 https://archive.org/download/puertas_202209/Puertas.mkv
-#EXTINF:-1,cuentos
+#EXTINF:-1,group-title="Peliculas",cuentos
 https://ia601507.us.archive.org/8/items/cuentos_202209/Cuentos.avi
-#EXTINF:-1,black phone
+#EXTINF:-1,group-title="Peliculas" black phone
 https://ia601406.us.archive.org/6/items/comunion-2.mkv/Comunion2.mkv.mp4
 
-#EXTINF:-1,silent nigth
+#EXTINF:-1,group-title="Peliculas" silent nigth
 https://archive.org/download/comunion.mkv/Comunio%CC%81n.mkv.mkv
-#EXTINF:-1,playa de tiburones
+#EXTINF:-1,group-title="Peliculas"playa de tiburones
 http://vod.tuxchannel.tv:80/peliculas/720/shark%20beach%20with%20chris%20hemsworth%202021.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas",Silent Hill: Revelation (2012)
 http://vod.tuxchannel.tv/peliculas/720/silent%20hill%20revelation.mkv
@@ -262,7 +262,7 @@ http://lbkIhCraAw2T6dWtzVFNHi.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtA
 http://N3tnv9UiQ07SsTmk4GYZJ2.green.onerunthisway.me/live/sun.php?z=997&u=ovYJtAIrSI&s=4888060688&id=26714&t=live&f=ts
 
  
- #EXTINF:-1 group-title="PELICULAS" ,EL SEÑOR DE LOS ANILLOS EL RETORNO DEL REYw
+ #EXTINF:-1 group-title="Peliculas" ,EL SEÑOR DE LOS ANILLOS EL RETORNO DEL REYw
 http://archive.org/download/0trece/9.mp4
 
 https://drive.google.com/file/d/1qvG3JlVR_qXzQ6GYKb2FbxD9RsT4SC_t/view?usp=sharing
