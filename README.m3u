@@ -1,5 +1,8 @@
 #EXTM3U 
-
+#EXTINF:-1,group-title="Peliculas", tren bala HD
+https://archive.org/download/el-tren/el%20tren.mkv
+#EXTINF:-1,group-title="Peliculas", tren bala 
+https://archive.org/download/trenviaje/Bullet%20Train%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.nucleohd.com%5D.avi
 
 #EXTINF:-1,group-title="MOVISTAR CINE, SERIES",ES: Discovery Channel
 
