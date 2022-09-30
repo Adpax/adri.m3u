@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1,group-title="Peliculas", tren bala HD ku
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas",tren bala
 https://archive.org/download/el-tren/el%20tren.mkv
-#EXTINF:-1,group-title="Peliculas", tren bala 
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas", tren bala 2
 https://archive.org/download/trenviaje/Bullet%20Train%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.nucleohd.com%5D.avi
 
 
