@@ -1,4 +1,7 @@
 #EXTM3U 
+#EXTINF:-1,group-title="lista externa",externa
+https://raw.githubusercontent.com/dikerixxl/channel/05dee4dfa2633f9c75773ea6e3179704e64ff725/CineSeries.m3u
+
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas",tren bala
 https://archive.org/download/el-tren/el%20tren.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas", tren bala 2
