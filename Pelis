@@ -1,4 +1,4 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTM3U 
 #EXTINF:-1 group-title="VOD ESPAÑOL 02" tvg-id="simpleTVFakeEpgId",3... A la cama! (2018)
 http://570981845824146880.ofk0601.xyz:80/movie/fe1027493/mcXTky6VNmr/146880.mp4
 #EXTINF:-1 group-title="VOD ESPAÑOL 02" tvg-id="simpleTVFakeEpgId",4/20 Masacre (2018)
